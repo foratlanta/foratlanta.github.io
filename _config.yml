@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 
 permalink: /:categories/:title.html
-baseurl: /foratlanta
+baseurl: /performance
