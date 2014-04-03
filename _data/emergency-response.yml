@@ -1,0 +1,32 @@
+- group-title: Emergency Response
+  group-description: Fire and EMS Events and Response Times
+  charts:
+    - title: Fire Department
+      description: Total number of events and response time (in seconds)
+      note:
+      datasource: emergency_response_fire
+      size: half
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Number of Events
+      series2-metric: Result
+      series2-type: spline
+      series2-format: time
+      series2-label: Average Turnout Time
+
+    - title: Emergency Medical Service
+      description: Total number of events and response time (in seconds)
+      note:
+      datasource: emergency_response_ems
+      size: half
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Number of Events
+      series2-metric: Result
+      series2-type: spline
+      series2-format: time
+      series2-label: Average Turnout Time

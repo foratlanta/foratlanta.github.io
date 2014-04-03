@@ -1,0 +1,88 @@
+- group-title: Crime Rates
+  group-description: The mission of the Atlanta Police Department (APD) is to reduce crime and promote quality of life, in partnership with the community. Having adequate police resources available is a major component of the Department’s philosophy.
+  charts:
+    - title: Change in Crime Rates
+      description: The City of Atlanta is split into 6 zones. This charts shows the year over year percentage change in crime for each zone, along with the overall change for the entire city.
+      note: These are year over year changes for each zone.
+      size: full
+      department: APD
+      datasource: ps_crime_rates
+      series-grouping: true
+      series1-metric: Result
+      series1-type: column
+      series1-format: number
+      series1-label: Percentage Change
+
+- group-title: Police Department Performance
+  group-description:
+  charts:
+    - title: New Police Officer Hires
+      description:
+      note:
+      size: half
+      datasource: ps_new_officer_hires
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: New Hires
+
+    - title: Homicides
+      description:
+      note:
+      size: half
+      department: APD
+      datasource: ps_homicides
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Number of Homicides
+
+    - title: Clearance Rates
+      description: Percentage of reported crimes where police have charged a suspect.
+      note: Clearance rate is calculated by dividing the number of crimes that are "cleared" (a charge being laid on an offender) by the total number of crimes reported.
+      size: full
+      department: APD
+      datasource: ps_ytd_clearance_rate
+      series-grouping: false
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage
+
+- group-title: Department of Corrections
+  group-description: The City&rsquo;s Department of Corrections (DOC) is charged with protecting the public by providing a safe and secure correctional environment and enhancing the public safety through partnerships with the community and law enforcement.
+  charts:
+    - title: Average Daily Jail Population
+      description:
+      note:
+      size: third
+      datasource: ps_jail_population
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Jail Population
+
+    - title: Median Booking Time
+      description:
+      note:
+      size: third
+      datasource: ps_median_booking_time
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: time
+      series1-label: Average Booking Time (in minutes)
+
+    - title: Jail Recidivism Rate
+      description:
+      note:
+      size: third
+      datasource: ps_recidivists
+      series-grouping: false
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Recidivism Percentage

@@ -1,0 +1,33 @@
+<div class="report-chart {{ chart.size }}">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h5 class="panel-title">{{ chart.title }}</h5>
+    </div>
+    <div class="panel-body">
+    {% capture chartId %}{{ chart.datasource | handleize }}_{{ chart.title | downcase | replace:' ','_' }}{% endcapture %}
+      <div class="report-chart-container" id="{{ chartId }}" data-source="{{ chart.datasource }}" data-dept="{{ chart.department }}" data-series-grouping="{{ chart.series-grouping }}"></div>
+        <script type="text/javascript">
+            chartOptions.push({
+                'id':'{{ chartId }}',
+                'axis':[{
+                    'metric':'{{ chart.series1-metric }}',
+                    'type':'{{ chart.series1-type }}',
+                    'format':'{{ chart.series1-format}}',
+                    'label':'{{ chart.series1-label}}'
+                },{
+                    {% if chart.series2-metric %}
+                    'metric':'{{ chart.series2-metric }}',
+                    'type':'{{ chart.series2-type }}',
+                    'format':'{{ chart.series2-format}}',
+                    'label':'{{ chart.series2-label}}'
+                    {% endif %}
+                }]
+            });
+        </script>
+    </div>
+    <div class="panel-footer">
+      {% if chart.description %}<p class="report-chart-description">{{ chart.description }}</p>{% endif %}
+      {% if chart.note %}<p class="report-chart-note">{{ chart.note}}</p>{% endif %}
+    </div>
+  </div>
+</div>

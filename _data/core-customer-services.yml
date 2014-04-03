@@ -1,0 +1,99 @@
+- group-title: Code Enforcement
+  group-description: How quickly the City inspects complaints related to the minimum standards of base equipment and facilities, light, ventilation, heating, and safe and sanitary dwellings.
+  charts:
+    - title: Request Volume
+      description:
+      note:
+      datasource: cs_code
+      size: half
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Requests Received
+
+    - title: Percentage Completed
+      description:
+      note:
+      datasource: cs_code
+      size: half
+      series-grouping: true
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage Completed
+
+- group-title: Department of Planning and Community Development
+  group-description: How quickly the City reviews and confirms the zoning rules governing a specific property or parcel when requested by a constituent and inspects sites that have received a permit.
+  charts:
+    - title: Request Volume
+      description:
+      note:
+      datasource: cs_dpcd
+      size: half
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Requests Received
+
+    - title: Percentage Completed
+      description:
+      note:
+      datasource: cs_dpcd
+      size: half
+      series-grouping: true
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage Completed
+
+- group-title: Department of Public Works
+  group-description: How quickly the City collects bins and repairs traffic signals.
+  charts:
+    - title: Request Volume
+      description:
+      note:
+      datasource: cs_dpw
+      size: half
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Requests Received
+
+    - title: Percentage Completed
+      description:
+      note:
+      datasource: cs_dpw
+      size: half
+      series-grouping: true
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage Completed
+
+- group-title: Department of Water Management
+  group-description: How quickly the City responds to change in occupancy statuses.
+  charts:
+    - title: Request Volume
+      description:
+      note:
+      datasource: cs_dwm
+      size: half
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Requests Received
+
+    - title: Percentage Completed
+      description:
+      note:
+      datasource: cs_dwm
+      size: half
+      series-grouping: true
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage Completed

@@ -1,0 +1,415 @@
+Department,Chart,Metric,Date,Volume,Result
+APD,ps_crime_rates,Zone 1,06/10/13,,-0.14
+APD,ps_crime_rates,Zone 1,07/10/13,,-0.14
+APD,ps_crime_rates,Zone 1,08/10/13,,-0.17
+APD,ps_crime_rates,Zone 1,09/10/13,,-0.17
+APD,ps_crime_rates,Zone 1,10/10/13,,-0.16
+APD,ps_crime_rates,Zone 1,11/10/13,,-0.16
+APD,ps_crime_rates,Zone 2,06/10/13,,-0.04
+APD,ps_crime_rates,Zone 2,07/10/13,,-0.03
+APD,ps_crime_rates,Zone 2,08/10/13,,-0.05
+APD,ps_crime_rates,Zone 2,09/10/13,,-0.03
+APD,ps_crime_rates,Zone 2,10/10/13,,-0.03
+APD,ps_crime_rates,Zone 2,11/10/13,,-0.05
+APD,ps_crime_rates,Zone 3,06/10/13,,-0.07
+APD,ps_crime_rates,Zone 3,07/10/13,,-0.05
+APD,ps_crime_rates,Zone 3,08/10/13,,-0.07
+APD,ps_crime_rates,Zone 3,09/10/13,,-0.06
+APD,ps_crime_rates,Zone 3,10/10/13,,-0.07
+APD,ps_crime_rates,Zone 3,11/10/13,,-0.07
+APD,ps_crime_rates,Zone 4,06/10/13,,0.01
+APD,ps_crime_rates,Zone 4,07/10/13,,-0
+APD,ps_crime_rates,Zone 4,08/10/13,,-0.01
+APD,ps_crime_rates,Zone 4,09/10/13,,0.01
+APD,ps_crime_rates,Zone 4,10/10/13,,-0
+APD,ps_crime_rates,Zone 4,11/10/13,,-0.02
+APD,ps_crime_rates,Zone 5,06/10/13,,0.02
+APD,ps_crime_rates,Zone 5,07/10/13,,0.03
+APD,ps_crime_rates,Zone 5,08/10/13,,0.05
+APD,ps_crime_rates,Zone 5,09/10/13,,0.07
+APD,ps_crime_rates,Zone 5,10/10/13,,0.06
+APD,ps_crime_rates,Zone 5,11/10/13,,0.07
+APD,ps_crime_rates,Zone 6,06/10/13,,0.08
+APD,ps_crime_rates,Zone 6,07/10/13,,0.06
+APD,ps_crime_rates,Zone 6,08/10/13,,0.04
+APD,ps_crime_rates,Zone 6,09/10/13,,0.02
+APD,ps_crime_rates,Zone 6,10/10/13,,0.01
+APD,ps_crime_rates,Zone 6,11/10/13,,0.01
+APD,ps_crime_rates,Overall,01/10/13,,0.06
+APD,ps_crime_rates,Overall,02/10/13,,0.06
+APD,ps_crime_rates,Overall,03/10/13,,0.01
+APD,ps_crime_rates,Overall,04/10/13,,-0.01
+APD,ps_crime_rates,Overall,05/10/13,,-0.03
+APD,ps_crime_rates,Overall,06/10/13,,-0.03
+APD,ps_crime_rates,Overall,07/10/13,,-0.02
+APD,ps_crime_rates,Overall,08/10/13,,-0.04
+APD,ps_crime_rates,Overall,09/10/13,,-0.03
+APD,ps_crime_rates,Overall,10/10/13,,-0.03
+APD,ps_crime_rates,Overall,11/10/13,,-0.04
+APD,ps_homicides,Homicides,01/10/13,7,0
+APD,ps_homicides,Homicides,02/10/13,7,0
+APD,ps_homicides,Homicides,03/10/13,3,0
+APD,ps_homicides,Homicides,04/10/13,6,0
+APD,ps_homicides,Homicides,05/10/13,5,0
+APD,ps_homicides,Homicides,06/10/13,8,0
+APD,ps_homicides,Homicides,07/10/13,8,0
+APD,ps_homicides,Homicides,08/10/13,9,0
+APD,ps_homicides,Homicides,09/10/13,6,0
+APD,ps_homicides,Homicides,10/10/13,8,0
+APD,ps_homicides,Homicides,11/10/13,10,0
+APD,ps_homicides,Homicides,12/10/13,10,0
+APD,ps_new_officer_hires,New Hires,04/10/13,12,0
+APD,ps_new_officer_hires,New Hires,05/10/13,21,0
+APD,ps_new_officer_hires,New Hires,06/10/13,15,0
+APD,ps_new_officer_hires,New Hires,07/10/13,23,0
+APD,ps_new_officer_hires,New Hires,08/10/13,20,0
+APD,ps_new_officer_hires,New Hires,09/10/13,19,0
+APD,ps_new_officer_hires,New Hires,10/10/13,25,0
+APD,ps_new_officer_hires,New Hires,11/10/13,9,0
+APD,ps_new_officer_hires,New Hires,12/10/13,8,0
+APD,ps_ytd_clearance_rate,Aggravated Assault,01/1/2013,,0.62
+APD,ps_ytd_clearance_rate,Aggravated Assault,02/1/2013,,0.68
+APD,ps_ytd_clearance_rate,Aggravated Assault,03/1/2013,,0.68
+APD,ps_ytd_clearance_rate,Aggravated Assault,04/1/2013,,0.67
+APD,ps_ytd_clearance_rate,Aggravated Assault,05/1/2013,,0.67
+APD,ps_ytd_clearance_rate,Aggravated Assault,06/1/2013,,0.66
+APD,ps_ytd_clearance_rate,Aggravated Assault,07/1/2013,,0.64
+APD,ps_ytd_clearance_rate,Aggravated Assault,08/1/2013,,0.63
+APD,ps_ytd_clearance_rate,Aggravated Assault,09/1/2013,,0.62
+APD,ps_ytd_clearance_rate,Aggravated Assault,10/1/2013,,0.6
+APD,ps_ytd_clearance_rate,Aggravated Assault,11/1/2013,,0.61
+APD,ps_ytd_clearance_rate,Homicide,01/1/2013,,0.86
+APD,ps_ytd_clearance_rate,Homicide,02/1/2013,,0.93
+APD,ps_ytd_clearance_rate,Homicide,03/1/2013,,0.88
+APD,ps_ytd_clearance_rate,Homicide,04/1/2013,,0.87
+APD,ps_ytd_clearance_rate,Homicide,05/1/2013,,0.82
+APD,ps_ytd_clearance_rate,Homicide,06/1/2013,,0.83
+APD,ps_ytd_clearance_rate,Homicide,07/1/2013,,0.8
+APD,ps_ytd_clearance_rate,Homicide,08/1/2013,,0.79
+APD,ps_ytd_clearance_rate,Homicide,09/1/2013,,0.78
+APD,ps_ytd_clearance_rate,Homicide,10/1/2013,,0.75
+APD,ps_ytd_clearance_rate,Homicide,11/1/2013,,0.76
+APD,ps_ytd_clearance_rate,Rape,01/1/2013,,0.67
+APD,ps_ytd_clearance_rate,Rape,02/1/2013,,1.14
+APD,ps_ytd_clearance_rate,Rape,03/1/2013,,1
+APD,ps_ytd_clearance_rate,Rape,04/1/2013,,1.05
+APD,ps_ytd_clearance_rate,Rape,05/1/2013,,0.84
+APD,ps_ytd_clearance_rate,Rape,06/1/2013,,0.69
+APD,ps_ytd_clearance_rate,Rape,07/1/2013,,0.72
+APD,ps_ytd_clearance_rate,Rape,08/1/2013,,0.66
+APD,ps_ytd_clearance_rate,Rape,09/1/2013,,0.7
+APD,ps_ytd_clearance_rate,Rape,10/1/2013,,0.66
+APD,ps_ytd_clearance_rate,Rape,11/1/2013,,0.66
+APD,ps_ytd_clearance_rate,Robbery,01/1/2013,,0.2
+APD,ps_ytd_clearance_rate,Robbery,02/1/2013,,0.23
+APD,ps_ytd_clearance_rate,Robbery,03/1/2013,,0.25
+APD,ps_ytd_clearance_rate,Robbery,04/1/2013,,0.24
+APD,ps_ytd_clearance_rate,Robbery,05/1/2013,,0.22
+APD,ps_ytd_clearance_rate,Robbery,06/1/2013,,0.22
+APD,ps_ytd_clearance_rate,Robbery,07/1/2013,,0.21
+APD,ps_ytd_clearance_rate,Robbery,08/1/2013,,0.21
+APD,ps_ytd_clearance_rate,Robbery,09/1/2013,,0.21
+APD,ps_ytd_clearance_rate,Robbery,10/1/2013,,0.21
+APD,ps_ytd_clearance_rate,Robbery,11/1/2013,,0.21
+DOC,ps_jail_population,Atlanta,01/10/13,406,
+DOC,ps_jail_population,Atlanta,02/10/13,421,
+DOC,ps_jail_population,Atlanta,03/10/13,425,
+DOC,ps_jail_population,Atlanta,04/10/13,476,
+DOC,ps_jail_population,Atlanta,05/10/13,584,
+DOC,ps_jail_population,Atlanta,06/10/13,615,
+DOC,ps_jail_population,Atlanta,07/10/13,624,
+DOC,ps_jail_population,Atlanta,08/10/13,592,
+DOC,ps_jail_population,Atlanta,09/10/13,659,
+DOC,ps_jail_population,Atlanta,10/10/13,654,
+DOC,ps_jail_population,Atlanta,11/10/13,672,
+DOC,ps_jail_population,Atlanta,12/10/13,555,
+DOC,ps_jail_population,Non-Atlanta,09/10/13,158,
+DOC,ps_jail_population,Non-Atlanta,10/10/13,186,
+DOC,ps_jail_population,Non-Atlanta,11/10/13,212,
+DOC,ps_jail_population,Non-Atlanta,12/10/13,127,
+DOC,ps_median_booking_time,Atlanta,01/10/13,110,
+DOC,ps_median_booking_time,Atlanta,02/10/13,138,
+DOC,ps_median_booking_time,Atlanta,03/10/13,116,
+DOC,ps_median_booking_time,Atlanta,04/10/13,114,
+DOC,ps_median_booking_time,Atlanta,05/10/13,115,
+DOC,ps_median_booking_time,Atlanta,06/10/13,122,
+DOC,ps_median_booking_time,Atlanta,07/10/13,136,
+DOC,ps_median_booking_time,Atlanta,08/10/13,122,
+DOC,ps_median_booking_time,Atlanta,09/10/13,122,
+DOC,ps_median_booking_time,Atlanta,10/10/13,112,
+DOC,ps_median_booking_time,Atlanta,11/10/13,-0,
+DOC,ps_median_booking_time,Atlanta,12/10/13,88.5,
+DOC,ps_median_booking_time,Non-Atlanta,09/10/13,,
+DOC,ps_median_booking_time,Non-Atlanta,10/10/13,,
+DOC,ps_median_booking_time,Non-Atlanta,11/10/13,,
+DOC,ps_median_booking_time,Non-Atlanta,12/10/13,,
+DOC,ps_recidivists,Recidivists,07/10/13,,0.61
+DOC,ps_recidivists,Recidivists,08/10/13,,0.6
+DOC,ps_recidivists,Recidivists,09/10/13,,0.59
+DOC,ps_recidivists,Recidivists,10/10/13,,0.57
+DOC,ps_recidivists,Recidivists,11/10/13,,0.56
+DOC,ps_recidivists,Recidivists,12/10/13,,0.58
+CODE,cs_departmental_service_requests,Percentage Completed,03/10/13,2452,0.2
+CODE,cs_departmental_service_requests,Percentage Completed,04/10/13,2237,0.17
+CODE,cs_departmental_service_requests,Percentage Completed,05/10/13,1618,0.23
+CODE,cs_departmental_service_requests,Percentage Completed,06/10/13,2263,0.31
+CODE,cs_departmental_service_requests,Percentage Completed,07/10/13,3146,0.43
+CODE,cs_departmental_service_requests,Percentage Completed,08/10/13,3063,0.64
+CODE,cs_departmental_service_requests,Percentage Completed,09/10/13,2844,0.59
+CODE,cs_departmental_service_requests,Percentage Completed,10/10/13,2419,0.59
+CODE,cs_departmental_service_requests,Percentage Completed,11/10/13,2127,0.52
+CODE,cs_departmental_service_requests,Percentage Completed,12/10/13,1738,0.51
+CODE,cs_hazardous_vacant,Hazardous or Vacant,02/10/13,0,0.09
+CODE,cs_hazardous_vacant,Hazardous or Vacant,03/10/13,749,0.08
+CODE,cs_hazardous_vacant,Hazardous or Vacant,04/10/13,721,0.06
+CODE,cs_hazardous_vacant,Hazardous or Vacant,05/10/13,477,0.15
+CODE,cs_hazardous_vacant,Hazardous or Vacant,06/10/13,625,0.12
+CODE,cs_hazardous_vacant,Hazardous or Vacant,07/10/13,873,0.25
+CODE,cs_hazardous_vacant,Hazardous or Vacant,08/10/13,718,0.31
+CODE,cs_hazardous_vacant,Hazardous or Vacant,09/10/13,645,0.28
+CODE,cs_hazardous_vacant,Hazardous or Vacant,10/10/13,502,0.31
+CODE,cs_hazardous_vacant,Hazardous or Vacant,11/10/13,460,0.25
+CODE,cs_hazardous_vacant,Hazardous or Vacant,12/10/13,356,0.24
+CODE,cs_general_inspection,Inspection,02/10/13,0,0.16
+CODE,cs_general_inspection,Inspection,03/10/13,1546,0.21
+CODE,cs_general_inspection,Inspection,04/10/13,1357,0.18
+CODE,cs_general_inspection,Inspection,05/10/13,1059,0.22
+CODE,cs_general_inspection,Inspection,06/10/13,1524,0.34
+CODE,cs_general_inspection,Inspection,07/10/13,2151,0.48
+CODE,cs_general_inspection,Inspection,08/10/13,2102,0.71
+CODE,cs_general_inspection,Inspection,09/10/13,2020,0.65
+CODE,cs_general_inspection,Inspection,10/10/13,1768,0.64
+CODE,cs_general_inspection,Inspection,11/10/13,1579,0.57
+CODE,cs_general_inspection,Inspection,12/10/13,1287,0.55
+COURT,municipal_courts_criminal,Criminal,05/10/13,4327,0
+COURT,municipal_courts_criminal,Criminal,06/10/13,3861,0.3
+COURT,municipal_courts_criminal,Criminal,07/10/13,3445,0.34
+COURT,municipal_courts_criminal,Criminal,08/10/13,2119,0.5
+COURT,municipal_courts_criminal,Criminal,09/10/13,1940,0.48
+COURT,municipal_courts_criminal,Criminal,10/10/13,1878,0.5
+COURT,municipal_courts_criminal,Criminal,11/10/13,1565,0.5
+COURT,municipal_courts_criminal,Criminal,12/10/13,1475,0
+COURT,municipal_courts_traffic,Traffic,05/10/13,12370,0
+COURT,municipal_courts_traffic,Traffic,06/10/13,13416,0.1
+COURT,municipal_courts_traffic,Traffic,07/10/13,14918,0.1
+COURT,municipal_courts_traffic,Traffic,08/10/13,12770,0.11
+COURT,municipal_courts_traffic,Traffic,09/10/13,16064,0.11
+COURT,municipal_courts_traffic,Traffic,10/10/13,14265,0.11
+COURT,municipal_courts_traffic,Traffic,11/10/13,10745,0.11
+COURT,municipal_courts_traffic,Traffic,12/10/13,11557,0
+AFR,emergency_response_ems,EMS,01/10/13,4209,0
+AFR,emergency_response_ems,EMS,02/10/13,3626,0
+AFR,emergency_response_ems,EMS,03/10/13,3957,0
+AFR,emergency_response_ems,EMS,04/10/13,3938,91
+AFR,emergency_response_ems,EMS,05/10/13,3919,75
+AFR,emergency_response_ems,EMS,06/10/13,4253,76
+AFR,emergency_response_ems,EMS,07/10/13,3714,78
+AFR,emergency_response_ems,EMS,08/10/13,3889,70
+AFR,emergency_response_ems,EMS,09/10/13,3763,0
+AFR,emergency_response_ems,EMS,10/10/13,3878,0
+AFR,emergency_response_ems,EMS,11/10/13,3771,0
+AFR,emergency_response_fire,Fire,01/10/13,134,0
+AFR,emergency_response_fire,Fire,02/10/13,128,0
+AFR,emergency_response_fire,Fire,03/10/13,0,0
+AFR,emergency_response_fire,Fire,04/10/13,34,66
+AFR,emergency_response_fire,Fire,05/10/13,42,94
+AFR,emergency_response_fire,Fire,06/10/13,20,58
+AFR,emergency_response_fire,Fire,07/10/13,31,70
+AFR,emergency_response_fire,Fire,08/10/13,38,100
+AFR,emergency_response_fire,Fire,09/10/13,32,0
+AFR,emergency_response_fire,Fire,10/10/13,20,0
+AFR,emergency_response_fire,Fire,11/10/13,26,0
+AFR,customer_satisfaction,Atlanta Fire & Rescue,03/10/13,0,0
+AFR,customer_satisfaction,Atlanta Fire & Rescue,04/10/13,0,0
+AFR,customer_satisfaction,Atlanta Fire & Rescue,05/10/13,814,0.45
+AFR,customer_satisfaction,Atlanta Fire & Rescue,06/10/13,170,0.65
+AFR,customer_satisfaction,Atlanta Fire & Rescue,07/10/13,499,0.48
+AFR,customer_satisfaction,Atlanta Fire & Rescue,08/10/13,419,0.62
+AFR,customer_satisfaction,Atlanta Fire & Rescue,09/10/13,150,0.87
+AFR,customer_satisfaction,Atlanta Fire & Rescue,10/10/13,249,0.94
+AFR,customer_satisfaction,Atlanta Fire & Rescue,11/10/13,130,0.92
+AFR,customer_satisfaction,Atlanta Fire & Rescue,12/10/13,0,0
+CODE,customer_satisfaction,Code Enforcement,03/10/13,2452,0.2
+CODE,customer_satisfaction,Code Enforcement,04/10/13,2237,0.17
+CODE,customer_satisfaction,Code Enforcement,05/10/13,1618,0.23
+CODE,customer_satisfaction,Code Enforcement,06/10/13,2263,0.31
+CODE,customer_satisfaction,Code Enforcement,07/10/13,3146,0.43
+CODE,customer_satisfaction,Code Enforcement,08/10/13,3063,0.64
+CODE,customer_satisfaction,Code Enforcement,09/10/13,2844,0.59
+CODE,customer_satisfaction,Code Enforcement,10/10/13,2419,0.59
+CODE,customer_satisfaction,Code Enforcement,11/10/13,2127,0.52
+CODE,customer_satisfaction,Code Enforcement,12/10/13,1738,0.51
+DPCD,customer_satisfaction,Department of Planning and Community Development,03/10/13,0,0
+DPCD,customer_satisfaction,Department of Planning and Community Development,04/10/13,0,0
+DPCD,customer_satisfaction,Department of Planning and Community Development,05/10/13,5499,0.99
+DPCD,customer_satisfaction,Department of Planning and Community Development,06/10/13,5906,0.98
+DPCD,customer_satisfaction,Department of Planning and Community Development,07/10/13,6627,0.99
+DPCD,customer_satisfaction,Department of Planning and Community Development,08/10/13,6614,0.98
+DPCD,customer_satisfaction,Department of Planning and Community Development,09/10/13,5935,0.99
+DPCD,customer_satisfaction,Department of Planning and Community Development,10/10/13,7145,0.99
+DPCD,customer_satisfaction,Department of Planning and Community Development,11/10/13,6113,0.99
+DPCD,customer_satisfaction,Department of Planning and Community Development,12/10/13,6109,0.99
+DPR,customer_satisfaction,Parks and Recreation,03/10/13,0,0
+DPR,customer_satisfaction,Parks and Recreation,04/10/13,0,0
+DPR,customer_satisfaction,Parks and Recreation,05/10/13,0,0
+DPR,customer_satisfaction,Parks and Recreation,06/10/13,512,0.86
+DPR,customer_satisfaction,Parks and Recreation,07/10/13,503,0.74
+DPR,customer_satisfaction,Parks and Recreation,08/10/13,652,0.76
+DPR,customer_satisfaction,Parks and Recreation,09/10/13,582,0.9
+DPR,customer_satisfaction,Parks and Recreation,10/10/13,619,0.87
+DPR,customer_satisfaction,Parks and Recreation,11/10/13,511,0.57
+DPR,customer_satisfaction,Parks and Recreation,12/10/13,233,0.83
+DPW,customer_satisfaction,Public Works,03/10/13,0,0
+DPW,customer_satisfaction,Public Works,04/10/13,2894,0.57
+DPW,customer_satisfaction,Public Works,05/10/13,3136,0.74
+DPW,customer_satisfaction,Public Works,06/10/13,3258,0.93
+DPW,customer_satisfaction,Public Works,07/10/13,4069,0.94
+DPW,customer_satisfaction,Public Works,08/10/13,4169,0.85
+DPW,customer_satisfaction,Public Works,09/10/13,4178,0.89
+DPW,customer_satisfaction,Public Works,10/10/13,4445,0.97
+DPW,customer_satisfaction,Public Works,11/10/13,2746,0.93
+DPW,customer_satisfaction,Public Works,12/10/13,3506,0.75
+DWM,customer_satisfaction,Waste Management,03/10/13,0,0
+DWM,customer_satisfaction,Waste Management,04/10/13,0,0
+DWM,customer_satisfaction,Waste Management,05/10/13,0,0
+DWM,customer_satisfaction,Waste Management,06/10/13,3029,0.98
+DWM,customer_satisfaction,Waste Management,07/10/13,4375,0.92
+DWM,customer_satisfaction,Waste Management,08/10/13,3987,0.93
+DWM,customer_satisfaction,Waste Management,09/10/13,3269,0.95
+DWM,customer_satisfaction,Waste Management,10/10/13,3534,0.97
+DWM,customer_satisfaction,Waste Management,11/10/13,2990,0.94
+DWM,customer_satisfaction,Waste Management,12/10/13,2495,0.96
+CODE,cs_code,Departmental Service Requests completed within target timeframe,03/10/13,2452,0.2
+CODE,cs_code,Departmental Service Requests completed within target timeframe,04/10/13,2237,0.17
+CODE,cs_code,Departmental Service Requests completed within target timeframe,05/10/13,1618,0.23
+CODE,cs_code,Departmental Service Requests completed within target timeframe,06/10/13,2263,0.31
+CODE,cs_code,Departmental Service Requests completed within target timeframe,07/10/13,3146,0.43
+CODE,cs_code,Departmental Service Requests completed within target timeframe,08/10/13,3063,0.64
+CODE,cs_code,Departmental Service Requests completed within target timeframe,09/10/13,2844,0.59
+CODE,cs_code,Departmental Service Requests completed within target timeframe,10/10/13,2419,0.59
+CODE,cs_code,Departmental Service Requests completed within target timeframe,11/10/13,2127,0.52
+CODE,cs_code,Departmental Service Requests completed within target timeframe,12/10/13,1738,0.51
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,02/10/13,,0.09
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,03/10/13,749,0.08
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,04/10/13,721,0.06
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,05/10/13,477,0.15
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,06/10/13,625,0.12
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,07/10/13,873,0.25
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,08/10/13,718,0.31
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,09/10/13,645,0.28
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,10/10/13,502,0.31
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,11/10/13,460,0.25
+CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,12/10/13,356,0.24
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,02/10/13,,0.16
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,03/10/13,1546,0.21
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,04/10/13,1357,0.18
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,05/10/13,1059,0.22
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,06/10/13,1524,0.34
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,07/10/13,2151,0.48
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,08/10/13,2102,0.71
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,09/10/13,2020,0.65
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,10/10/13,1768,0.64
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,11/10/13,1579,0.57
+CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,12/10/13,1287,0.55
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,06/10/13,711,0.93
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,07/10/13,874,1.00
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,08/10/13,410,0.98
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,09/10/13,173,0.92
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,10/10/13,382,0.98
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,11/10/13,291,0.98
+DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,12/10/13,182,0.98
+DPCD,cs_dpcd,Inspections Completed Within SLA,05/10/13,5499,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,06/10/13,5180,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,07/10/13,5682,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,08/10/13,6092,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,09/10/13,5668,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,10/10/13,6649,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,11/10/13,5725,0.99
+DPCD,cs_dpcd,Inspections Completed Within SLA,12/10/13,5725,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,05/10/13,5499,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,06/10/13,5906,0.98
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,07/10/13,6627,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,08/10/13,6614,0.98
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,09/10/13,5935,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,10/10/13,7145,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,11/10/13,6113,0.99
+DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,12/10/13,6109,0.99
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,04/10/13,1103,0.58
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,05/10/13,1142,0.86
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,06/10/13,970,0.98
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,07/10/13,1110,1
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,08/10/13,1067,1
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,09/10/13,854,0.8
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,10/10/13,824,0.99
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,11/10/13,687,0.99
+DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,12/10/13,799,0.96
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,04/10/13,2894,0.57
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,05/10/13,3136,0.74
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,06/10/13,3258,0.93
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,07/10/13,4069,0.94
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,08/10/13,4169,0.85
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,09/10/13,4178,0.89
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,10/10/13,4445,0.97
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,11/10/13,2746,0.93
+DPW,cs_dpw,Departmental Service Requests completed within target timeframe,12/10/13,3506,0.75
+DPW,cs_dpw,Missed Collections Completed Within SLA,04/10/13,667,0.24
+DPW,cs_dpw,Missed Collections Completed Within SLA,05/10/13,893,0.47
+DPW,cs_dpw,Missed Collections Completed Within SLA,06/10/13,740,0.85
+DPW,cs_dpw,Missed Collections Completed Within SLA,07/10/13,871,0.88
+DPW,cs_dpw,Missed Collections Completed Within SLA,08/10/13,1046,0.52
+DPW,cs_dpw,Missed Collections Completed Within SLA,09/10/13,1273,0.89
+DPW,cs_dpw,Missed Collections Completed Within SLA,10/10/13,1185,0.98
+DPW,cs_dpw,Missed Collections Completed Within SLA,11/10/13,532,0.84
+DPW,cs_dpw,Missed Collections Completed Within SLA,12/10/13,1041,0.56
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,04/10/13,244,0.64
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,05/10/13,186,0.89
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,06/10/13,390,0.94
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,07/10/13,567,0.99
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,08/10/13,563,0.98
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,09/10/13,558,1
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,10/10/13,830,0.99
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,11/10/13,522,1
+DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,12/10/13,586,0.78
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,06/10/13,3029,0.98
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,07/10/13,4375,0.92
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,08/10/13,3987,0.93
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,09/10/13,3269,0.95
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,10/10/13,3534,0.97
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,11/10/13,2990,0.94
+DWM,cs_dwm,Departmental Service Requests completed within target timeframe,12/10/13,2495,0.96
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,01/10/13,,0.97
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,02/10/13,,0.99
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,03/10/13,,0.98
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,04/10/13,,0.95
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,05/10/13,,0.98
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,06/10/13,958,0.98
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,07/10/13,1215,0.97
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,08/10/13,1024,0.98
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,09/10/13,885,0.98
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,10/10/13,858,0.99
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,11/10/13,662,0.97
+DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,12/10/13,786,0.98
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,01/10/13,,1
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,02/10/13,,0.98
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,03/10/13,,0.99
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,04/10/13,,0.99
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,05/10/13,,0.99
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,06/10/13,850,0.99
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,07/10/13,1012,0.97
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,08/10/13,943,0.95
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,09/10/13,714,1
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,10/10/13,760,0.98
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,11/10/13,644,0.99
+DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,12/10/13,707,0.99
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,01/10/13,,0.98
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,02/10/13,,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,03/10/13,,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,04/10/13,,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,05/10/13,,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,06/10/13,856,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,07/10/13,987,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,08/10/13,1001,0.97
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,09/10/13,795,1
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,10/10/13,893,0.99
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,11/10/13,717,0.99
+DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,12/10/13,638,0.99

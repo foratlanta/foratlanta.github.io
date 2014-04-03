@@ -1,0 +1,33 @@
+- group-title: Municipal Courts
+  group-description:
+  charts:
+    - title: Criminal
+      description:
+      note:
+      datasource: municipal_courts_criminal
+      size: half
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Number of Cases
+      series2-metric: Result
+      series2-type: spline
+      series2-format: percentage
+      series2-label: Percentage Adjudicated
+
+    - title: Traffic
+      description:
+      note:
+      datasource: municipal_courts_traffic
+      size: half
+      type: column
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Number of Cases
+      series2-metric: Result
+      series2-type: spline
+      series2-format: percentage
+      series2-label: Percentage Adjudicated

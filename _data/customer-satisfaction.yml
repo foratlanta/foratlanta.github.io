@@ -1,0 +1,24 @@
+- group-title: Customer Satisfaction
+  group-description:
+  charts:
+    - title: Number Completed
+      description: The total number of requests that were completed within each department's target timeframe.
+      note: These number of reqests completed with target timeframe,  not the total number of requests received by each department.
+      datasource: customer_satisfaction
+      size: full
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Requests Received
+
+    - title: Percentage Completed
+      description:
+      note:
+      datasource: customer_satisfaction
+      size: full
+      series-grouping: true
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Percentage Completed

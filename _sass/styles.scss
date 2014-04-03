@@ -1,0 +1,44 @@
+@import 'variables','../bower_components/bootstrap-sass/vendor/assets/stylesheets/bootstrap.scss','dashboard';
+
+//////////////////////////
+// Section Headers
+
+.report-group-body {
+
+  .report-group-heading {
+    margin-bottom: 2em;
+    @include make-row();
+    hgroup {
+      @include make-sm-column(12);
+    }
+    h2 {
+      margin-bottom: .2em;
+    }
+    h3 {
+      color: #99A9BB;
+      margin: 0;
+    }
+  }
+  .report-area {
+    @include make-row();
+    margin-bottom: 3em;
+  }
+  .report-area-heading {
+    @include make-sm-column(12);
+  }
+  .report-chart {
+    margin-bottom:2em;
+    &.full      { @include make-sm-column(12); }
+    &.twothirds { @include make-sm-column(8); }
+    &.half      { @include make-sm-column(6); }
+    &.third     { @include make-sm-column(4); }
+    &.quarter   { @include make-sm-column(3); }
+
+  }
+  .report-chart-note {
+    color:#888;
+    font-size: .9em;
+    font-style: italic;
+    padding:1em 0 0;
+  }
+}

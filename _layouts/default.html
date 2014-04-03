@@ -1,0 +1,80 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <title>FOR Atlanta - City Performance Metrics</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <script type="text/javascript">
+    var chartOptions=[];
+  </script>
+</head>
+
+<body>
+  <section id="container">
+    <header id="header">
+      <!--logo start-->
+      <div class="brand">
+        <a href="{{ site.baseurl }}/" class="logo"><span>FOR</span>Atlanta</a>
+      </div>
+      <!-- <p class="tagline">City Performance Metrics provided by <a href="http://www.atlantaga.gov/index.aspx?page=133">Focus on Results Atlanta</a>, an Executive Office of the Mayor of Atlanta.</p> -->
+      <div class="toggle-navigation toggle-left">
+        <button type="button" class="btn btn-default" id="toggle-left" data-toggle="tooltip" data-placement="right" title="Toggle Navigation">
+          <i class="fa fa-bars"></i>
+        </button>
+      </div>
+    </header>
+    <aside class="sidebar">
+      <div id="leftside-navigation" class="nano">
+        <ul class="nano-content">
+          <li class="sub-menu">
+            <a href="javascript:void(0);"><i class="fa fa-bell"></i><span>Public Safety</span></a>
+            <ul>
+              <li><a href="{{ site.baseurl }}/charts/public-safety.html">Crime and Police</a></li>
+              <li><a href="{{ site.baseurl }}/charts/municipal-courts.html">Municipal Courts</a></li>
+              <li><a href="{{ site.baseurl }}/charts/emergency-response.html">Emergency Response</a></li>
+            </ul>
+          </li>
+          <li class="sub-menu">
+            <a href="javascript:void(0);"><i class="fa fa-cogs"></i><span>Efficiency and Service</span></a>
+            <ul>
+              <li><a href="{{ site.baseurl }}/charts/customer-satisfaction.html">Customer Satisfaction</a></li>
+              <li><a href="{{ site.baseurl }}/charts/core-customer-services.html">Core Customer Services</a></li>
+            </ul>
+          </li>
+          <li class="sub-menu">
+            <a href="javascript:void(0);"><i class="fa fa-leaf"></i><span>Infrastructure and Vitality</span></a>
+            <ul>
+              <li><a href="#">PLACEHOLDER</a></li>
+              <li><a href="#">PLACEHOLDER</a></li>
+              <li><a href="#">PLACEHOLDER</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </aside>
+    <section class="main-content-wrapper">
+      <section id="main-content">
+        {{ content }}
+      </section>
+    </section>
+  </section>
+  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="{{ site.baseurl }}/js/application.js"></script>
+  <script src="{{ site.baseurl }}/js/highcharts.js"></script>
+  <script src="{{ site.baseurl }}/js/jquery.parse.min.js"></script>
+  <script src="{{ site.baseurl }}/js/lodash.min.js"></script>
+  <script src="{{ site.baseurl }}/js/jam.js"></script>
+  <script src="{{ site.baseurl }}/js/charts.js"></script>
+</body>
+</html>
