@@ -117,7 +117,7 @@ var Jam = (function() {
                     min: null,
                     labels: {
                         formatter: function() {
-                            if (axis.metric == 'Result') {
+                            if (axis.format == 'percentage') {
                                 return Math.round(this.value * 100) + '%';
                             }
                             return Math.round(this.value);
