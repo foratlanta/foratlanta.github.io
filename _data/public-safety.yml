@@ -10,7 +10,7 @@
       series-grouping: true
       series1-metric: Result
       series1-type: column
-      series1-format: number
+      series1-format: percentage
       series1-label: Percentage Change
 
 - group-title: Police Department Performance

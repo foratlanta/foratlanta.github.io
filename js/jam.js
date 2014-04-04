@@ -67,7 +67,8 @@ var Jam = (function() {
                             return {
                                 x: xVal,
                                 y: yVal,
-                                yFormat:axis.format
+                                yFormat:axis.format,
+                                xFormat:rDate
                             }
                         })
                     });

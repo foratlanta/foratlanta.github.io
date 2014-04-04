@@ -56,7 +56,7 @@ $('.report-chart-container').each(function(index, element) {
         plotOptions: {
             column: {
                 borderColor: '#ddd',
-                pointPlacement: 'on',
+                pointPlacement: 'between',
             },
             series: {
                 grouping: $(element).data('series-grouping'),
@@ -78,9 +78,7 @@ $('.report-chart-container').each(function(index, element) {
                 var monthNames = ["January", "February", "March", "April", "May", "June",
                     "July", "August", "September", "October", "November", "December"
                 ];
-                var sDate = new Date(this.x);
-                head = '<span style="font-size: 12px">' + monthNames[sDate.getMonth()] + ' ' + sDate.getFullYear() + '</span><br/>';
-
+                head = '<span style="font-size: 12px">' + monthNames[this.point.xFormat.getMonth()] + ' ' + this.point.xFormat.getFullYear() + '</span><br/>';
                 pointValue = this.y;
                 if (this.point.yFormat == 'percentage') {
                     pointValue = Math.round(this.y * 100) + '%';
