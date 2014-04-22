@@ -345,15 +345,15 @@ li.dropdown ul.dropdown-menu.alert > li h1 {
   list-style-type: none;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
-#leftside-navigation ul li a {
-  color: #aeb2b7;
+#leftside-navigation ul li a, #leftside-navigation ul li strong {
+  color: #fff;
   text-decoration: none;
   display: block;
   padding: 18px 0 18px 25px;
   outline: none;
-  -webkit-transition: all 200ms ease-in;
-  -o-transition: all 200ms ease-in;
-  -moz-transition: all 200ms ease-in;
+  -webkit-transition: all 100ms ease-in;
+  -o-transition: all 100ms ease-in;
+  -moz-transition: all 00ms ease-in;
 }
 #leftside-navigation ul li a span {
   display: inline-block;
@@ -369,7 +369,7 @@ li.dropdown ul.dropdown-menu.alert > li h1 {
 #leftside-navigation ul ul li a {
   padding-top: 13px;
   padding-bottom: 13px;
-  color: #aeb2b7;
+  color: #fff;
 }
 #leftside-navigation ul li a i {
   width: 20px;
@@ -379,7 +379,7 @@ li.dropdown ul.dropdown-menu.alert > li h1 {
 }
 
 #leftside-navigation ul li a:hover,
-#leftside-navigation ul li.active > a {color:$brand-primary;}
+#leftside-navigation ul li.active > a { color:#fc0; }
 .nano {
   position : relative;
   width : 100%;
