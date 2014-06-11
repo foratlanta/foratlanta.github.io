@@ -1,0 +1,21 @@
+---
+layout: default
+title: Department of Public Works
+pid: 100
+category: operational-departments
+---
+<div class="report-group-body">
+  {% for group in site.data.parks-works %}
+  <header class="report-group-heading">
+    <hgroup>
+      <h2>{{ group.group-title }}</h2>
+      {% if group.group-description %}<h3>{{ group.group-description }}</h3>{% endif %}
+    </hgroup>
+  </header>
+  <div class="report-area">
+    {% for chart in group.charts %}
+    {% include chart-module.html %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
