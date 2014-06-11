@@ -1,8 +1,8 @@
 - group-title: Crime Reduction
   group-description:
   charts:
-    - title: Overall Crime
-      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta. This data is published by the Federal Bureau of Investigation.
+    - title: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta.
+      description: This data is published by the Federal Bureau of Investigation.
       note:
       size: full
       department: APD
