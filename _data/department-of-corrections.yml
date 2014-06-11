@@ -1,0 +1,35 @@
+- group-title: Department of Corrections
+  group-description: The City&rsquo;s Department of Corrections (DOC) is charged with protecting the public by providing a safe and secure correctional environment and enhancing the public safety through partnerships with the community and law enforcement.
+  charts:
+    - title: Average Daily Jail Population
+      description:
+      note:
+      size: third
+      datasource: ps_jail_population
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Jail Population
+
+    - title: Median Booking Time
+      description:
+      note:
+      size: third
+      datasource: ps_median_booking_time
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: time
+      series1-label: Average Booking Time (in minutes)
+
+    - title: Jail Recidivism Rate
+      description:
+      note:
+      size: third
+      datasource: ps_recidivists
+      series-grouping: false
+      series1-metric: Result
+      series1-type: spline
+      series1-format: percentage
+      series1-label: Recidivism Percentage

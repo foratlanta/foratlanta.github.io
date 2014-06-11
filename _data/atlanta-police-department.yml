@@ -1,0 +1,50 @@
+- group-title: Atlanta Police Department
+  group-description: <p>With an authorized strength of over 2000 sworn officers, the Atlanta Police Department is the largest law enforcement agency in the State of Georgia</p><p>The mission of the Atlanta Police Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with the community.  In addition, the Police Department operates the City’s E911 Call Center, which aims to quickly respond to emergency calls and dispatch emergency services.</p><p>This page provides performance data focused on key performance indicators for these two areas – Crime reduction and E911 Call Center performance.</p>
+  charts:
+    - title: Overall Crime
+      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed by year within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
+      note: These are year over year changes.
+      size: full
+      department: APD
+      datasource: overall_crime
+      series-grouping: false
+      series1-metric: Result
+      series1-type: column
+      series1-format: percentage
+      series1-label: Percentage Change
+
+    - title: Crime By Zone
+      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed, by police zone, within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
+      note: These are year over year changes by police zone.
+      size: full
+      department: APD
+      datasource: crime_by_zone
+      series-grouping: true
+      series1-metric: Result
+      series1-type: column
+      series1-format: percentage
+      series1-label: Percentage Change
+
+    - title: E911 Call Center
+      description: This chart displays the total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
+      note: These are year over year changes.
+      size: half
+      department: APD
+      datasource: e911_total_dispatch_calls
+      series-grouping: false
+      series1-metric: Result
+      series1-type: column
+      series1-format: number
+      series1-label: Total Dispatch Calls
+
+    - title: E911 Call Center
+      description: This chart displays the total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
+      note: These are year over year changes.
+      size: half
+      department: APD
+      datasource: e911_call_center
+      series-grouping: false
+      series1-metric: Result
+      series1-type: column
+      series1-format: number
+      series1-label: Total Dispatch Calls
