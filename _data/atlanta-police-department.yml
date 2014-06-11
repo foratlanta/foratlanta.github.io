@@ -42,4 +42,4 @@
       series2-metric: Result
       series2-type: line
       series2-format: percentage
-      series2-label: % Answered Within 10 Seconds
+      series2-label: Answered Within 10 Seconds
