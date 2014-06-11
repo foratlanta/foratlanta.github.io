@@ -1,7 +1,5 @@
 name: FOR Atlanta
 markdown: redcarpet
-pygments: true
+highlighter: true
 
 permalink: /:categories/:title.html
-baseurl: http://foratlanta.github.io/
- 
