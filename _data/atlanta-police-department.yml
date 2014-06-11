@@ -2,8 +2,8 @@
   group-description:
   charts:
     - title: Change in crime across City of Atlanta
-      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta. This data is published by the Federal Bureau of Investigation.
-      note:
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta.
+      note: This data is published by the Federal Bureau of Investigation.
       size: full
       department: APD
       datasource: overall_crime
@@ -14,8 +14,8 @@
       series1-label: Year-Over-Year Change
 
     - title: Change in crime By Police Zone
-      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year within each of the City's Police zones. This data is published by the Federal Bureau of Investigation.
-      note:
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year within each of the City's Police zones.
+      note: This data is published by the Federal Bureau of Investigation.
       size: full
       department: APD
       datasource: crime_by_zone
@@ -30,7 +30,7 @@
   charts:
     - title: Total Dispatched Calls and Call Answering Performance
       description: Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
-      note: These are year over year changes.
+      note:
       size: full
       department: APD
       datasource: e911_call_center
