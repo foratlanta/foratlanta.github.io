@@ -1,5 +1,5 @@
 - group-title: Atlanta Police Department
-  group-description: <p>With an authorized strength of over 2000 sworn officers, the Atlanta Police Department is the largest law enforcement agency in the State of Georgia</p><p>The mission of the Atlanta Police Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with the community.  In addition, the Police Department operates the City’s E911 Call Center, which aims to quickly respond to emergency calls and dispatch emergency services.</p><p>This page provides performance data focused on key performance indicators for these two areas – Crime reduction and E911 Call Center performance.</p>
+  group-description: To remove
   charts:
     - title: Overall Crime
       description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed by year within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
