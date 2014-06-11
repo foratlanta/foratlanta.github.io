@@ -71,28 +71,28 @@ AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC
 AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),9/10/2013,,0.51
 AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),10/10/2013,,0.51
 AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),11/10/2013,,0.52
-AFR,ems_performance,Average Turnout Time for EMS Events,4/10/2013,,91
-AFR,ems_performance,Average Turnout Time for EMS Events,5/10/2013,,75
-AFR,ems_performance,Average Turnout Time for EMS Events,6/10/2013,,76
-AFR,ems_performance,Average Turnout Time for EMS Events,7/10/2013,,78
-AFR,ems_performance,Average Turnout Time for EMS Events,8/10/2013,,70
-AFR,fire_events,Total Fire Events,7/10/2012,,185
-AFR,fire_events,Total Fire Events,8/10/2012,,128
-AFR,fire_events,Total Fire Events,9/10/2012,,144
-AFR,fire_events,Total Fire Events,10/10/2012,,164
-AFR,fire_events,Total Fire Events,11/10/2012,,177
-AFR,fire_events,Total Fire Events,12/10/2012,,134
-AFR,fire_events,Total Fire Events,1/10/2013,,131
-AFR,fire_events,Total Fire Events,2/10/2013,,194
-AFR,fire_events,Total Fire Events,3/10/2013,,178
-AFR,fire_events,Total Fire Events,4/10/2013,,128
-AFR,fire_events,Total Fire Events,5/10/2013,,150
-AFR,fire_events,Total Fire Events,6/10/2013,,115
-AFR,fire_events,Total Fire Events,7/10/2013,,110
-AFR,fire_events,Total Fire Events,8/10/2013,,131
-AFR,fire_events,Total Fire Events,9/10/2013,,137
-AFR,fire_events,Total Fire Events,10/10/2013,,135
-AFR,fire_events,Total Fire Events,11/10/2013,,132
+AFR,ems_performance,Average Turnout Time for EMS Events,4/10/2013,91,
+AFR,ems_performance,Average Turnout Time for EMS Events,5/10/2013,75,
+AFR,ems_performance,Average Turnout Time for EMS Events,6/10/2013,76,
+AFR,ems_performance,Average Turnout Time for EMS Events,7/10/2013,78,
+AFR,ems_performance,Average Turnout Time for EMS Events,8/10/2013,70,
+AFR,fire_events,Total Fire Events,7/10/2012,185,
+AFR,fire_events,Total Fire Events,8/10/2012,128,
+AFR,fire_events,Total Fire Events,9/10/2012,144,
+AFR,fire_events,Total Fire Events,10/10/2012,164,
+AFR,fire_events,Total Fire Events,11/10/2012,177,
+AFR,fire_events,Total Fire Events,12/10/2012,134,
+AFR,fire_events,Total Fire Events,1/10/2013,131,
+AFR,fire_events,Total Fire Events,2/10/2013,194,
+AFR,fire_events,Total Fire Events,3/10/2013,178,
+AFR,fire_events,Total Fire Events,4/10/2013,128,
+AFR,fire_events,Total Fire Events,5/10/2013,150,
+AFR,fire_events,Total Fire Events,6/10/2013,115,
+AFR,fire_events,Total Fire Events,7/10/2013,110,
+AFR,fire_events,Total Fire Events,8/10/2013,131,
+AFR,fire_events,Total Fire Events,9/10/2013,137,
+AFR,fire_events,Total Fire Events,10/10/2013,135,
+AFR,fire_events,Total Fire Events,11/10/2013,132,
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2008,,0.65
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2008,,0.71
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2008,,0.77
@@ -157,11 +157,11 @@ AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage 
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2013,,0.84
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2013,,0.7
 AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2013,,0.73
-AFR,fire_performance,Average Turnout Time for Fire Events,4/10/2013,,66
-AFR,fire_performance,Average Turnout Time for Fire Events,5/10/2013,,94
-AFR,fire_performance,Average Turnout Time for Fire Events,6/10/2013,,58
-AFR,fire_performance,Average Turnout Time for Fire Events,7/10/2013,,70
-AFR,fire_performance,Average Turnout Time for Fire Events,8/10/2013,,100
+AFR,fire_performance,Average Turnout Time for Fire Events,4/10/2013,66,
+AFR,fire_performance,Average Turnout Time for Fire Events,5/10/2013,94,
+AFR,fire_performance,Average Turnout Time for Fire Events,6/10/2013,58,
+AFR,fire_performance,Average Turnout Time for Fire Events,7/10/2013,70,
+AFR,fire_performance,Average Turnout Time for Fire Events,8/10/2013,100,
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,6/10/2013,,-0.14
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,7/10/2013,,-0.14
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,8/10/2013,,-0.17
@@ -279,45 +279,45 @@ APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2013,,0.94
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2014,,0.95
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2014,,0.95
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2014,,0.95
-APD,e911_call_center,Total Dispatched Calls,9/10/2009,,55096
-APD,e911_call_center,Total Dispatched Calls,10/10/2009,,40699
-APD,e911_call_center,Total Dispatched Calls,11/10/2009,,38278
-APD,e911_call_center,Total Dispatched Calls,12/10/2009,,40976
-APD,e911_call_center,Total Dispatched Calls,1/10/2010,,31787
-APD,e911_call_center,Total Dispatched Calls,2/10/2010,,43555
-APD,e911_call_center,Total Dispatched Calls,3/10/2010,,46989
-APD,e911_call_center,Total Dispatched Calls,5/10/2010,,34056
-APD,e911_call_center,Total Dispatched Calls,7/10/2011,,34940
-APD,e911_call_center,Total Dispatched Calls,8/10/2011,,33611
-APD,e911_call_center,Total Dispatched Calls,9/10/2011,,31108
-APD,e911_call_center,Total Dispatched Calls,10/10/2011,,31423
-APD,e911_call_center,Total Dispatched Calls,11/10/2011,,28863
-APD,e911_call_center,Total Dispatched Calls,3/10/2012,,32571
-APD,e911_call_center,Total Dispatched Calls,4/10/2012,,31498
-APD,e911_call_center,Total Dispatched Calls,5/10/2012,,34039
-APD,e911_call_center,Total Dispatched Calls,6/10/2012,,34050
-APD,e911_call_center,Total Dispatched Calls,7/10/2012,,34987
-APD,e911_call_center,Total Dispatched Calls,8/10/2012,,33288
-APD,e911_call_center,Total Dispatched Calls,9/10/2012,,32159
-APD,e911_call_center,Total Dispatched Calls,10/10/2012,,32830
-APD,e911_call_center,Total Dispatched Calls,11/10/2012,,28079
-APD,e911_call_center,Total Dispatched Calls,12/10/2012,,29645
-APD,e911_call_center,Total Dispatched Calls,1/10/2013,,29895
-APD,e911_call_center,Total Dispatched Calls,2/10/2013,,25277
-APD,e911_call_center,Total Dispatched Calls,3/10/2013,,29337
-APD,e911_call_center,Total Dispatched Calls,4/10/2013,,30436
-APD,e911_call_center,Total Dispatched Calls,5/10/2013,,31358
-APD,e911_call_center,Total Dispatched Calls,6/10/2013,,33864
-APD,e911_call_center,Total Dispatched Calls,7/10/2013,,33959
-APD,e911_call_center,Total Dispatched Calls,8/10/2013,,32456
-APD,e911_call_center,Total Dispatched Calls,9/10/2013,,30776
-APD,e911_call_center,Total Dispatched Calls,10/10/2013,,30844
-APD,e911_call_center,Total Dispatched Calls,11/10/2013,,27968
-APD,e911_call_center,Total Dispatched Calls,12/10/2013,,28737
-APD,e911_call_center,Total Dispatched Calls,1/10/2014,,31323
-APD,e911_call_center,Total Dispatched Calls,2/10/2014,,26888
-APD,e911_call_center,Total Dispatched Calls,3/10/2014,,32197
-APD,e911_call_center,Total Dispatched Calls,4/10/2014,,33254
+APD,e911_call_center,Total Dispatched Calls,9/10/2009,55096,
+APD,e911_call_center,Total Dispatched Calls,10/10/2009,40699,
+APD,e911_call_center,Total Dispatched Calls,11/10/2009,38278,
+APD,e911_call_center,Total Dispatched Calls,12/10/2009,40976,
+APD,e911_call_center,Total Dispatched Calls,1/10/2010,31787,
+APD,e911_call_center,Total Dispatched Calls,2/10/2010,43555,
+APD,e911_call_center,Total Dispatched Calls,3/10/2010,46989,
+APD,e911_call_center,Total Dispatched Calls,5/10/2010,34056,
+APD,e911_call_center,Total Dispatched Calls,7/10/2011,34940,
+APD,e911_call_center,Total Dispatched Calls,8/10/2011,33611,
+APD,e911_call_center,Total Dispatched Calls,9/10/2011,31108,
+APD,e911_call_center,Total Dispatched Calls,10/10/2011,31423,
+APD,e911_call_center,Total Dispatched Calls,11/10/2011,28863,
+APD,e911_call_center,Total Dispatched Calls,3/10/2012,32571,
+APD,e911_call_center,Total Dispatched Calls,4/10/2012,31498,
+APD,e911_call_center,Total Dispatched Calls,5/10/2012,34039,
+APD,e911_call_center,Total Dispatched Calls,6/10/2012,34050,
+APD,e911_call_center,Total Dispatched Calls,7/10/2012,34987,
+APD,e911_call_center,Total Dispatched Calls,8/10/2012,33288,
+APD,e911_call_center,Total Dispatched Calls,9/10/2012,32159,
+APD,e911_call_center,Total Dispatched Calls,10/10/2012,32830,
+APD,e911_call_center,Total Dispatched Calls,11/10/2012,28079,
+APD,e911_call_center,Total Dispatched Calls,12/10/2012,29645,
+APD,e911_call_center,Total Dispatched Calls,1/10/2013,29895,
+APD,e911_call_center,Total Dispatched Calls,2/10/2013,25277,
+APD,e911_call_center,Total Dispatched Calls,3/10/2013,29337,
+APD,e911_call_center,Total Dispatched Calls,4/10/2013,30436,
+APD,e911_call_center,Total Dispatched Calls,5/10/2013,31358,
+APD,e911_call_center,Total Dispatched Calls,6/10/2013,33864,
+APD,e911_call_center,Total Dispatched Calls,7/10/2013,33959,
+APD,e911_call_center,Total Dispatched Calls,8/10/2013,32456,
+APD,e911_call_center,Total Dispatched Calls,9/10/2013,30776,
+APD,e911_call_center,Total Dispatched Calls,10/10/2013,30844,
+APD,e911_call_center,Total Dispatched Calls,11/10/2013,27968,
+APD,e911_call_center,Total Dispatched Calls,12/10/2013,28737,
+APD,e911_call_center,Total Dispatched Calls,1/10/2014,31323,
+APD,e911_call_center,Total Dispatched Calls,2/10/2014,26888,
+APD,e911_call_center,Total Dispatched Calls,3/10/2014,32197,
+APD,e911_call_center,Total Dispatched Calls,4/10/2014,33254,
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2009,,-0.07
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2009,,-0.06
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2009,,-0.1
@@ -449,18 +449,18 @@ COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,12/10/2013,,0
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,1/10/2014,,0.1
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,2/10/2014,,0.13
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,3/10/2014,,0.28
-COURT,criminal_cases,Number of Criminal Cases Filed,5/10/2013,,4327
-COURT,criminal_cases,Number of Criminal Cases Filed,6/10/2013,,3861
-COURT,criminal_cases,Number of Criminal Cases Filed,7/10/2013,,3445
-COURT,criminal_cases,Number of Criminal Cases Filed,8/10/2013,,2119
-COURT,criminal_cases,Number of Criminal Cases Filed,9/10/2013,,1940
-COURT,criminal_cases,Number of Criminal Cases Filed,10/10/2013,,1878
-COURT,criminal_cases,Number of Criminal Cases Filed,11/10/2013,,1565
-COURT,criminal_cases,Number of Criminal Cases Filed,12/10/2013,,1475
-COURT,criminal_cases,Number of Criminal Cases Filed,1/10/2014,,1464
-COURT,criminal_cases,Number of Criminal Cases Filed,2/10/2014,,1445
-COURT,criminal_cases,Number of Criminal Cases Filed,3/10/2014,,1833
-COURT,criminal_cases,Number of Criminal Cases Filed,4/10/2014,,2109
+COURT,criminal_cases,Number of Criminal Cases Filed,5/10/2013,4327,
+COURT,criminal_cases,Number of Criminal Cases Filed,6/10/2013,3861,
+COURT,criminal_cases,Number of Criminal Cases Filed,7/10/2013,3445,
+COURT,criminal_cases,Number of Criminal Cases Filed,8/10/2013,2119,
+COURT,criminal_cases,Number of Criminal Cases Filed,9/10/2013,1940,
+COURT,criminal_cases,Number of Criminal Cases Filed,10/10/2013,1878,
+COURT,criminal_cases,Number of Criminal Cases Filed,11/10/2013,1565,
+COURT,criminal_cases,Number of Criminal Cases Filed,12/10/2013,1475,
+COURT,criminal_cases,Number of Criminal Cases Filed,1/10/2014,1464,
+COURT,criminal_cases,Number of Criminal Cases Filed,2/10/2014,1445,
+COURT,criminal_cases,Number of Criminal Cases Filed,3/10/2014,1833,
+COURT,criminal_cases,Number of Criminal Cases Filed,4/10/2014,2109,
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,6/10/2013,,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,7/10/2013,,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2013,,0.11
@@ -481,45 +481,45 @@ COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,12/10/2013,,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,1/10/2014,,0.21
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,2/10/2014,,0.3
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,3/10/2014,,0.11
-COURT,traffic_cases,Number of Traffic Cases Filed,5/10/2013,,12370
-COURT,traffic_cases,Number of Traffic Cases Filed,6/10/2013,,13416
-COURT,traffic_cases,Number of Traffic Cases Filed,7/10/2013,,14918
-COURT,traffic_cases,Number of Traffic Cases Filed,8/10/2013,,12770
-COURT,traffic_cases,Number of Traffic Cases Filed,9/10/2013,,16064
-COURT,traffic_cases,Number of Traffic Cases Filed,10/10/2013,,14265
-COURT,traffic_cases,Number of Traffic Cases Filed,11/10/2013,,10745
-COURT,traffic_cases,Number of Traffic Cases Filed,12/10/2013,,11557
-COURT,traffic_cases,Number of Traffic Cases Filed,1/10/2014,,11985
-COURT,traffic_cases,Number of Traffic Cases Filed,2/10/2014,,11800
-COURT,traffic_cases,Number of Traffic Cases Filed,3/10/2014,,10896
-COURT,traffic_cases,Number of Traffic Cases Filed,4/10/2014,,11206
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2012,3383574,0.04116857
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2012,3366022,0.044580907
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2012,4106448,0.042227962
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2012,3982009,0.039715909
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2012,4259708,0.016331127
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2012,4380705,0.03548886
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2012,4426565,0.004600009
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2012,4249351,0.022941954
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2012,3793237,0.0141263
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2012,4127097,0.027802308
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2012,3901164,0.043901421
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2012,3743971,0.035519937
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2013,3481802,0.029030841
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2013,3338654,-0.008130666
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2013,4097005,-0.002299554
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2013,3949390,-0.008191594
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2013,4197652,-0.014568135
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2013,4220068,-0.036669212
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2013,4286884,-0.031555167
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2013,4154008,-0.022437073
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2013,3755411,-0.009971958
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2013,4037283,-0.021762028
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2013,3683925,-0.055685688
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2013,3915787,0.045891381
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2014,3393235,-0.02544
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2014,3199894,-0.04156
-DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2014,4197126,0.024437607
+COURT,traffic_cases,Number of Traffic Cases Filed,5/10/2013,12370,
+COURT,traffic_cases,Number of Traffic Cases Filed,6/10/2013,13416,
+COURT,traffic_cases,Number of Traffic Cases Filed,7/10/2013,14918,
+COURT,traffic_cases,Number of Traffic Cases Filed,8/10/2013,12770,
+COURT,traffic_cases,Number of Traffic Cases Filed,9/10/2013,16064,
+COURT,traffic_cases,Number of Traffic Cases Filed,10/10/2013,14265,
+COURT,traffic_cases,Number of Traffic Cases Filed,11/10/2013,10745,
+COURT,traffic_cases,Number of Traffic Cases Filed,12/10/2013,11557,
+COURT,traffic_cases,Number of Traffic Cases Filed,1/10/2014,11985,
+COURT,traffic_cases,Number of Traffic Cases Filed,2/10/2014,11800,
+COURT,traffic_cases,Number of Traffic Cases Filed,3/10/2014,10896,
+COURT,traffic_cases,Number of Traffic Cases Filed,4/10/2014,11206,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2012,3383574,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2012,3366022,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2012,4106448,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2012,3982009,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2012,4259708,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2012,4380705,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2012,4426565,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2012,4249351,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2012,3793237,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2012,4127097,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2012,3901164,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2012,3743971,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2013,3481802,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2013,3338654,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2013,4097005,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2013,3949390,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2013,4197652,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2013,4220068,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2013,4286884,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2013,4154008,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2013,3755411,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2013,4037283,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2013,3683925,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2013,3915787,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2014,3393235,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2014,3199894,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2014,4197126,
 DOA,processing_and_wait_times,% Security Wait Times Under Target,10/10/2012,,0.93
 DOA,processing_and_wait_times,% Security Wait Times Under Target,11/10/2012,,0.98
 DOA,processing_and_wait_times,% Security Wait Times Under Target,12/10/2012,,0.96
@@ -538,55 +538,55 @@ DOA,processing_and_wait_times,% Security Wait Times Under Target,1/10/2014,,0.92
 DOA,processing_and_wait_times,% Security Wait Times Under Target,2/10/2014,,0.94
 DOA,processing_and_wait_times,% Security Wait Times Under Target,3/10/2014,,0.85
 DOA,processing_and_wait_times,% Security Wait Times Under Target,4/10/2014,,0.9
-DOA,processing_and_wait_times,Average Customs Processing Time,1/10/2014,,9.08
-DOA,processing_and_wait_times,Average Customs Processing Time,2/10/2014,,8.93
-DOA,processing_and_wait_times,Average Customs Processing Time,3/10/2014,,11.45
-DOA,processing_and_wait_times,Average Customs Processing Time,4/10/2014,,12.9
+DOA,processing_and_wait_times,Average Customs Processing Time,1/10/2014,9.08,
+DOA,processing_and_wait_times,Average Customs Processing Time,2/10/2014,8.93,
+DOA,processing_and_wait_times,Average Customs Processing Time,3/10/2014,11.45,
+DOA,processing_and_wait_times,Average Customs Processing Time,4/10/2014,12.9,
 DOC,community_involvement,Community Partnerships,1/10/2014,,30
 DOC,community_involvement,Community Partnerships,2/10/2014,,16
 DOC,community_involvement,Community Partnerships,3/10/2014,,37
 DOC,community_involvement,Community Partnerships,4/10/2014,,104
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2010,,567.84
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2011,,1892.8
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2011,,6459.18
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2011,,8281
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2011,,6754.93
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2011,,5252.52
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2011,,8245.51
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2011,,6269.9
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2011,,8068.06
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2011,,11900.98
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2011,,9762.71
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2011,,20087.34
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2011,,17171.25
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2012,,16763.11
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2012,,18170.88
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2012,,29331.3
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2012,,26492.1
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2012,,31450.06
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2012,,25132.84
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2012,,24724.7
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2012,,15603.77
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2012,,13847.02
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2012,,19898.06
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2012,,10564.19
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2012,,9540.9
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2013,,13900.25
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2013,,14988.61
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2013,,33443.41
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2013,,28900.69
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2013,,23340.59
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2013,,30450.42
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2013,,11830
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2013,,14610
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2013,,15012.27
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2013,,29078.14
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2013,,8612.24
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2013,,6234.41
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2014,,19223.75
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2014,,5015.92
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2014,,9665.11
-DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2014,,27717.69
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2010,567.84,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2011,1892.8,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2011,6459.18,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2011,8281,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2011,6754.93,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2011,5252.52,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2011,8245.51,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2011,6269.9,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2011,8068.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2011,11900.98,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2011,9762.71,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2011,20087.34,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2011,17171.25,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2012,16763.11,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2012,18170.88,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2012,29331.3,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2012,26492.1,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2012,31450.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2012,25132.84,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2012,24724.7,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2012,15603.77,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2012,13847.02,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2012,19898.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2012,10564.19,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2012,9540.9,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2013,13900.25,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2013,14988.61,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2013,33443.41,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2013,28900.69,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2013,23340.59,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2013,30450.42,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2013,11830,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2013,14610,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2013,15012.27,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2013,29078.14,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2013,8612.24,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2013,6234.41,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2014,19223.75,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2014,5015.92,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2014,9665.11,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2014,27717.69,
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2010,,48
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2011,,160
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2011,,192
@@ -865,40 +865,40 @@ DPCD,building_permits,New Residential Building Permits Issued As % Total Permits
 DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,2/10/2014,,0.09
 DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,3/10/2014,,0.11
 DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,4/10/2014,,0.07
-DPCD,building_permits,Building Permits Issued FYTD,7/10/2011,408,408
-DPCD,building_permits,Building Permits Issued FYTD,8/10/2011,457,865
-DPCD,building_permits,Building Permits Issued FYTD,9/10/2011,439,1304
-DPCD,building_permits,Building Permits Issued FYTD,10/10/2011,470,1774
-DPCD,building_permits,Building Permits Issued FYTD,11/10/2011,438,2212
-DPCD,building_permits,Building Permits Issued FYTD,12/10/2011,425,2637
-DPCD,building_permits,Building Permits Issued FYTD,1/10/2012,402,3039
-DPCD,building_permits,Building Permits Issued FYTD,2/10/2012,379,3418
-DPCD,building_permits,Building Permits Issued FYTD,3/10/2012,439,3857
-DPCD,building_permits,Building Permits Issued FYTD,4/10/2012,419,4276
-DPCD,building_permits,Building Permits Issued FYTD,5/10/2012,483,4759
-DPCD,building_permits,Building Permits Issued FYTD,6/10/2012,485,5244
-DPCD,building_permits,Building Permits Issued FYTD,7/10/2012,542,542
-DPCD,building_permits,Building Permits Issued FYTD,8/10/2012,544,1086
-DPCD,building_permits,Building Permits Issued FYTD,9/10/2012,516,1602
-DPCD,building_permits,Building Permits Issued FYTD,10/10/2012,508,2110
-DPCD,building_permits,Building Permits Issued FYTD,11/10/2012,458,2568
-DPCD,building_permits,Building Permits Issued FYTD,12/10/2012,400,2968
-DPCD,building_permits,Building Permits Issued FYTD,1/10/2013,465,3433
-DPCD,building_permits,Building Permits Issued FYTD,2/10/2013,562,3995
-DPCD,building_permits,Building Permits Issued FYTD,3/10/2013,458,4453
-DPCD,building_permits,Building Permits Issued FYTD,4/10/2013,557,5010
-DPCD,building_permits,Building Permits Issued FYTD,5/10/2013,594,5604
-DPCD,building_permits,Building Permits Issued FYTD,6/10/2013,597,6201
-DPCD,building_permits,Building Permits Issued FYTD,7/10/2013,606,606
-DPCD,building_permits,Building Permits Issued FYTD,8/10/2013,632,1238
-DPCD,building_permits,Building Permits Issued FYTD,9/10/2013,528,1766
-DPCD,building_permits,Building Permits Issued FYTD,10/10/2013,574,2340
-DPCD,building_permits,Building Permits Issued FYTD,11/10/2013,449,2789
-DPCD,building_permits,Building Permits Issued FYTD,12/10/2013,401,3190
-DPCD,building_permits,Building Permits Issued FYTD,1/10/2014,420,420.9858
-DPCD,building_permits,Building Permits Issued FYTD,2/10/2014,435,4045
-DPCD,building_permits,Building Permits Issued FYTD,3/10/2014,529,4574
-DPCD,building_permits,Building Permits Issued FYTD,4/10/2014,578,5152
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2011,408,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2011,865,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2011,1304,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2011,1774,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2011,2212,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2011,2637,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2012,3039,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2012,3418,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2012,3857,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2012,4276,
+DPCD,building_permits,Building Permits Issued FYTD,5/10/2012,4759,
+DPCD,building_permits,Building Permits Issued FYTD,6/10/2012,5244,
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2012,542,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2012,1086,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2012,1602,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2012,2110,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2012,2568,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2012,2968,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2013,3433,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2013,3995,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2013,4453,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2013,5010,
+DPCD,building_permits,Building Permits Issued FYTD,5/10/2013,5604,
+DPCD,building_permits,Building Permits Issued FYTD,6/10/2013,6201,
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2013,606,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2013,1238,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2013,1766,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2013,2340,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2013,2789,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2013,3190,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2014,420.9858,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2014,4045,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2014,4574,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2014,5152,
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,5/10/2013,5499,0.99327
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,6/10/2013,5180,0.989
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,7/10/2013,5682,0.989
@@ -1106,28 +1106,28 @@ DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,1/10/2014,
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,2/10/2014,,0.639869792
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,3/10/2014,,0.9233
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,4/10/2014,,0.9987
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2012,,248
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2012,,407
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2012,,254
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2012,,308
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2012,,437
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2012,,441
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2013,,380
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2013,,1122
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2013,,383
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2013,,313
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,5/10/2013,,312
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,6/10/2013,,11101
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2013,,270
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2013,,488
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2013,,320
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2013,,178
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2013,,237
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2013,,327
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2014,,491
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2014,,1029
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2014,,236
-DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2014,,1038
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2012,248,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2012,407,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2012,254,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2012,308,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2012,437,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2012,441,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2013,380,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2013,1122,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2013,383,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2013,313,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,5/10/2013,312,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,6/10/2013,11101,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2013,270,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2013,488,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2013,320,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2013,178,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2013,237,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2013,327,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2014,491,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2014,1029,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2014,236,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2014,1038,
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,4/10/2013,229,0.85
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,5/10/2013,244,0.89
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,6/10/2013,270,0.952
@@ -1219,16 +1219,16 @@ DPW,transportation_customer_service,% of Service Requests Completed Within Targe
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,2/10/2014,517,0.936170213
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,3/10/2014,653,0.958652374
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,4/10/2014,698,0.952722063
-DWM,billing,Billing Complaints Per 1000 Accounts,6/10/2013,,4.1
-DWM,billing,Billing Complaints Per 1000 Accounts,7/10/2013,,5.48
-DWM,billing,Billing Complaints Per 1000 Accounts,8/10/2013,,4.03
-DWM,billing,Billing Complaints Per 1000 Accounts,9/10/2013,,3.55
-DWM,billing,Billing Complaints Per 1000 Accounts,10/10/2013,,3.9
-DWM,billing,Billing Complaints Per 1000 Accounts,11/10/2013,,2.07
-DWM,billing,Billing Complaints Per 1000 Accounts,1/10/2014,,5.83
-DWM,billing,Billing Complaints Per 1000 Accounts,2/10/2014,,4.13
-DWM,billing,Billing Complaints Per 1000 Accounts,3/10/2014,,3.72
-DWM,billing,Billing Complaints Per 1000 Accounts,4/10/2014,,1.54
+DWM,billing,Billing Complaints Per 1000 Accounts,6/10/2013,4.1,
+DWM,billing,Billing Complaints Per 1000 Accounts,7/10/2013,5.48,
+DWM,billing,Billing Complaints Per 1000 Accounts,8/10/2013,4.03,
+DWM,billing,Billing Complaints Per 1000 Accounts,9/10/2013,3.55,
+DWM,billing,Billing Complaints Per 1000 Accounts,10/10/2013,3.9,
+DWM,billing,Billing Complaints Per 1000 Accounts,11/10/2013,2.07,
+DWM,billing,Billing Complaints Per 1000 Accounts,1/10/2014,5.83,
+DWM,billing,Billing Complaints Per 1000 Accounts,2/10/2014,4.13,
+DWM,billing,Billing Complaints Per 1000 Accounts,3/10/2014,3.72,
+DWM,billing,Billing Complaints Per 1000 Accounts,4/10/2014,1.54,
 DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2008,,0.071027621
 DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2008,,0.069089317
 DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2008,,0.067362512
