@@ -1,7 +1,7 @@
 - group-title: Section I -Crime Reduction
   group-description:
   charts:
-    - title: Overall Crime - Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta
+    - title: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta
       description: This data is calculated on a Year-to-date basis. This data is published by the Federal Bureau of Investigation.
       note:
       size: full
@@ -13,7 +13,7 @@
       series1-format: percentage
       series1-label: Year-Over-Year Change
 
-    - title: Crime By Zone - Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year within each of the City's Police zones
+    - title: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year within each of the City's Police zones
       description: This data is calculated on a Year-to-date basis. This data is published by the Federal Bureau of Investigation.
       note:
       size: full
