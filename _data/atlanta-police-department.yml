@@ -19,7 +19,7 @@
       size: full
       department: APD
       datasource: crime_by_zone
-      series-grouping: false
+      series-grouping: true
       series1-metric: Result
       series1-type: column
       series1-format: percentage
@@ -34,11 +34,11 @@
       size: full
       department: APD
       datasource: e911_call_center
-      series-grouping: true
+      series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Total Dispatch Calls
+      series1-label: Total Dispatched Calls
       series2-metric: Result
       series2-type: line
       series2-format: percentage
