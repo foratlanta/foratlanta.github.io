@@ -1,17 +1,45 @@
 - group-title: Atlanta Police Department
-  group-description: The mission of the Atlanta Police Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with our community.  As a result of this strategy and the City’s focus on public safety, crime levels in the City are at historically low levels not experienced since the 1960’s.  Specifically, major crime in Atlanta was down 4% year-over-year in 2013, and 18% since the Reed Administration took office in 2009.  Further reflecting the Department’s focus on community policing and ensuring a proactive presence in neighborhoods and on City streets, Mayor Reed and Chief George Turner are proud of the City’s ability to meet the longstanding goal of placing 2000 officers on the street.  Having adequate police resources across our six zones and ensuring that all of our officers have access to cutting edge technology and safety resources underpins this philosophy.  
+  group-description: <p>With an authorized strength of over 2000 sworn officers, the Atlanta Police Department is the largest law enforcement agency in the State of Georgia</p><p>The mission of the Atlanta Police Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with the community.  In addition, the Police Department operates the City’s E911 Call Center, which aims to quickly respond to emergency calls and dispatch emergency services.</p><p>This page provides performance data focused on key performance indicators for these two areas – Crime reduction and E911 Call Center performance.</p>
   charts:
-    - title: Change in Crime Rates
-      description: The City of Atlanta is split into 6 zones. This charts shows the year over year percentage change in crime for each zone, along with the overall change for the entire city.
-      note: These are year over year changes for each zone.
+    - title: Overall Crime
+      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed by year within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
+      note: These are year over year changes.
       size: full
       department: APD
-      datasource: ps_crime_rates
+      datasource: overall_crime
+      series-grouping: false
+      series1-metric: Result
+      series1-type: column
+      series1-format: percentage
+      series1-label: Percentage Change
+
+    - title: Crime By Zone
+      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed, by police zone, within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
+      note: These are year over year changes by police zone.
+      size: full
+      department: APD
+      datasource: crime_by_zone
       series-grouping: true
       series1-metric: Result
       series1-type: column
       series1-format: percentage
       series1-label: Percentage Change
+
+    - title: E911 Call Center
+      description: This chart displays the total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
+      note: These are year over year changes.
+      size: full
+      department: APD
+      datasource: e911_call_center
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Total Dispatch Calls
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Percentage calls answered in  10 seconds or less
 
 - group-title: Police Department Performance
   group-description:
