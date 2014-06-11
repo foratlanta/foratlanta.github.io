@@ -1,9 +1,9 @@
-- group-title: Atlanta Police Department
-  group-description: To remove
+- group-title: Crime Reduction
+  group-description:
   charts:
     - title: Overall Crime
-      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed by year within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
-      note: These are year over year changes.
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year across the City of Atlanta. This data is published by the Federal Bureau of Investigation.
+      note:
       size: full
       department: APD
       datasource: overall_crime
@@ -11,40 +11,35 @@
       series1-metric: Result
       series1-type: column
       series1-format: percentage
-      series1-label: Percentage Change
+      series1-label: Year-Over-Year Change
 
     - title: Crime By Zone
-      description: This chart displays the change in the number of Uniform Crime Rate (UCR) Crimes committed, by police zone, within the City of Atlanta.  This data is published by the Federal Bureau of Investigation.
-      note: These are year over year changes by police zone.
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed by year within each of the City's Police zones. This data is published by the Federal Bureau of Investigation.
+      note:
       size: full
       department: APD
       datasource: crime_by_zone
-      series-grouping: true
+      series-grouping: false
       series1-metric: Result
       series1-type: column
       series1-format: percentage
-      series1-label: Percentage Change
+      series1-label: Year-Over-Year Change
 
-    - title: E911 Call Center
-      description: This chart displays the total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
+- group-title: e911 Call Center
+  group-description:
+  charts:
+    - title: Total Dispatched Calls and Performance
+      description: Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
       note: These are year over year changes.
-      size: half
-      department: APD
-      datasource: e911_total_dispatch_calls
-      series-grouping: false
-      series1-metric: Result
-      series1-type: column
-      series1-format: number
-      series1-label: Total Dispatch Calls
-
-    - title: E911 Call Center
-      description: This chart displays the total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
-      note: These are year over year changes.
-      size: half
+      size: full
       department: APD
       datasource: e911_call_center
-      series-grouping: false
-      series1-metric: Result
+      series-grouping: true
+      series1-metric: Volume
       series1-type: column
       series1-format: number
       series1-label: Total Dispatch Calls
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: % Answered Within 10 Seconds
