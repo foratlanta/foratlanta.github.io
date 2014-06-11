@@ -3,4 +3,5 @@ markdown: redcarpet
 pygments: true
 
 permalink: /:categories/:title.html
-baseurl: /
+baseurl: http://foratlanta.github.io/
+ 
