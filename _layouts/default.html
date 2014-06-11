@@ -37,22 +37,22 @@
       <div id="leftside-navigation" class="nano">
         <ul class="nano-content">
           <li class="sub-menu">
-            <a href="javascript:void(0);"><i class="fa fa-bell"></i><span>Public Safety</span></a>
+            <strong><i class="fa fa-bell"></i> <span>Public Safety</span></strong>
             <ul>
-              <li><a href="{{ site.baseurl }}/charts/public-safety.html">Crime and Police</a></li>
-              <li><a href="{{ site.baseurl }}/charts/municipal-courts.html">Municipal Courts</a></li>
-              <li><a href="{{ site.baseurl }}/charts/emergency-response.html">Emergency Response</a></li>
+              <li{% if page.pid == 10 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/public-safety.html">Crime and Police</a></li>
+              <li{% if page.pid == 20 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/municipal-courts.html">Municipal Courts</a></li>
+              <li{% if page.pid == 30 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/emergency-response.html">Emergency Response</a></li>
             </ul>
           </li>
           <li class="sub-menu">
-            <a href="javascript:void(0);"><i class="fa fa-cogs"></i><span>Efficiency and Service</span></a>
+            <strong><i class="fa fa-cogs"></i> <span>Efficiency and Service</span></strong>
             <ul>
-              <li><a href="{{ site.baseurl }}/charts/customer-satisfaction.html">Customer Satisfaction</a></li>
-              <li><a href="{{ site.baseurl }}/charts/core-customer-services.html">Core Customer Services</a></li>
+              <li{% if page.pid == 40 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/customer-satisfaction.html">Customer Satisfaction</a></li>
+              <li{% if page.pid == 50 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/core-customer-services.html">Core Customer Services</a></li>
             </ul>
           </li>
           <li class="sub-menu">
-            <a href="javascript:void(0);"><i class="fa fa-leaf"></i><span>Infrastructure and Vitality</span></a>
+            <strong><i class="fa fa-leaf"></i> <span>Infrastructure and Vitality</span></strong>
             <ul>
               <li><a href="#">PLACEHOLDER</a></li>
               <li><a href="#">PLACEHOLDER</a></li>
