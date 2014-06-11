@@ -1,4 +1,4 @@
-- group-title: Crime Rates
+- group-title: Atlanta Police Department
   group-description: The mission of the Atlanta Police Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with our community.  As a result of this strategy and the City’s focus on public safety, crime levels in the City are at historically low levels not experienced since the 1960’s.  Specifically, major crime in Atlanta was down 4% year-over-year in 2013, and 18% since the Reed Administration took office in 2009.  Further reflecting the Department’s focus on community policing and ensuring a proactive presence in neighborhoods and on City streets, Mayor Reed and Chief George Turner are proud of the City’s ability to meet the longstanding goal of placing 2000 officers on the street.  Having adequate police resources across our six zones and ensuring that all of our officers have access to cutting edge technology and safety resources underpins this philosophy.  
   charts:
     - title: Change in Crime Rates
