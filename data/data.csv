@@ -1,415 +1,1426 @@
 Department,Chart,Metric,Date,Volume,Result
-APD,ps_crime_rates,Zone 1,06/10/13,,-0.14
-APD,ps_crime_rates,Zone 1,07/10/13,,-0.14
-APD,ps_crime_rates,Zone 1,08/10/13,,-0.17
-APD,ps_crime_rates,Zone 1,09/10/13,,-0.17
-APD,ps_crime_rates,Zone 1,10/10/13,,-0.16
-APD,ps_crime_rates,Zone 1,11/10/13,,-0.16
-APD,ps_crime_rates,Zone 2,06/10/13,,-0.04
-APD,ps_crime_rates,Zone 2,07/10/13,,-0.03
-APD,ps_crime_rates,Zone 2,08/10/13,,-0.05
-APD,ps_crime_rates,Zone 2,09/10/13,,-0.03
-APD,ps_crime_rates,Zone 2,10/10/13,,-0.03
-APD,ps_crime_rates,Zone 2,11/10/13,,-0.05
-APD,ps_crime_rates,Zone 3,06/10/13,,-0.07
-APD,ps_crime_rates,Zone 3,07/10/13,,-0.05
-APD,ps_crime_rates,Zone 3,08/10/13,,-0.07
-APD,ps_crime_rates,Zone 3,09/10/13,,-0.06
-APD,ps_crime_rates,Zone 3,10/10/13,,-0.07
-APD,ps_crime_rates,Zone 3,11/10/13,,-0.07
-APD,ps_crime_rates,Zone 4,06/10/13,,0.01
-APD,ps_crime_rates,Zone 4,07/10/13,,-0
-APD,ps_crime_rates,Zone 4,08/10/13,,-0.01
-APD,ps_crime_rates,Zone 4,09/10/13,,0.01
-APD,ps_crime_rates,Zone 4,10/10/13,,-0
-APD,ps_crime_rates,Zone 4,11/10/13,,-0.02
-APD,ps_crime_rates,Zone 5,06/10/13,,0.02
-APD,ps_crime_rates,Zone 5,07/10/13,,0.03
-APD,ps_crime_rates,Zone 5,08/10/13,,0.05
-APD,ps_crime_rates,Zone 5,09/10/13,,0.07
-APD,ps_crime_rates,Zone 5,10/10/13,,0.06
-APD,ps_crime_rates,Zone 5,11/10/13,,0.07
-APD,ps_crime_rates,Zone 6,06/10/13,,0.08
-APD,ps_crime_rates,Zone 6,07/10/13,,0.06
-APD,ps_crime_rates,Zone 6,08/10/13,,0.04
-APD,ps_crime_rates,Zone 6,09/10/13,,0.02
-APD,ps_crime_rates,Zone 6,10/10/13,,0.01
-APD,ps_crime_rates,Zone 6,11/10/13,,0.01
-APD,ps_crime_rates,Overall,01/10/13,,0.06
-APD,ps_crime_rates,Overall,02/10/13,,0.06
-APD,ps_crime_rates,Overall,03/10/13,,0.01
-APD,ps_crime_rates,Overall,04/10/13,,-0.01
-APD,ps_crime_rates,Overall,05/10/13,,-0.03
-APD,ps_crime_rates,Overall,06/10/13,,-0.03
-APD,ps_crime_rates,Overall,07/10/13,,-0.02
-APD,ps_crime_rates,Overall,08/10/13,,-0.04
-APD,ps_crime_rates,Overall,09/10/13,,-0.03
-APD,ps_crime_rates,Overall,10/10/13,,-0.03
-APD,ps_crime_rates,Overall,11/10/13,,-0.04
-APD,ps_homicides,Homicides,01/10/13,7,0
-APD,ps_homicides,Homicides,02/10/13,7,0
-APD,ps_homicides,Homicides,03/10/13,3,0
-APD,ps_homicides,Homicides,04/10/13,6,0
-APD,ps_homicides,Homicides,05/10/13,5,0
-APD,ps_homicides,Homicides,06/10/13,8,0
-APD,ps_homicides,Homicides,07/10/13,8,0
-APD,ps_homicides,Homicides,08/10/13,9,0
-APD,ps_homicides,Homicides,09/10/13,6,0
-APD,ps_homicides,Homicides,10/10/13,8,0
-APD,ps_homicides,Homicides,11/10/13,10,0
-APD,ps_homicides,Homicides,12/10/13,10,0
-APD,ps_new_officer_hires,New Hires,04/10/13,12,0
-APD,ps_new_officer_hires,New Hires,05/10/13,21,0
-APD,ps_new_officer_hires,New Hires,06/10/13,15,0
-APD,ps_new_officer_hires,New Hires,07/10/13,23,0
-APD,ps_new_officer_hires,New Hires,08/10/13,20,0
-APD,ps_new_officer_hires,New Hires,09/10/13,19,0
-APD,ps_new_officer_hires,New Hires,10/10/13,25,0
-APD,ps_new_officer_hires,New Hires,11/10/13,9,0
-APD,ps_new_officer_hires,New Hires,12/10/13,8,0
-APD,ps_ytd_clearance_rate,Aggravated Assault,01/1/2013,,0.62
-APD,ps_ytd_clearance_rate,Aggravated Assault,02/1/2013,,0.68
-APD,ps_ytd_clearance_rate,Aggravated Assault,03/1/2013,,0.68
-APD,ps_ytd_clearance_rate,Aggravated Assault,04/1/2013,,0.67
-APD,ps_ytd_clearance_rate,Aggravated Assault,05/1/2013,,0.67
-APD,ps_ytd_clearance_rate,Aggravated Assault,06/1/2013,,0.66
-APD,ps_ytd_clearance_rate,Aggravated Assault,07/1/2013,,0.64
-APD,ps_ytd_clearance_rate,Aggravated Assault,08/1/2013,,0.63
-APD,ps_ytd_clearance_rate,Aggravated Assault,09/1/2013,,0.62
-APD,ps_ytd_clearance_rate,Aggravated Assault,10/1/2013,,0.6
-APD,ps_ytd_clearance_rate,Aggravated Assault,11/1/2013,,0.61
-APD,ps_ytd_clearance_rate,Homicide,01/1/2013,,0.86
-APD,ps_ytd_clearance_rate,Homicide,02/1/2013,,0.93
-APD,ps_ytd_clearance_rate,Homicide,03/1/2013,,0.88
-APD,ps_ytd_clearance_rate,Homicide,04/1/2013,,0.87
-APD,ps_ytd_clearance_rate,Homicide,05/1/2013,,0.82
-APD,ps_ytd_clearance_rate,Homicide,06/1/2013,,0.83
-APD,ps_ytd_clearance_rate,Homicide,07/1/2013,,0.8
-APD,ps_ytd_clearance_rate,Homicide,08/1/2013,,0.79
-APD,ps_ytd_clearance_rate,Homicide,09/1/2013,,0.78
-APD,ps_ytd_clearance_rate,Homicide,10/1/2013,,0.75
-APD,ps_ytd_clearance_rate,Homicide,11/1/2013,,0.76
-APD,ps_ytd_clearance_rate,Rape,01/1/2013,,0.67
-APD,ps_ytd_clearance_rate,Rape,02/1/2013,,1.14
-APD,ps_ytd_clearance_rate,Rape,03/1/2013,,1
-APD,ps_ytd_clearance_rate,Rape,04/1/2013,,1.05
-APD,ps_ytd_clearance_rate,Rape,05/1/2013,,0.84
-APD,ps_ytd_clearance_rate,Rape,06/1/2013,,0.69
-APD,ps_ytd_clearance_rate,Rape,07/1/2013,,0.72
-APD,ps_ytd_clearance_rate,Rape,08/1/2013,,0.66
-APD,ps_ytd_clearance_rate,Rape,09/1/2013,,0.7
-APD,ps_ytd_clearance_rate,Rape,10/1/2013,,0.66
-APD,ps_ytd_clearance_rate,Rape,11/1/2013,,0.66
-APD,ps_ytd_clearance_rate,Robbery,01/1/2013,,0.2
-APD,ps_ytd_clearance_rate,Robbery,02/1/2013,,0.23
-APD,ps_ytd_clearance_rate,Robbery,03/1/2013,,0.25
-APD,ps_ytd_clearance_rate,Robbery,04/1/2013,,0.24
-APD,ps_ytd_clearance_rate,Robbery,05/1/2013,,0.22
-APD,ps_ytd_clearance_rate,Robbery,06/1/2013,,0.22
-APD,ps_ytd_clearance_rate,Robbery,07/1/2013,,0.21
-APD,ps_ytd_clearance_rate,Robbery,08/1/2013,,0.21
-APD,ps_ytd_clearance_rate,Robbery,09/1/2013,,0.21
-APD,ps_ytd_clearance_rate,Robbery,10/1/2013,,0.21
-APD,ps_ytd_clearance_rate,Robbery,11/1/2013,,0.21
-DOC,ps_jail_population,Atlanta,01/10/13,406,
-DOC,ps_jail_population,Atlanta,02/10/13,421,
-DOC,ps_jail_population,Atlanta,03/10/13,425,
-DOC,ps_jail_population,Atlanta,04/10/13,476,
-DOC,ps_jail_population,Atlanta,05/10/13,584,
-DOC,ps_jail_population,Atlanta,06/10/13,615,
-DOC,ps_jail_population,Atlanta,07/10/13,624,
-DOC,ps_jail_population,Atlanta,08/10/13,592,
-DOC,ps_jail_population,Atlanta,09/10/13,659,
-DOC,ps_jail_population,Atlanta,10/10/13,654,
-DOC,ps_jail_population,Atlanta,11/10/13,672,
-DOC,ps_jail_population,Atlanta,12/10/13,555,
-DOC,ps_jail_population,Non-Atlanta,09/10/13,158,
-DOC,ps_jail_population,Non-Atlanta,10/10/13,186,
-DOC,ps_jail_population,Non-Atlanta,11/10/13,212,
-DOC,ps_jail_population,Non-Atlanta,12/10/13,127,
-DOC,ps_median_booking_time,Atlanta,01/10/13,110,
-DOC,ps_median_booking_time,Atlanta,02/10/13,138,
-DOC,ps_median_booking_time,Atlanta,03/10/13,116,
-DOC,ps_median_booking_time,Atlanta,04/10/13,114,
-DOC,ps_median_booking_time,Atlanta,05/10/13,115,
-DOC,ps_median_booking_time,Atlanta,06/10/13,122,
-DOC,ps_median_booking_time,Atlanta,07/10/13,136,
-DOC,ps_median_booking_time,Atlanta,08/10/13,122,
-DOC,ps_median_booking_time,Atlanta,09/10/13,122,
-DOC,ps_median_booking_time,Atlanta,10/10/13,112,
-DOC,ps_median_booking_time,Atlanta,11/10/13,-0,
-DOC,ps_median_booking_time,Atlanta,12/10/13,88.5,
-DOC,ps_median_booking_time,Non-Atlanta,09/10/13,,
-DOC,ps_median_booking_time,Non-Atlanta,10/10/13,,
-DOC,ps_median_booking_time,Non-Atlanta,11/10/13,,
-DOC,ps_median_booking_time,Non-Atlanta,12/10/13,,
-DOC,ps_recidivists,Recidivists,07/10/13,,0.61
-DOC,ps_recidivists,Recidivists,08/10/13,,0.6
-DOC,ps_recidivists,Recidivists,09/10/13,,0.59
-DOC,ps_recidivists,Recidivists,10/10/13,,0.57
-DOC,ps_recidivists,Recidivists,11/10/13,,0.56
-DOC,ps_recidivists,Recidivists,12/10/13,,0.58
-CODE,cs_departmental_service_requests,Percentage Completed,03/10/13,2452,0.2
-CODE,cs_departmental_service_requests,Percentage Completed,04/10/13,2237,0.17
-CODE,cs_departmental_service_requests,Percentage Completed,05/10/13,1618,0.23
-CODE,cs_departmental_service_requests,Percentage Completed,06/10/13,2263,0.31
-CODE,cs_departmental_service_requests,Percentage Completed,07/10/13,3146,0.43
-CODE,cs_departmental_service_requests,Percentage Completed,08/10/13,3063,0.64
-CODE,cs_departmental_service_requests,Percentage Completed,09/10/13,2844,0.59
-CODE,cs_departmental_service_requests,Percentage Completed,10/10/13,2419,0.59
-CODE,cs_departmental_service_requests,Percentage Completed,11/10/13,2127,0.52
-CODE,cs_departmental_service_requests,Percentage Completed,12/10/13,1738,0.51
-CODE,cs_hazardous_vacant,Hazardous or Vacant,02/10/13,0,0.09
-CODE,cs_hazardous_vacant,Hazardous or Vacant,03/10/13,749,0.08
-CODE,cs_hazardous_vacant,Hazardous or Vacant,04/10/13,721,0.06
-CODE,cs_hazardous_vacant,Hazardous or Vacant,05/10/13,477,0.15
-CODE,cs_hazardous_vacant,Hazardous or Vacant,06/10/13,625,0.12
-CODE,cs_hazardous_vacant,Hazardous or Vacant,07/10/13,873,0.25
-CODE,cs_hazardous_vacant,Hazardous or Vacant,08/10/13,718,0.31
-CODE,cs_hazardous_vacant,Hazardous or Vacant,09/10/13,645,0.28
-CODE,cs_hazardous_vacant,Hazardous or Vacant,10/10/13,502,0.31
-CODE,cs_hazardous_vacant,Hazardous or Vacant,11/10/13,460,0.25
-CODE,cs_hazardous_vacant,Hazardous or Vacant,12/10/13,356,0.24
-CODE,cs_general_inspection,Inspection,02/10/13,0,0.16
-CODE,cs_general_inspection,Inspection,03/10/13,1546,0.21
-CODE,cs_general_inspection,Inspection,04/10/13,1357,0.18
-CODE,cs_general_inspection,Inspection,05/10/13,1059,0.22
-CODE,cs_general_inspection,Inspection,06/10/13,1524,0.34
-CODE,cs_general_inspection,Inspection,07/10/13,2151,0.48
-CODE,cs_general_inspection,Inspection,08/10/13,2102,0.71
-CODE,cs_general_inspection,Inspection,09/10/13,2020,0.65
-CODE,cs_general_inspection,Inspection,10/10/13,1768,0.64
-CODE,cs_general_inspection,Inspection,11/10/13,1579,0.57
-CODE,cs_general_inspection,Inspection,12/10/13,1287,0.55
-COURT,municipal_courts_criminal,Criminal,05/10/13,4327,0
-COURT,municipal_courts_criminal,Criminal,06/10/13,3861,0.3
-COURT,municipal_courts_criminal,Criminal,07/10/13,3445,0.34
-COURT,municipal_courts_criminal,Criminal,08/10/13,2119,0.5
-COURT,municipal_courts_criminal,Criminal,09/10/13,1940,0.48
-COURT,municipal_courts_criminal,Criminal,10/10/13,1878,0.5
-COURT,municipal_courts_criminal,Criminal,11/10/13,1565,0.5
-COURT,municipal_courts_criminal,Criminal,12/10/13,1475,0
-COURT,municipal_courts_traffic,Traffic,05/10/13,12370,0
-COURT,municipal_courts_traffic,Traffic,06/10/13,13416,0.1
-COURT,municipal_courts_traffic,Traffic,07/10/13,14918,0.1
-COURT,municipal_courts_traffic,Traffic,08/10/13,12770,0.11
-COURT,municipal_courts_traffic,Traffic,09/10/13,16064,0.11
-COURT,municipal_courts_traffic,Traffic,10/10/13,14265,0.11
-COURT,municipal_courts_traffic,Traffic,11/10/13,10745,0.11
-COURT,municipal_courts_traffic,Traffic,12/10/13,11557,0
-AFR,emergency_response_ems,EMS,01/10/13,4209,0
-AFR,emergency_response_ems,EMS,02/10/13,3626,0
-AFR,emergency_response_ems,EMS,03/10/13,3957,0
-AFR,emergency_response_ems,EMS,04/10/13,3938,91
-AFR,emergency_response_ems,EMS,05/10/13,3919,75
-AFR,emergency_response_ems,EMS,06/10/13,4253,76
-AFR,emergency_response_ems,EMS,07/10/13,3714,78
-AFR,emergency_response_ems,EMS,08/10/13,3889,70
-AFR,emergency_response_ems,EMS,09/10/13,3763,0
-AFR,emergency_response_ems,EMS,10/10/13,3878,0
-AFR,emergency_response_ems,EMS,11/10/13,3771,0
-AFR,emergency_response_fire,Fire,01/10/13,134,0
-AFR,emergency_response_fire,Fire,02/10/13,128,0
-AFR,emergency_response_fire,Fire,03/10/13,0,0
-AFR,emergency_response_fire,Fire,04/10/13,34,66
-AFR,emergency_response_fire,Fire,05/10/13,42,94
-AFR,emergency_response_fire,Fire,06/10/13,20,58
-AFR,emergency_response_fire,Fire,07/10/13,31,70
-AFR,emergency_response_fire,Fire,08/10/13,38,100
-AFR,emergency_response_fire,Fire,09/10/13,32,0
-AFR,emergency_response_fire,Fire,10/10/13,20,0
-AFR,emergency_response_fire,Fire,11/10/13,26,0
-AFR,customer_satisfaction,Atlanta Fire & Rescue,03/10/13,0,0
-AFR,customer_satisfaction,Atlanta Fire & Rescue,04/10/13,0,0
-AFR,customer_satisfaction,Atlanta Fire & Rescue,05/10/13,814,0.45
-AFR,customer_satisfaction,Atlanta Fire & Rescue,06/10/13,170,0.65
-AFR,customer_satisfaction,Atlanta Fire & Rescue,07/10/13,499,0.48
-AFR,customer_satisfaction,Atlanta Fire & Rescue,08/10/13,419,0.62
-AFR,customer_satisfaction,Atlanta Fire & Rescue,09/10/13,150,0.87
-AFR,customer_satisfaction,Atlanta Fire & Rescue,10/10/13,249,0.94
-AFR,customer_satisfaction,Atlanta Fire & Rescue,11/10/13,130,0.92
-AFR,customer_satisfaction,Atlanta Fire & Rescue,12/10/13,0,0
-CODE,customer_satisfaction,Code Enforcement,03/10/13,2452,0.2
-CODE,customer_satisfaction,Code Enforcement,04/10/13,2237,0.17
-CODE,customer_satisfaction,Code Enforcement,05/10/13,1618,0.23
-CODE,customer_satisfaction,Code Enforcement,06/10/13,2263,0.31
-CODE,customer_satisfaction,Code Enforcement,07/10/13,3146,0.43
-CODE,customer_satisfaction,Code Enforcement,08/10/13,3063,0.64
-CODE,customer_satisfaction,Code Enforcement,09/10/13,2844,0.59
-CODE,customer_satisfaction,Code Enforcement,10/10/13,2419,0.59
-CODE,customer_satisfaction,Code Enforcement,11/10/13,2127,0.52
-CODE,customer_satisfaction,Code Enforcement,12/10/13,1738,0.51
-DPCD,customer_satisfaction,Department of Planning and Community Development,03/10/13,0,0
-DPCD,customer_satisfaction,Department of Planning and Community Development,04/10/13,0,0
-DPCD,customer_satisfaction,Department of Planning and Community Development,05/10/13,5499,0.99
-DPCD,customer_satisfaction,Department of Planning and Community Development,06/10/13,5906,0.98
-DPCD,customer_satisfaction,Department of Planning and Community Development,07/10/13,6627,0.99
-DPCD,customer_satisfaction,Department of Planning and Community Development,08/10/13,6614,0.98
-DPCD,customer_satisfaction,Department of Planning and Community Development,09/10/13,5935,0.99
-DPCD,customer_satisfaction,Department of Planning and Community Development,10/10/13,7145,0.99
-DPCD,customer_satisfaction,Department of Planning and Community Development,11/10/13,6113,0.99
-DPCD,customer_satisfaction,Department of Planning and Community Development,12/10/13,6109,0.99
-DPR,customer_satisfaction,Parks and Recreation,03/10/13,0,0
-DPR,customer_satisfaction,Parks and Recreation,04/10/13,0,0
-DPR,customer_satisfaction,Parks and Recreation,05/10/13,0,0
-DPR,customer_satisfaction,Parks and Recreation,06/10/13,512,0.86
-DPR,customer_satisfaction,Parks and Recreation,07/10/13,503,0.74
-DPR,customer_satisfaction,Parks and Recreation,08/10/13,652,0.76
-DPR,customer_satisfaction,Parks and Recreation,09/10/13,582,0.9
-DPR,customer_satisfaction,Parks and Recreation,10/10/13,619,0.87
-DPR,customer_satisfaction,Parks and Recreation,11/10/13,511,0.57
-DPR,customer_satisfaction,Parks and Recreation,12/10/13,233,0.83
-DPW,customer_satisfaction,Public Works,03/10/13,0,0
-DPW,customer_satisfaction,Public Works,04/10/13,2894,0.57
-DPW,customer_satisfaction,Public Works,05/10/13,3136,0.74
-DPW,customer_satisfaction,Public Works,06/10/13,3258,0.93
-DPW,customer_satisfaction,Public Works,07/10/13,4069,0.94
-DPW,customer_satisfaction,Public Works,08/10/13,4169,0.85
-DPW,customer_satisfaction,Public Works,09/10/13,4178,0.89
-DPW,customer_satisfaction,Public Works,10/10/13,4445,0.97
-DPW,customer_satisfaction,Public Works,11/10/13,2746,0.93
-DPW,customer_satisfaction,Public Works,12/10/13,3506,0.75
-DWM,customer_satisfaction,Waste Management,03/10/13,0,0
-DWM,customer_satisfaction,Waste Management,04/10/13,0,0
-DWM,customer_satisfaction,Waste Management,05/10/13,0,0
-DWM,customer_satisfaction,Waste Management,06/10/13,3029,0.98
-DWM,customer_satisfaction,Waste Management,07/10/13,4375,0.92
-DWM,customer_satisfaction,Waste Management,08/10/13,3987,0.93
-DWM,customer_satisfaction,Waste Management,09/10/13,3269,0.95
-DWM,customer_satisfaction,Waste Management,10/10/13,3534,0.97
-DWM,customer_satisfaction,Waste Management,11/10/13,2990,0.94
-DWM,customer_satisfaction,Waste Management,12/10/13,2495,0.96
-CODE,cs_code,Departmental Service Requests completed within target timeframe,03/10/13,2452,0.2
-CODE,cs_code,Departmental Service Requests completed within target timeframe,04/10/13,2237,0.17
-CODE,cs_code,Departmental Service Requests completed within target timeframe,05/10/13,1618,0.23
-CODE,cs_code,Departmental Service Requests completed within target timeframe,06/10/13,2263,0.31
-CODE,cs_code,Departmental Service Requests completed within target timeframe,07/10/13,3146,0.43
-CODE,cs_code,Departmental Service Requests completed within target timeframe,08/10/13,3063,0.64
-CODE,cs_code,Departmental Service Requests completed within target timeframe,09/10/13,2844,0.59
-CODE,cs_code,Departmental Service Requests completed within target timeframe,10/10/13,2419,0.59
-CODE,cs_code,Departmental Service Requests completed within target timeframe,11/10/13,2127,0.52
-CODE,cs_code,Departmental Service Requests completed within target timeframe,12/10/13,1738,0.51
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,02/10/13,,0.09
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,03/10/13,749,0.08
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,04/10/13,721,0.06
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,05/10/13,477,0.15
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,06/10/13,625,0.12
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,07/10/13,873,0.25
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,08/10/13,718,0.31
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,09/10/13,645,0.28
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,10/10/13,502,0.31
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,11/10/13,460,0.25
-CODE,cs_code,Highly Hazardous/Open and Vacant - SLA 58 Days,12/10/13,356,0.24
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,02/10/13,,0.16
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,03/10/13,1546,0.21
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,04/10/13,1357,0.18
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,05/10/13,1059,0.22
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,06/10/13,1524,0.34
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,07/10/13,2151,0.48
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,08/10/13,2102,0.71
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,09/10/13,2020,0.65
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,10/10/13,1768,0.64
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,11/10/13,1579,0.57
-CODE,cs_code,Property and Maintenance General Inspection - SLA 120 Days,12/10/13,1287,0.55
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,06/10/13,711,0.93
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,07/10/13,874,1.00
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,08/10/13,410,0.98
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,09/10/13,173,0.92
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,10/10/13,382,0.98
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,11/10/13,291,0.98
-DPCD,cs_dpcd,Business License zoning reviews completed within 2-day SLA,12/10/13,182,0.98
-DPCD,cs_dpcd,Inspections Completed Within SLA,05/10/13,5499,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,06/10/13,5180,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,07/10/13,5682,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,08/10/13,6092,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,09/10/13,5668,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,10/10/13,6649,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,11/10/13,5725,0.99
-DPCD,cs_dpcd,Inspections Completed Within SLA,12/10/13,5725,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,05/10/13,5499,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,06/10/13,5906,0.98
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,07/10/13,6627,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,08/10/13,6614,0.98
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,09/10/13,5935,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,10/10/13,7145,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,11/10/13,6113,0.99
-DPCD,cs_dpcd,Departmental Service Requests completed within target timeframe,12/10/13,6109,0.99
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,04/10/13,1103,0.58
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,05/10/13,1142,0.86
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,06/10/13,970,0.98
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,07/10/13,1110,1
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,08/10/13,1067,1
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,09/10/13,854,0.8
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,10/10/13,824,0.99
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,11/10/13,687,0.99
-DPW,cs_dpw,Bin Delivery and Pick-up Completed Within SLA,12/10/13,799,0.96
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,04/10/13,2894,0.57
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,05/10/13,3136,0.74
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,06/10/13,3258,0.93
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,07/10/13,4069,0.94
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,08/10/13,4169,0.85
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,09/10/13,4178,0.89
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,10/10/13,4445,0.97
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,11/10/13,2746,0.93
-DPW,cs_dpw,Departmental Service Requests completed within target timeframe,12/10/13,3506,0.75
-DPW,cs_dpw,Missed Collections Completed Within SLA,04/10/13,667,0.24
-DPW,cs_dpw,Missed Collections Completed Within SLA,05/10/13,893,0.47
-DPW,cs_dpw,Missed Collections Completed Within SLA,06/10/13,740,0.85
-DPW,cs_dpw,Missed Collections Completed Within SLA,07/10/13,871,0.88
-DPW,cs_dpw,Missed Collections Completed Within SLA,08/10/13,1046,0.52
-DPW,cs_dpw,Missed Collections Completed Within SLA,09/10/13,1273,0.89
-DPW,cs_dpw,Missed Collections Completed Within SLA,10/10/13,1185,0.98
-DPW,cs_dpw,Missed Collections Completed Within SLA,11/10/13,532,0.84
-DPW,cs_dpw,Missed Collections Completed Within SLA,12/10/13,1041,0.56
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,04/10/13,244,0.64
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,05/10/13,186,0.89
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,06/10/13,390,0.94
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,07/10/13,567,0.99
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,08/10/13,563,0.98
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,09/10/13,558,1
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,10/10/13,830,0.99
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,11/10/13,522,1
-DPW,cs_dpw,Traffic Signal Repair Completed Within SLA,12/10/13,586,0.78
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,06/10/13,3029,0.98
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,07/10/13,4375,0.92
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,08/10/13,3987,0.93
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,09/10/13,3269,0.95
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,10/10/13,3534,0.97
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,11/10/13,2990,0.94
-DWM,cs_dwm,Departmental Service Requests completed within target timeframe,12/10/13,2495,0.96
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,01/10/13,,0.97
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,02/10/13,,0.99
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,03/10/13,,0.98
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,04/10/13,,0.95
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,05/10/13,,0.98
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,06/10/13,958,0.98
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,07/10/13,1215,0.97
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,08/10/13,1024,0.98
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,09/10/13,885,0.98
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,10/10/13,858,0.99
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,11/10/13,662,0.97
-DWM,cs_dwm,Close Account - Vacant - Turn Off - SLA 24 Hours,12/10/13,786,0.98
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,01/10/13,,1
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,02/10/13,,0.98
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,03/10/13,,0.99
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,04/10/13,,0.99
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,05/10/13,,0.99
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,06/10/13,850,0.99
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,07/10/13,1012,0.97
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,08/10/13,943,0.95
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,09/10/13,714,1
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,10/10/13,760,0.98
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,11/10/13,644,0.99
-DWM,cs_dwm,New Account Request - Not Vacant (Move In / Move Out) - SLA 24 Hours,12/10/13,707,0.99
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,01/10/13,,0.98
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,02/10/13,,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,03/10/13,,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,04/10/13,,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,05/10/13,,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,06/10/13,856,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,07/10/13,987,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,08/10/13,1001,0.97
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,09/10/13,795,1
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,10/10/13,893,0.99
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,11/10/13,717,0.99
-DWM,cs_dwm,New Account Request - Vacant - Turn On - SLA 24 Hours,12/10/13,638,0.99
+AFR,ems_events,EMS Events,7/10/2008,,2685
+AFR,ems_events,EMS Events,8/10/2008,,2703
+AFR,ems_events,EMS Events,9/10/2008,,2500
+AFR,ems_events,EMS Events,10/10/2008,,2583
+AFR,ems_events,EMS Events,11/10/2008,,2440
+AFR,ems_events,EMS Events,12/10/2008,,2420
+AFR,ems_events,EMS Events,1/10/2009,,2739
+AFR,ems_events,EMS Events,2/10/2009,,2230
+AFR,ems_events,EMS Events,3/10/2009,,2451
+AFR,ems_events,EMS Events,4/10/2009,,2122
+AFR,ems_events,EMS Events,5/10/2009,,2322
+AFR,ems_events,EMS Events,6/10/2009,,2126
+AFR,ems_events,EMS Events,7/10/2009,,2214
+AFR,ems_events,EMS Events,8/10/2009,,2465
+AFR,ems_events,EMS Events,9/10/2009,,2245
+AFR,ems_events,EMS Events,10/10/2009,,2120
+AFR,ems_events,EMS Events,11/10/2009,,2161
+AFR,ems_events,EMS Events,12/10/2009,,2284
+AFR,ems_events,EMS Events,1/10/2010,,2377
+AFR,ems_events,EMS Events,2/10/2010,,2367
+AFR,ems_events,EMS Events,3/10/2010,,2545
+AFR,ems_events,EMS Events,4/10/2010,,2520
+AFR,ems_events,EMS Events,5/10/2010,,2702
+AFR,ems_events,EMS Events,6/10/2010,,2937
+AFR,ems_events,EMS Events,7/10/2010,,3012
+AFR,ems_events,EMS Events,8/10/2010,,2879
+AFR,ems_events,EMS Events,9/10/2010,,3042
+AFR,ems_events,EMS Events,10/10/2010,,3016
+AFR,ems_events,EMS Events,11/10/2010,,2998
+AFR,ems_events,EMS Events,12/10/2010,,2947
+AFR,ems_events,EMS Events,1/10/2011,,3051
+AFR,ems_events,EMS Events,2/10/2011,,2919
+AFR,ems_events,EMS Events,3/10/2011,,3097
+AFR,ems_events,EMS Events,4/10/2011,,3113
+AFR,ems_events,EMS Events,5/10/2011,,3133
+AFR,ems_events,EMS Events,6/10/2011,,3266
+AFR,ems_events,EMS Events,7/10/2011,,3506
+AFR,ems_events,EMS Events,8/10/2011,,3504
+AFR,ems_events,EMS Events,9/10/2011,,3326
+AFR,ems_events,EMS Events,10/10/2011,,3371
+AFR,ems_events,EMS Events,11/10/2011,,3201
+AFR,ems_events,EMS Events,12/10/2011,,3474
+AFR,ems_events,EMS Events,1/10/2012,,3688
+AFR,ems_events,EMS Events,2/10/2012,,3582
+AFR,ems_events,EMS Events,3/10/2012,,3930
+AFR,ems_events,EMS Events,4/10/2012,,3678
+AFR,ems_events,EMS Events,5/10/2012,,3932
+AFR,ems_events,EMS Events,6/10/2012,,4113
+AFR,ems_events,EMS Events,7/10/2012,,4155
+AFR,ems_events,EMS Events,8/10/2012,,4161
+AFR,ems_events,EMS Events,9/10/2012,,3989
+AFR,ems_events,EMS Events,10/10/2012,,3988
+AFR,ems_events,EMS Events,11/10/2012,,3815
+AFR,ems_events,EMS Events,12/10/2012,,4320
+AFR,ems_events,EMS Events,1/10/2013,,4209
+AFR,ems_events,EMS Events,2/10/2013,,3626
+AFR,ems_events,EMS Events,3/10/2013,,3957
+AFR,ems_events,EMS Events,4/10/2013,,3938
+AFR,ems_events,EMS Events,5/10/2013,,3919
+AFR,ems_events,EMS Events,6/10/2013,,4253
+AFR,ems_events,EMS Events,7/10/2013,,3714
+AFR,ems_events,EMS Events,8/10/2013,,3889
+AFR,ems_events,EMS Events,9/10/2013,,3763
+AFR,ems_events,EMS Events,10/10/2013,,3878
+AFR,ems_events,EMS Events,11/10/2013,,3771
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),5/10/2013,,0.49
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),6/10/2013,,0.49
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),7/10/2013,,0.49
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),8/10/2013,,0.5
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),9/10/2013,,0.51
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),10/10/2013,,0.51
+AFR,ems_performance,% EMS Incidents Meeting Standards of Response Coverage (SORC),11/10/2013,,0.52
+AFR,ems_performance,Average Turnout Time for EMS Events,4/10/2013,91,
+AFR,ems_performance,Average Turnout Time for EMS Events,5/10/2013,75,
+AFR,ems_performance,Average Turnout Time for EMS Events,6/10/2013,76,
+AFR,ems_performance,Average Turnout Time for EMS Events,7/10/2013,78,
+AFR,ems_performance,Average Turnout Time for EMS Events,8/10/2013,70,
+AFR,fire_events,Total Fire Events,7/10/2012,185,
+AFR,fire_events,Total Fire Events,8/10/2012,128,
+AFR,fire_events,Total Fire Events,9/10/2012,144,
+AFR,fire_events,Total Fire Events,10/10/2012,164,
+AFR,fire_events,Total Fire Events,11/10/2012,177,
+AFR,fire_events,Total Fire Events,12/10/2012,134,
+AFR,fire_events,Total Fire Events,1/10/2013,131,
+AFR,fire_events,Total Fire Events,2/10/2013,194,
+AFR,fire_events,Total Fire Events,3/10/2013,178,
+AFR,fire_events,Total Fire Events,4/10/2013,128,
+AFR,fire_events,Total Fire Events,5/10/2013,150,
+AFR,fire_events,Total Fire Events,6/10/2013,115,
+AFR,fire_events,Total Fire Events,7/10/2013,110,
+AFR,fire_events,Total Fire Events,8/10/2013,131,
+AFR,fire_events,Total Fire Events,9/10/2013,137,
+AFR,fire_events,Total Fire Events,10/10/2013,135,
+AFR,fire_events,Total Fire Events,11/10/2013,132,
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2008,,0.65
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2008,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2008,,0.77
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2008,,0.74
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2008,,0.73
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),12/10/2008,,0.7
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),1/10/2009,,0.78
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),2/10/2009,,0.75
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),3/10/2009,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),4/10/2009,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),5/10/2009,,0.55
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),6/10/2009,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2009,,0.66
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2009,,0.59
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2009,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2009,,0.49
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2009,,0.56
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),12/10/2009,,0.56
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),1/10/2010,,0.61
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),2/10/2010,,0.52
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),3/10/2010,,0.6
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),4/10/2010,,0.68
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),5/10/2010,,0.58
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),6/10/2010,,0.55
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2010,,0.55
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2010,,0.55
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2010,,0.6
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2010,,0.67
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2010,,0.65
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),12/10/2010,,0.79
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),1/10/2011,,0.66
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),2/10/2011,,0.65
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),3/10/2011,,0.77
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),4/10/2011,,0.59
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),5/10/2011,,0.59
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),6/10/2011,,0.53
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2011,,0.75
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2011,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2011,,0.79
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2011,,0.7
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2011,,0.81
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),12/10/2011,,0.8
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),1/10/2012,,0.84
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),2/10/2012,,0.93
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),3/10/2012,,0.71
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),4/10/2012,,0.88
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),5/10/2012,,0.9
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2012,,0.86
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2012,,0.8
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2012,,0.81
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2012,,0.82
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2012,,0.89
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),12/10/2012,,0.79
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),1/10/2013,,0.9
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),2/10/2013,,0.7
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),3/10/2013,,0.8
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),4/10/2013,,0.96
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),5/10/2013,,0.68
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),6/10/2013,,1
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),7/10/2013,,0.73
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),8/10/2013,,0.78
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),9/10/2013,,0.84
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),10/10/2013,,0.7
+AFR,fire_performance,% of Fire Incidents Meeting Standards of Response Coverage (SORC),11/10/2013,,0.73
+AFR,fire_performance,Average Turnout Time for Fire Events,4/10/2013,66,
+AFR,fire_performance,Average Turnout Time for Fire Events,5/10/2013,94,
+AFR,fire_performance,Average Turnout Time for Fire Events,6/10/2013,58,
+AFR,fire_performance,Average Turnout Time for Fire Events,7/10/2013,70,
+AFR,fire_performance,Average Turnout Time for Fire Events,8/10/2013,100,
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,6/10/2013,,-0.14
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,7/10/2013,,-0.14
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,8/10/2013,,-0.17
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,9/10/2013,,-0.17
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,10/10/2013,,-0.16
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,11/10/2013,,-0.16
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,12/10/2013,,-0.16
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,1/10/2014,,-0.08
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,2/10/2014,,-0.12
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,3/10/2014,,-0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,6/10/2013,,-0.04
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,7/10/2013,,-0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,8/10/2013,,-0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,9/10/2013,,-0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,10/10/2013,,-0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,11/10/2013,,-0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,12/10/2013,,-0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,1/10/2014,,-0.13
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,2/10/2014,,-0.14
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 2,3/10/2014,,-0.08
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,6/10/2013,,-0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,7/10/2013,,-0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,8/10/2013,,-0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,9/10/2013,,-0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,10/10/2013,,-0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,11/10/2013,,-0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,12/10/2013,,-0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,1/10/2014,,-0.17
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,2/10/2014,,-0.11
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 3,3/10/2014,,-0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,6/10/2013,,0.01
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,7/10/2013,,0
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,8/10/2013,,-0.01
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,9/10/2013,,0.01
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,10/10/2013,,0
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,11/10/2013,,-0.02
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,12/10/2013,,-0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,1/10/2014,,-0.24
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,2/10/2014,,-0.21
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 4,3/10/2014,,-0.19
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,6/10/2013,,0.02
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,7/10/2013,,0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,8/10/2013,,0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,9/10/2013,,0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,10/10/2013,,0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,11/10/2013,,0.07
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,12/10/2013,,0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,1/10/2014,,-0.03
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,2/10/2014,,-0.04
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,3/10/2014,,-0.05
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,6/10/2013,,0.08
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,7/10/2013,,0.06
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,8/10/2013,,0.04
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,9/10/2013,,0.02
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,10/10/2013,,0.01
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,11/10/2013,,0
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,12/10/2013,,-0.01
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,1/10/2014,,-0.36
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,2/10/2014,,-0.24
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,3/10/2014,,-0.23
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2009,,0.8
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2009,,0.8
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2009,,0.8
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2009,,0.64
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,11/10/2009,,0.62
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2009,,0.82
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2010,,0.89
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,2/10/2010,,0.88
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2010,,0.86
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2010,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,5/10/2010,,0.85
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,6/10/2010,,0.83
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2010,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2010,,0.87
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2010,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2010,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,11/10/2010,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2010,,0.88
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,2/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2011,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,5/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,6/10/2011,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2011,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2011,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,11/10/2011,,0.95
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2011,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2012,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,2/10/2012,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2012,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2012,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,5/10/2012,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,6/10/2012,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2012,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2012,,0.94
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2012,,0.95
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2012,,0.97
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,11/10/2012,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2012,,0.94
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2013,,0.94
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,2/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,5/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,6/10/2013,,0.9
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2013,,0.91
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2013,,0.92
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,11/10/2013,,0.93
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,12/10/2013,,0.94
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,1/10/2014,,0.95
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,3/10/2014,,0.95
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,4/10/2014,,0.95
+APD,e911_call_center,Total Dispatched Calls,9/10/2009,55096,
+APD,e911_call_center,Total Dispatched Calls,10/10/2009,40699,
+APD,e911_call_center,Total Dispatched Calls,11/10/2009,38278,
+APD,e911_call_center,Total Dispatched Calls,12/10/2009,40976,
+APD,e911_call_center,Total Dispatched Calls,1/10/2010,31787,
+APD,e911_call_center,Total Dispatched Calls,2/10/2010,43555,
+APD,e911_call_center,Total Dispatched Calls,3/10/2010,46989,
+APD,e911_call_center,Total Dispatched Calls,5/10/2010,34056,
+APD,e911_call_center,Total Dispatched Calls,7/10/2011,34940,
+APD,e911_call_center,Total Dispatched Calls,8/10/2011,33611,
+APD,e911_call_center,Total Dispatched Calls,9/10/2011,31108,
+APD,e911_call_center,Total Dispatched Calls,10/10/2011,31423,
+APD,e911_call_center,Total Dispatched Calls,11/10/2011,28863,
+APD,e911_call_center,Total Dispatched Calls,3/10/2012,32571,
+APD,e911_call_center,Total Dispatched Calls,4/10/2012,31498,
+APD,e911_call_center,Total Dispatched Calls,5/10/2012,34039,
+APD,e911_call_center,Total Dispatched Calls,6/10/2012,34050,
+APD,e911_call_center,Total Dispatched Calls,7/10/2012,34987,
+APD,e911_call_center,Total Dispatched Calls,8/10/2012,33288,
+APD,e911_call_center,Total Dispatched Calls,9/10/2012,32159,
+APD,e911_call_center,Total Dispatched Calls,10/10/2012,32830,
+APD,e911_call_center,Total Dispatched Calls,11/10/2012,28079,
+APD,e911_call_center,Total Dispatched Calls,12/10/2012,29645,
+APD,e911_call_center,Total Dispatched Calls,1/10/2013,29895,
+APD,e911_call_center,Total Dispatched Calls,2/10/2013,25277,
+APD,e911_call_center,Total Dispatched Calls,3/10/2013,29337,
+APD,e911_call_center,Total Dispatched Calls,4/10/2013,30436,
+APD,e911_call_center,Total Dispatched Calls,5/10/2013,31358,
+APD,e911_call_center,Total Dispatched Calls,6/10/2013,33864,
+APD,e911_call_center,Total Dispatched Calls,7/10/2013,33959,
+APD,e911_call_center,Total Dispatched Calls,8/10/2013,32456,
+APD,e911_call_center,Total Dispatched Calls,9/10/2013,30776,
+APD,e911_call_center,Total Dispatched Calls,10/10/2013,30844,
+APD,e911_call_center,Total Dispatched Calls,11/10/2013,27968,
+APD,e911_call_center,Total Dispatched Calls,12/10/2013,28737,
+APD,e911_call_center,Total Dispatched Calls,1/10/2014,31323,
+APD,e911_call_center,Total Dispatched Calls,2/10/2014,26888,
+APD,e911_call_center,Total Dispatched Calls,3/10/2014,32197,
+APD,e911_call_center,Total Dispatched Calls,4/10/2014,33254,
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2009,,-0.07
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2009,,-0.06
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2009,,-0.1
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,4/10/2009,,-0.1
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,5/10/2009,,-0.11
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,6/10/2009,,-0.09
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,7/10/2009,,-0.1
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,8/10/2009,,-0.12
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,9/10/2009,,-0.14
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,10/10/2009,,-0.13
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,11/10/2009,,-0.13
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2010,,-0.23
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2010,,-0.25
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2010,,-0.2
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,4/10/2010,,-0.16
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,5/10/2010,,-0.14
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,6/10/2010,,-0.14
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,7/10/2010,,-0.13
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,8/10/2010,,-0.12
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,9/10/2010,,-0.1
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,10/10/2010,,-0.11
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,11/10/2010,,-0.11
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,12/10/2010,,-0.1
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2011,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2011,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2011,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,4/10/2011,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,5/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,6/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,7/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,8/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,9/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,10/10/2011,,0
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,11/10/2011,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,12/10/2011,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2012,,0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2012,,0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2012,,0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,4/10/2012,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,5/10/2012,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,6/10/2012,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,7/10/2012,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,8/10/2012,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,9/10/2012,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,10/10/2012,,-0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,11/10/2012,,-0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,12/10/2012,,-0.07
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2013,,0.06
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2013,,0.06
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2013,,0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,4/10/2013,,-0.01
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,5/10/2013,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,6/10/2013,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,7/10/2013,,-0.02
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,8/10/2013,,-0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,9/10/2013,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,10/10/2013,,-0.03
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,11/10/2013,,-0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,12/10/2013,,-0.04
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2014,,-0.18
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2014,,-0.15
+APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2014,,-0.12
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,8/10/2013,,1072
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,9/10/2013,,1098
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,10/10/2013,,908
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,11/10/2013,,877
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,12/10/2013,,707
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,1/10/2014,,554
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,2/10/2014,,400
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,3/10/2014,,408
+CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,4/10/2014,,321
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,7/10/2013,,784
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,8/10/2013,,1546
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,9/10/2013,,2268
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,10/10/2013,,5238
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,11/10/2013,,5721
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,12/10/2013,,6041
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,1/10/2014,,266
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,2/10/2014,,900
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,3/10/2014,,1650
+CODE,code_compliance_complaints,Total Code Compliance Complaints From Public,4/10/2014,,705
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/10/2013,,0.086
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2013,749,0.079
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2013,721,0.062
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,5/10/2013,477,0.15
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,6/10/2013,625,0.12
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,7/10/2013,873,0.25
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,8/10/2013,718,0.308
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,9/10/2013,645,0.28
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,10/10/2013,502,0.31
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,11/10/2013,460,0.25
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/10/2013,356,0.24
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,1/10/2014,362,0.46
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/10/2014,303,0.54
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2014,288,0.53
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2014,298,0.6
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/10/2013,,0.164
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2013,1546,0.206
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2013,1357,0.175
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,5/10/2013,1059,0.224
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,6/10/2013,1524,0.34
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,7/10/2013,2151,0.476
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,8/10/2013,2102,0.711
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,9/10/2013,2020,0.65
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,10/10/2013,1768,0.64
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,11/10/2013,1579,0.57
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/10/2013,1287,0.55
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,1/10/2014,1138,0.63
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/10/2014,,0.73
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2014,855,0.75
+CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2014,639,0.83
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,6/10/2013,,0.3
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,7/10/2013,,0.34
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,8/10/2013,,0.5
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,9/10/2013,,0.48
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,10/10/2013,,0.5
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,11/10/2013,,0.5
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,12/10/2013,,0.46
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,1/10/2014,,0.5
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,2/10/2014,,0.5
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,3/10/2014,,0.08
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,6/10/2013,,0.07
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,7/10/2013,,0.1
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,8/10/2013,,0.14
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,9/10/2013,,0.13
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,10/10/2013,,0.12
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,11/10/2013,,0.12
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,12/10/2013,,0.08
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,1/10/2014,,0.1
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,2/10/2014,,0.13
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 30 Days,3/10/2014,,0.28
+COURT,criminal_cases,Number of Criminal Cases Filed,5/10/2013,4327,
+COURT,criminal_cases,Number of Criminal Cases Filed,6/10/2013,3861,
+COURT,criminal_cases,Number of Criminal Cases Filed,7/10/2013,3445,
+COURT,criminal_cases,Number of Criminal Cases Filed,8/10/2013,2119,
+COURT,criminal_cases,Number of Criminal Cases Filed,9/10/2013,1940,
+COURT,criminal_cases,Number of Criminal Cases Filed,10/10/2013,1878,
+COURT,criminal_cases,Number of Criminal Cases Filed,11/10/2013,1565,
+COURT,criminal_cases,Number of Criminal Cases Filed,12/10/2013,1475,
+COURT,criminal_cases,Number of Criminal Cases Filed,1/10/2014,1464,
+COURT,criminal_cases,Number of Criminal Cases Filed,2/10/2014,1445,
+COURT,criminal_cases,Number of Criminal Cases Filed,3/10/2014,1833,
+COURT,criminal_cases,Number of Criminal Cases Filed,4/10/2014,2109,
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,6/10/2013,,0.1
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,7/10/2013,,0.1
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2013,,0.11
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,9/10/2013,,0.11
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,10/10/2013,,0.11
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,11/10/2013,,0.11
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,12/10/2013,,0.07
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,1/10/2014,,0.09
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,2/10/2014,,0.09
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,3/10/2014,,0.49
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,6/10/2013,,0.27
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,7/10/2013,,0.27
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,8/10/2013,,0.27
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,9/10/2013,,0.26
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,10/10/2013,,0.25
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,11/10/2013,,0.25
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,12/10/2013,,0.16
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,1/10/2014,,0.21
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,2/10/2014,,0.3
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 30 Days,3/10/2014,,0.11
+COURT,traffic_cases,Number of Traffic Cases Filed,5/10/2013,12370,
+COURT,traffic_cases,Number of Traffic Cases Filed,6/10/2013,13416,
+COURT,traffic_cases,Number of Traffic Cases Filed,7/10/2013,14918,
+COURT,traffic_cases,Number of Traffic Cases Filed,8/10/2013,12770,
+COURT,traffic_cases,Number of Traffic Cases Filed,9/10/2013,16064,
+COURT,traffic_cases,Number of Traffic Cases Filed,10/10/2013,14265,
+COURT,traffic_cases,Number of Traffic Cases Filed,11/10/2013,10745,
+COURT,traffic_cases,Number of Traffic Cases Filed,12/10/2013,11557,
+COURT,traffic_cases,Number of Traffic Cases Filed,1/10/2014,11985,
+COURT,traffic_cases,Number of Traffic Cases Filed,2/10/2014,11800,
+COURT,traffic_cases,Number of Traffic Cases Filed,3/10/2014,10896,
+COURT,traffic_cases,Number of Traffic Cases Filed,4/10/2014,11206,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2012,3383574,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2012,3366022,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2012,4106448,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2012,3982009,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2012,4259708,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2012,4380705,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2012,4426565,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2012,4249351,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2012,3793237,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2012,4127097,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2012,3901164,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2012,3743971,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2013,3481802,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2013,3338654,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2013,4097005,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,4/10/2013,3949390,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,5/10/2013,4197652,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,6/10/2013,4220068,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,7/10/2013,4286884,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,8/10/2013,4154008,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,9/10/2013,3755411,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,10/10/2013,4037283,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,11/10/2013,3683925,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,12/10/2013,3915787,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,1/10/2014,3393235,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,2/10/2014,3199894,
+DOA,passenger_and_cargo_volume,Total Enplanement (# Of Passengers Departing)**,3/10/2014,4197126,
+DOA,processing_and_wait_times,% Security Wait Times Under Target,10/10/2012,,0.93
+DOA,processing_and_wait_times,% Security Wait Times Under Target,11/10/2012,,0.98
+DOA,processing_and_wait_times,% Security Wait Times Under Target,12/10/2012,,0.96
+DOA,processing_and_wait_times,% Security Wait Times Under Target,1/10/2013,,0.96
+DOA,processing_and_wait_times,% Security Wait Times Under Target,2/10/2013,,0.95
+DOA,processing_and_wait_times,% Security Wait Times Under Target,3/10/2013,,0.89
+DOA,processing_and_wait_times,% Security Wait Times Under Target,4/10/2013,,0.83
+DOA,processing_and_wait_times,% Security Wait Times Under Target,5/10/2013,,0.79
+DOA,processing_and_wait_times,% Security Wait Times Under Target,6/10/2013,,0.88
+DOA,processing_and_wait_times,% Security Wait Times Under Target,7/10/2013,,0.919
+DOA,processing_and_wait_times,% Security Wait Times Under Target,8/10/2013,,0.91
+DOA,processing_and_wait_times,% Security Wait Times Under Target,9/10/2013,,0.95
+DOA,processing_and_wait_times,% Security Wait Times Under Target,10/10/2013,,0.95
+DOA,processing_and_wait_times,% Security Wait Times Under Target,11/10/2013,,0.95
+DOA,processing_and_wait_times,% Security Wait Times Under Target,1/10/2014,,0.92
+DOA,processing_and_wait_times,% Security Wait Times Under Target,2/10/2014,,0.94
+DOA,processing_and_wait_times,% Security Wait Times Under Target,3/10/2014,,0.85
+DOA,processing_and_wait_times,% Security Wait Times Under Target,4/10/2014,,0.9
+DOA,processing_and_wait_times,Average Customs Processing Time,1/10/2014,9.08,
+DOA,processing_and_wait_times,Average Customs Processing Time,2/10/2014,8.93,
+DOA,processing_and_wait_times,Average Customs Processing Time,3/10/2014,11.45,
+DOA,processing_and_wait_times,Average Customs Processing Time,4/10/2014,12.9,
+DOC,community_involvement,Community Partnerships,1/10/2014,,30
+DOC,community_involvement,Community Partnerships,2/10/2014,,16
+DOC,community_involvement,Community Partnerships,3/10/2014,,37
+DOC,community_involvement,Community Partnerships,4/10/2014,,104
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2010,567.84,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2011,1892.8,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2011,6459.18,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2011,8281,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2011,6754.93,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2011,5252.52,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2011,8245.51,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2011,6269.9,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2011,8068.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2011,11900.98,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2011,9762.71,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2011,20087.34,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2011,17171.25,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2012,16763.11,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2012,18170.88,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2012,29331.3,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2012,26492.1,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2012,31450.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2012,25132.84,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2012,24724.7,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2012,15603.77,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2012,13847.02,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2012,19898.06,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2012,10564.19,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2012,9540.9,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2013,13900.25,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2013,14988.61,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2013,33443.41,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2013,28900.69,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,5/10/2013,23340.59,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,6/10/2013,30450.42,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,7/10/2013,11830,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,8/10/2013,14610,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,9/10/2013,15012.27,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,10/10/2013,29078.14,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,11/10/2013,8612.24,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,12/10/2013,6234.41,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,1/10/2014,19223.75,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,2/10/2014,5015.92,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,3/10/2014,9665.11,
+DOC,community_involvement,Estimated Value Provided By Inmate Detail and Community Service,4/10/2014,27717.69,
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2010,,48
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2011,,160
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2011,,192
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,3/10/2011,,256
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,4/10/2011,,137
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,5/10/2011,,154
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,6/10/2011,,209
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,7/10/2011,,94
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,8/10/2011,,84
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,9/10/2011,,629.75
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,10/10/2011,,384
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,11/10/2011,,1040
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2011,,581.5
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2012,,469
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2012,,545
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,3/10/2012,,925.8
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,4/10/2012,,769.2
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,5/10/2012,,1024.5
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,6/10/2012,,700.5
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,7/10/2012,,928
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,8/10/2012,,704
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,9/10/2012,,655
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,10/10/2012,,569
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,11/10/2012,,697
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2012,,676.5
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2013,,876
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2013,,894
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,3/10/2013,,1504
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,4/10/2013,,1539
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,5/10/2013,,1600
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,6/10/2013,,917
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,7/10/2013,,985
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,8/10/2013,,1187
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,9/10/2013,,1208
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,10/10/2013,,1338
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,11/10/2013,,710
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2013,,513
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2014,,580
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2014,,412
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,3/10/2014,,672
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,4/10/2014,,1516
+DOC,jail_population,Average Daily Population Of Jail,7/10/2008,,1080
+DOC,jail_population,Average Daily Population Of Jail,8/10/2008,,1180
+DOC,jail_population,Average Daily Population Of Jail,9/10/2008,,1198
+DOC,jail_population,Average Daily Population Of Jail,10/10/2008,,1200
+DOC,jail_population,Average Daily Population Of Jail,11/10/2008,,1165
+DOC,jail_population,Average Daily Population Of Jail,12/10/2008,,1112
+DOC,jail_population,Average Daily Population Of Jail,1/10/2009,,1083
+DOC,jail_population,Average Daily Population Of Jail,2/10/2009,,1004
+DOC,jail_population,Average Daily Population Of Jail,3/10/2009,,889
+DOC,jail_population,Average Daily Population Of Jail,4/10/2009,,804
+DOC,jail_population,Average Daily Population Of Jail,5/10/2009,,831
+DOC,jail_population,Average Daily Population Of Jail,6/10/2009,,746
+DOC,jail_population,Average Daily Population Of Jail,7/10/2009,,609
+DOC,jail_population,Average Daily Population Of Jail,8/10/2009,,603
+DOC,jail_population,Average Daily Population Of Jail,9/10/2009,,581
+DOC,jail_population,Average Daily Population Of Jail,10/10/2009,,566
+DOC,jail_population,Average Daily Population Of Jail,11/10/2009,,480
+DOC,jail_population,Average Daily Population Of Jail,12/10/2009,,429
+DOC,jail_population,Average Daily Population Of Jail,1/10/2010,,447
+DOC,jail_population,Average Daily Population Of Jail,2/10/2010,,475
+DOC,jail_population,Average Daily Population Of Jail,3/10/2010,,529
+DOC,jail_population,Average Daily Population Of Jail,4/10/2010,,522
+DOC,jail_population,Average Daily Population Of Jail,5/10/2010,,520
+DOC,jail_population,Average Daily Population Of Jail,6/10/2010,,543
+DOC,jail_population,Average Daily Population Of Jail,7/10/2010,,579
+DOC,jail_population,Average Daily Population Of Jail,8/10/2010,,593
+DOC,jail_population,Average Daily Population Of Jail,9/10/2010,,608
+DOC,jail_population,Average Daily Population Of Jail,10/10/2010,,560
+DOC,jail_population,Average Daily Population Of Jail,11/10/2010,,555
+DOC,jail_population,Average Daily Population Of Jail,12/10/2010,,442
+DOC,jail_population,Average Daily Population Of Jail,1/10/2011,,465
+DOC,jail_population,Average Daily Population Of Jail,2/10/2011,,442
+DOC,jail_population,Average Daily Population Of Jail,3/10/2011,,359
+DOC,jail_population,Average Daily Population Of Jail,4/10/2011,,401
+DOC,jail_population,Average Daily Population Of Jail,5/10/2011,,515
+DOC,jail_population,Average Daily Population Of Jail,6/10/2011,,548
+DOC,jail_population,Average Daily Population Of Jail,7/10/2011,,532
+DOC,jail_population,Average Daily Population Of Jail,8/10/2011,,589
+DOC,jail_population,Average Daily Population Of Jail,9/10/2011,,525
+DOC,jail_population,Average Daily Population Of Jail,10/10/2011,,484
+DOC,jail_population,Average Daily Population Of Jail,11/10/2011,,441
+DOC,jail_population,Average Daily Population Of Jail,12/10/2011,,476
+DOC,jail_population,Average Daily Population Of Jail,1/10/2012,,466
+DOC,jail_population,Average Daily Population Of Jail,2/10/2012,,450
+DOC,jail_population,Average Daily Population Of Jail,3/10/2012,,459
+DOC,jail_population,Average Daily Population Of Jail,4/10/2012,,450
+DOC,jail_population,Average Daily Population Of Jail,5/10/2012,,498
+DOC,jail_population,Average Daily Population Of Jail,6/10/2012,,485
+DOC,jail_population,Average Daily Population Of Jail,7/10/2012,,520
+DOC,jail_population,Average Daily Population Of Jail,8/10/2012,,538
+DOC,jail_population,Average Daily Population Of Jail,9/10/2012,,503
+DOC,jail_population,Average Daily Population Of Jail,10/10/2012,,479
+DOC,jail_population,Average Daily Population Of Jail,11/10/2012,,391
+DOC,jail_population,Average Daily Population Of Jail,12/10/2012,,394
+DOC,jail_population,Average Daily Population Of Jail,1/10/2013,,406
+DOC,jail_population,Average Daily Population Of Jail,2/10/2013,,421
+DOC,jail_population,Average Daily Population Of Jail,3/10/2013,,425
+DOC,jail_population,Average Daily Population Of Jail,4/10/2013,,476
+DOC,jail_population,Average Daily Population Of Jail,5/10/2013,,584
+DOC,jail_population,Average Daily Population Of Jail,6/10/2013,,615
+DOC,jail_population,Average Daily Population Of Jail,7/10/2013,,624
+DOC,jail_population,Average Daily Population Of Jail,8/10/2013,,592
+DOC,jail_population,Average Daily Population Of Jail,9/10/2013,,659
+DOC,jail_population,Average Daily Population Of Jail,10/10/2013,,654
+DOC,jail_population,Average Daily Population Of Jail,11/10/2013,,672
+DOC,jail_population,Average Daily Population Of Jail,12/10/2013,,555
+DOC,jail_population,Average Daily Population Of Jail,1/10/2014,,520
+DOC,jail_population,Average Daily Population Of Jail,2/10/2014,,589
+DOC,jail_population,Average Daily Population Of Jail,3/10/2014,,524
+DOC,jail_population,Average Daily Population Of Jail,4/10/2014,,540
+DOC,jail_population,Inmates Booked,7/10/2008,,2571
+DOC,jail_population,Inmates Booked,8/10/2008,,2666
+DOC,jail_population,Inmates Booked,9/10/2008,,2659
+DOC,jail_population,Inmates Booked,10/10/2008,,2744
+DOC,jail_population,Inmates Booked,11/10/2008,,2313
+DOC,jail_population,Inmates Booked,12/10/2008,,2423
+DOC,jail_population,Inmates Booked,1/10/2009,,2454
+DOC,jail_population,Inmates Booked,2/10/2009,,2554
+DOC,jail_population,Inmates Booked,3/10/2009,,2775
+DOC,jail_population,Inmates Booked,4/10/2009,,2939
+DOC,jail_population,Inmates Booked,5/10/2009,,2976
+DOC,jail_population,Inmates Booked,6/10/2009,,2445
+DOC,jail_population,Inmates Booked,7/10/2009,,3008
+DOC,jail_population,Inmates Booked,8/10/2009,,2835
+DOC,jail_population,Inmates Booked,9/10/2009,,2889
+DOC,jail_population,Inmates Booked,10/10/2009,,3078
+DOC,jail_population,Inmates Booked,11/10/2009,,2211
+DOC,jail_population,Inmates Booked,12/10/2009,,2223
+DOC,jail_population,Inmates Booked,1/10/2010,,2237
+DOC,jail_population,Inmates Booked,2/10/2010,,2367
+DOC,jail_population,Inmates Booked,3/10/2010,,2809
+DOC,jail_population,Inmates Booked,4/10/2010,,2751
+DOC,jail_population,Inmates Booked,5/10/2010,,2711
+DOC,jail_population,Inmates Booked,6/10/2010,,2765
+DOC,jail_population,Inmates Booked,7/10/2010,,2926
+DOC,jail_population,Inmates Booked,8/10/2010,,2928
+DOC,jail_population,Inmates Booked,9/10/2010,,2776
+DOC,jail_population,Inmates Booked,10/10/2010,,2826
+DOC,jail_population,Inmates Booked,11/10/2010,,2395
+DOC,jail_population,Inmates Booked,12/10/2010,,2759
+DOC,jail_population,Inmates Booked,1/10/2011,,2669
+DOC,jail_population,Inmates Booked,2/10/2011,,2811
+DOC,jail_population,Inmates Booked,3/10/2011,,3104
+DOC,jail_population,Inmates Booked,4/10/2011,,3261
+DOC,jail_population,Inmates Booked,5/10/2011,,3163
+DOC,jail_population,Inmates Booked,6/10/2011,,3366
+DOC,jail_population,Inmates Booked,7/10/2011,,3402
+DOC,jail_population,Inmates Booked,8/10/2011,,3471
+DOC,jail_population,Inmates Booked,9/10/2011,,3168
+DOC,jail_population,Inmates Booked,10/10/2011,,2959
+DOC,jail_population,Inmates Booked,11/10/2011,,2751
+DOC,jail_population,Inmates Booked,12/10/2011,,2842
+DOC,jail_population,Inmates Booked,1/10/2012,,2802
+DOC,jail_population,Inmates Booked,2/10/2012,,2870
+DOC,jail_population,Inmates Booked,3/10/2012,,3160
+DOC,jail_population,Inmates Booked,4/10/2012,,2626
+DOC,jail_population,Inmates Booked,5/10/2012,,3067
+DOC,jail_population,Inmates Booked,6/10/2012,,3202
+DOC,jail_population,Inmates Booked,7/10/2012,,3044
+DOC,jail_population,Inmates Booked,8/10/2012,,3365
+DOC,jail_population,Inmates Booked,9/10/2012,,3111
+DOC,jail_population,Inmates Booked,10/10/2012,,3090
+DOC,jail_population,Inmates Booked,11/10/2012,,2483
+DOC,jail_population,Inmates Booked,12/10/2012,,2658
+DOC,jail_population,Inmates Booked,1/10/2013,,2568
+DOC,jail_population,Inmates Booked,2/10/2013,,2598
+DOC,jail_population,Inmates Booked,3/10/2013,,2804
+DOC,jail_population,Inmates Booked,4/10/2013,,2733
+DOC,jail_population,Inmates Booked,5/10/2013,,3049
+DOC,jail_population,Inmates Booked,6/10/2013,,2799
+DOC,jail_population,Inmates Booked,7/10/2013,,2811
+DOC,jail_population,Inmates Booked,8/10/2013,,2882
+DOC,jail_population,Inmates Booked,9/10/2013,,2860
+DOC,jail_population,Inmates Booked,10/10/2013,,2893
+DOC,jail_population,Inmates Booked,11/10/2013,,2396
+DOC,jail_population,Inmates Booked,12/10/2013,,2283
+DOC,jail_population,Inmates Booked,1/10/2014,,2435
+DOC,jail_population,Inmates Booked,2/10/2014,,2234
+DOC,jail_population,Inmates Booked,3/10/2014,,2727
+DOC,jail_population,Inmates Booked,4/10/2014,,2809
+DOC,jail_population,Inmates Transferred Or Released,4/10/2013,,2638
+DOC,jail_population,Inmates Transferred Or Released,5/10/2013,,2957
+DOC,jail_population,Inmates Transferred Or Released,6/10/2013,,2760
+DOC,jail_population,Inmates Transferred Or Released,7/10/2013,,2845
+DOC,jail_population,Inmates Transferred Or Released,8/10/2013,,2830
+DOC,jail_population,Inmates Transferred Or Released,9/10/2013,,2865
+DOC,jail_population,Inmates Transferred Or Released,10/10/2013,,2862
+DOC,jail_population,Inmates Transferred Or Released,11/10/2013,,2487
+DOC,jail_population,Inmates Transferred Or Released,12/10/2013,,2394
+DOC,jail_population,Inmates Transferred Or Released,1/10/2014,,2425
+DOC,safety_and_security,Escape Attempts,1/10/2014,,0
+DOC,safety_and_security,Escape Attempts,2/10/2014,,0
+DOC,safety_and_security,Escape Attempts,3/10/2014,,0
+DOC,safety_and_security,Escape Attempts,4/10/2014,,0
+DOC,safety_and_security,Inmate Accidents,4/10/2013,,5
+DOC,safety_and_security,Inmate Accidents,5/10/2013,,2
+DOC,safety_and_security,Inmate Accidents,6/10/2013,,5
+DOC,safety_and_security,Inmate Accidents,7/10/2013,,8
+DOC,safety_and_security,Inmate Accidents,8/10/2013,,5
+DOC,safety_and_security,Inmate Accidents,9/10/2013,,2
+DOC,safety_and_security,Inmate Accidents,10/10/2013,,4
+DOC,safety_and_security,Inmate Accidents,11/10/2013,,3
+DOC,safety_and_security,Inmate Accidents,12/10/2013,,2
+DOC,safety_and_security,Inmate Accidents,1/10/2014,,8
+DOC,safety_and_security,Inmate Accidents,2/10/2014,,1
+DOC,safety_and_security,Inmate Accidents,3/10/2014,,5
+DOC,safety_and_security,Inmate Accidents,4/10/2014,,4
+DOC,safety_and_security,Inmate-To-Inmate Assaults,4/10/2013,,1
+DOC,safety_and_security,Inmate-To-Inmate Assaults,5/10/2013,,2
+DOC,safety_and_security,Inmate-To-Inmate Assaults,6/10/2013,,4
+DOC,safety_and_security,Inmate-To-Inmate Assaults,7/10/2013,,8
+DOC,safety_and_security,Inmate-To-Inmate Assaults,8/10/2013,,0
+DOC,safety_and_security,Inmate-To-Inmate Assaults,9/10/2013,,2
+DOC,safety_and_security,Inmate-To-Inmate Assaults,10/10/2013,,3
+DOC,safety_and_security,Inmate-To-Inmate Assaults,11/10/2013,,5
+DOC,safety_and_security,Inmate-To-Inmate Assaults,12/10/2013,,5
+DOC,safety_and_security,Inmate-To-Inmate Assaults,1/10/2014,,4
+DOC,safety_and_security,Inmate-To-Inmate Assaults,2/10/2014,,1
+DOC,safety_and_security,Inmate-To-Inmate Assaults,3/10/2014,,0
+DOC,safety_and_security,Inmate-To-Inmate Assaults,4/10/2014,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,4/10/2013,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,5/10/2013,,2
+DOC,safety_and_security,Inmate-To-Staff Assaults,6/10/2013,,0
+DOC,safety_and_security,Inmate-To-Staff Assaults,7/10/2013,,0
+DOC,safety_and_security,Inmate-To-Staff Assaults,8/10/2013,,0
+DOC,safety_and_security,Inmate-To-Staff Assaults,9/10/2013,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,10/10/2013,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,11/10/2013,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,12/10/2013,,0
+DOC,safety_and_security,Inmate-To-Staff Assaults,1/10/2014,,0
+DOC,safety_and_security,Inmate-To-Staff Assaults,2/10/2014,,1
+DOC,safety_and_security,Inmate-To-Staff Assaults,3/10/2014,,2
+DOC,safety_and_security,Inmate-To-Staff Assaults,4/10/2014,,2
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,7/10/2012,,0.003642987
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,8/10/2012,,0.00733945
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,9/10/2012,,0.001897533
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,10/10/2012,,0.023166023
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,11/10/2012,,0.004310345
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,12/10/2012,,0.002463054
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,1/10/2013,,0.008510638
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,2/10/2013,,0.012323944
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,3/10/2013,,0.006451613
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,4/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,5/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,6/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,7/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,8/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,9/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,10/10/2013,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,11/10/2013,,0.02
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,12/10/2013,,0.02
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,1/10/2014,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,2/10/2014,,0
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,3/10/2014,,0.01
+DPCD,building_permits,New Commercial Building Permits Issued As % Total Permits Issued,4/10/2014,,0.01
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,7/10/2012,,0.052823315
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,8/10/2012,,0.04587156
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,9/10/2012,,0.05313093
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,10/10/2012,,0.083011583
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,11/10/2012,,0.051724138
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,12/10/2012,,0.049261084
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,1/10/2013,,0.059574468
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,2/10/2013,,0.063380282
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,3/10/2013,,0.053763441
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,4/10/2013,,0.09
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,5/10/2013,,0.05
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,6/10/2013,,0.07
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,7/10/2013,,0.08
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,8/10/2013,,0.03
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,9/10/2013,,0.08
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,10/10/2013,,0.08
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,11/10/2013,,0.1
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,12/10/2013,,0.09
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,1/10/2014,,0.08
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,2/10/2014,,0.09
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,3/10/2014,,0.11
+DPCD,building_permits,New Residential Building Permits Issued As % Total Permits Issued,4/10/2014,,0.07
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2011,408,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2011,865,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2011,1304,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2011,1774,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2011,2212,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2011,2637,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2012,3039,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2012,3418,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2012,3857,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2012,4276,
+DPCD,building_permits,Building Permits Issued FYTD,5/10/2012,4759,
+DPCD,building_permits,Building Permits Issued FYTD,6/10/2012,5244,
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2012,542,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2012,1086,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2012,1602,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2012,2110,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2012,2568,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2012,2968,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2013,3433,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2013,3995,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2013,4453,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2013,5010,
+DPCD,building_permits,Building Permits Issued FYTD,5/10/2013,5604,
+DPCD,building_permits,Building Permits Issued FYTD,6/10/2013,6201,
+DPCD,building_permits,Building Permits Issued FYTD,7/10/2013,606,
+DPCD,building_permits,Building Permits Issued FYTD,8/10/2013,1238,
+DPCD,building_permits,Building Permits Issued FYTD,9/10/2013,1766,
+DPCD,building_permits,Building Permits Issued FYTD,10/10/2013,2340,
+DPCD,building_permits,Building Permits Issued FYTD,11/10/2013,2789,
+DPCD,building_permits,Building Permits Issued FYTD,12/10/2013,3190,
+DPCD,building_permits,Building Permits Issued FYTD,1/10/2014,420.9858,
+DPCD,building_permits,Building Permits Issued FYTD,2/10/2014,4045,
+DPCD,building_permits,Building Permits Issued FYTD,3/10/2014,4574,
+DPCD,building_permits,Building Permits Issued FYTD,4/10/2014,5152,
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,5/10/2013,5499,0.99327
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,6/10/2013,5180,0.989
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,7/10/2013,5682,0.989
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,8/10/2013,6092,0.99
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,9/10/2013,5668,0.9921
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,10/10/2013,6649,0.99098
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,11/10/2013,5725,0.993537118
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,12/10/2013,5828,0.992107
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,1/10/2014,4970,0.9662
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,2/10/2014,4942,0.9352
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,3/10/2014,6790,0.9903
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,4/10/2014,6717,0.9894
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,5/10/2014,6597,0.9927
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,5/10/2013,,0.6677
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,6/10/2013,,0.7106
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,7/10/2013,,0.8023
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,8/10/2013,361,0.822
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,9/10/2013,223,0.7825
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,10/10/2013,361,0.651
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,11/10/2013,229,0.4803
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,12/10/2013,0,0.5858
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,1/10/2014,0,0.5993
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,2/10/2014,0,0.5881
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,3/10/2014,0,0.568
+DPCD,oob_customer_service,% Plans Approved For Review After First Quality Control Review Inspection,4/10/2014,0,0.5343
+DPCD,oob_customer_service,Average # Of Times Plans Returned To Applicant For Revisions,3/10/2014,,0.62
+DPCD,oob_customer_service,Average # Of Times Plans Returned To Applicant For Revisions,4/10/2014,,0.64
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,4/10/2013,,0.98
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,5/10/2013,,1
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,6/10/2013,142,1
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,7/10/2013,173,0.99
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,8/10/2013,288,0.98
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,9/10/2013,219,1
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,10/10/2013,226,1
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,11/10/2013,170,0.99
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,12/10/2013,147,0.993197279
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,1/10/2014,237,0.67
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/10/2014,138,0.93
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/10/2014,174,0.95
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,4/10/2014,235,0.9659
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,4/10/2013,,0.92
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,5/10/2013,,0.96
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,6/10/2013,21,0.83
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,7/10/2013,27,0.51
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,8/10/2013,89,0.37
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,9/10/2013,137,0.66
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,10/10/2013,138,0.579710145
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,11/10/2013,92,0.68
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,12/10/2013,86,0.546511628
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,1/10/2014,357,0.45
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/10/2014,353,0.447293447
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/10/2014,282,0.37
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,4/10/2014,233,0.4291
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,4/10/2013,,0.74
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,5/10/2013,,0.87
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,6/10/2013,349,0.8
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,7/10/2013,303,0.61
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,8/10/2013,275,0.654545455
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,9/10/2013,226,0.95
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,10/10/2013,255,0.91
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,11/10/2013,249,0.240963855
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,1/10/2014,1091,0.14
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/10/2014,664,0.44
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/10/2014,796,0.4
+DPR,customer_service_and_park_maintenance,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,4/10/2014,932,0.4624
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,8/10/2012,,475
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,9/10/2012,,566
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,10/10/2012,,635
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,11/10/2012,,680
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,12/10/2012,,711
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,1/10/2013,,950
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,2/10/2013,,992
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,3/10/2013,,1027
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,4/10/2013,,1113
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,5/10/2013,,1120
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,6/10/2013,,2420
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,7/10/2013,,313
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,8/10/2013,,831
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,9/10/2013,,909
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,10/10/2013,,1032
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,11/10/2013,,1282
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,12/10/2013,,1354
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,1/10/2014,,1450
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,2/10/2014,,1521
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,3/10/2014,,1603
+DPR,youth_programming,Total Youth Enrolled In After-School/CBF Programs,4/10/2014,,1687
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,1/10/2013,,1275
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,2/10/2013,,1503
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,3/10/2013,,1592
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,4/10/2013,,1662
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,5/10/2013,,1726
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,6/10/2013,,2175
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,7/10/2013,,1402
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,8/10/2013,,1059
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,9/10/2013,,1231
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,10/10/2013,,1184
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,11/10/2013,,1050
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,12/10/2013,,2036
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,1/10/2014,,3172
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,2/10/2014,,3172
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,3/10/2014,,3547
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,4/10/2014,,4155
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,4/10/2013,1103,0.58
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,5/10/2013,1142,0.86
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,6/10/2013,970,0.982
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,7/10/2013,1110,0.997297297
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,8/10/2013,1067,0.998125586
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,9/10/2013,854,0.8
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,10/10/2013,824,0.99
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,11/10/2013,687,0.989810771
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,12/10/2013,799,0.958698373
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,1/10/2014,1010,0.94
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,2/10/2014,901,0.950055494
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,3/10/2014,1091,0.989917507
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Bin Delivery and Pick-up,4/10/2014,1351,0.997779423
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,4/10/2013,57,0.58
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,5/10/2013,60,0.63
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,6/10/2013,46,0.848
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,7/10/2013,75,0.8
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,8/10/2013,74,0.810810811
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,9/10/2013,52,0.54
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,10/10/2013,79,0.97
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,11/10/2013,55,0.872727273
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,12/10/2013,37,0.756756757
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,1/10/2014,40,0.78
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,2/10/2014,66,0.924242424
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,3/10/2014,63,0.968253968
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Illegal Dumping,4/10/2014,56,0.982142857
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,4/10/2013,667,0.24
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,5/10/2013,893,0.47
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,6/10/2013,740,0.847
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,7/10/2013,871,0.877152698
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,8/10/2013,1046,0.521032505
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,9/10/2013,1273,0.89
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,10/10/2013,1185,0.98
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,11/10/2013,532,0.836466165
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,12/10/2013,1041,0.55907781
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,1/10/2014,1091,0.63
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,2/10/2014,1024,0.596679688
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,3/10/2014,890,0.865168539
+DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – Missed Collections Pickup,4/10/2014,1070,0.95046729
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,7/10/2012,,1
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,8/10/2012,,0.999
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,9/10/2012,,1
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,10/10/2012,,0.999
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,11/10/2012,,1
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,12/10/2012,,0.999
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,1/10/2013,,0.9996
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,2/10/2013,,0.9995
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,3/10/2013,,0.9995
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,4/10/2013,,0.9995
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,5/10/2013,,0.9996
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,6/10/2013,,0.9976
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,7/10/2013,,0.9995
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,8/10/2013,,0.9993
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,9/10/2013,,0.9994
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,10/10/2013,,0.9997
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,11/10/2013,,0.999735417
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,12/10/2013,,0.9994
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,1/10/2014,,0.9997
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,2/10/2014,,0.999239583
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,3/10/2014,,0.9995
+DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,4/10/2014,,0.9996
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,7/10/2012,,1
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,8/10/2012,,0.999
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,9/10/2012,,1
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,10/10/2012,,0.999
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,11/10/2012,,0.999
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,12/10/2012,,0.999
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,1/10/2013,,0.9987
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,2/10/2013,,0.9337
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,3/10/2013,,0.9993
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,4/10/2013,,0.9992
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,5/10/2013,,0.9993
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,6/10/2013,,0.9338
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,7/10/2013,,0.9995
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,8/10/2013,,0.9991
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,9/10/2013,,0.9993
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,10/10/2013,,0.9996
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,11/10/2013,,0.99942
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,12/10/2013,,0.9991
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,1/10/2014,,0.9994
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,2/10/2014,,0.999088542
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,3/10/2014,,0.9993
+DPW,solid_waste_operations,% Recycling Pickups Collected On Schedule,4/10/2014,,0.9993
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,7/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,10/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,11/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,12/10/2012,,0.999
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,1/10/2013,,0.9986
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,2/10/2013,,0.994
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,3/10/2013,,0.9992
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,4/10/2013,,0.9993
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,5/10/2013,,0.9877
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,6/10/2013,,0.9219
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,7/10/2013,,0.9766
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2013,,0.8375
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2013,,0.9378
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,10/10/2013,,0.9995
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,11/10/2013,,0.9994
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,12/10/2013,,0.9429
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,1/10/2014,,0.9996
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,2/10/2014,,0.639869792
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,3/10/2014,,0.9233
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,4/10/2014,,0.9987
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2012,248,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2012,407,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2012,254,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2012,308,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2012,437,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2012,441,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2013,380,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2013,1122,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2013,383,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2013,313,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,5/10/2013,312,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,6/10/2013,11101,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,7/10/2013,270,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,8/10/2013,488,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,9/10/2013,320,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,10/10/2013,178,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,11/10/2013,237,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,12/10/2013,327,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,1/10/2014,491,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,2/10/2014,1029,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,3/10/2014,236,
+DPW,solid_waste_operations,Reported Misses For Garbage/Recycle Pick-Up,4/10/2014,1038,
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,4/10/2013,229,0.85
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,5/10/2013,244,0.89
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,6/10/2013,270,0.952
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,7/10/2013,186,0.96
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,8/10/2013,158,0.905063291
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,9/10/2013,180,0.98
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,10/10/2013,197,0.93
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,11/10/2013,73,0.739726027
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,12/10/2013,156,0.544871795
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,1/10/2014,329,0.54
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,2/10/2014,605,0.527272727
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,3/10/2014,616,0.738636364
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Asphalt/Street Repair,4/10/2014,488,0.68442623
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,4/10/2013,14,0.64
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,5/10/2013,3,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,6/10/2013,9,0.444
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,7/10/2013,,0.7
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,8/10/2013,14,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,9/10/2013,21,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,10/10/2013,10,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,11/10/2013,15,0.933333333
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,12/10/2013,23,0.826086957
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,1/10/2014,25,0.84
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,2/10/2014,18,0.777777778
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,3/10/2014,53,0.943396226
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Bridge Maintenance,4/10/2014,45,0.644444444
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,4/10/2013,94,0.77
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,5/10/2013,70,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,6/10/2013,94,0.947
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,7/10/2013,83,0.988095238
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,8/10/2013,93,0.989247312
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,9/10/2013,68,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,10/10/2013,71,0.97
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,11/10/2013,37,0.810810811
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,12/10/2013,43,0.930232558
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,1/10/2014,156,0.41
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,2/10/2014,222,0.463963964
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,3/10/2014,231,0.519480519
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Concrete Repair,4/10/2014,228,0.644736842
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,4/10/2013,165,0.78
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,5/10/2013,177,0.84
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,6/10/2013,305,0.944
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,7/10/2013,647,0.992272025
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,8/10/2013,611,0.990180033
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,9/10/2013,646,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,10/10/2013,661,0.95
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,11/10/2013,426,0.974178404
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,12/10/2013,519,0.782273603
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,1/10/2014,416,0.64
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,2/10/2014,348,0.790229885
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,3/10/2014,398,0.874371859
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Signs Repair/Replacement,4/10/2014,348,0.893678161
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,4/10/2013,61,0.61
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,5/10/2013,76,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,6/10/2013,53,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,7/10/2013,86,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,8/10/2013,104,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,9/10/2013,91,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,10/10/2013,155,0.89
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,11/10/2013,102,0.901960784
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,12/10/2013,91,0.912087912
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,1/10/2014,129,0.45
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,2/10/2014,184,0.532608696
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,3/10/2014,166,0.710843373
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Light Repair,4/10/2014,126,0.984126984
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,4/10/2013,67,0.91
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,5/10/2013,14,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,6/10/2013,33,0.97
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,7/10/2013,28,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,8/10/2013,41,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,9/10/2013,53,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,10/10/2013,71,0.93
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,11/10/2013,41,0.634146341
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,12/10/2013,30,0.666666667
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,1/10/2014,58,0.21
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,2/10/2014,58,0.275862069
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,3/10/2014,57,0.473684211
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Street Markings,4/10/2014,44,0.727272727
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,4/10/2013,244,0.64
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,5/10/2013,186,0.89
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,6/10/2013,390,0.936
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,7/10/2013,567,0.994727592
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,8/10/2013,563,0.975133215
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,9/10/2013,558,1
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,10/10/2013,830,0.99
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,11/10/2013,522,0.996168582
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,12/10/2013,586,0.778156997
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,1/10/2014,555,0.92
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,2/10/2014,517,0.936170213
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,3/10/2014,653,0.958652374
+DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – % Traffic Signal Repair,4/10/2014,698,0.952722063
+DWM,billing,Billing Complaints Per 1000 Accounts,6/10/2013,4.1,
+DWM,billing,Billing Complaints Per 1000 Accounts,7/10/2013,5.48,
+DWM,billing,Billing Complaints Per 1000 Accounts,8/10/2013,4.03,
+DWM,billing,Billing Complaints Per 1000 Accounts,9/10/2013,3.55,
+DWM,billing,Billing Complaints Per 1000 Accounts,10/10/2013,3.9,
+DWM,billing,Billing Complaints Per 1000 Accounts,11/10/2013,2.07,
+DWM,billing,Billing Complaints Per 1000 Accounts,1/10/2014,5.83,
+DWM,billing,Billing Complaints Per 1000 Accounts,2/10/2014,4.13,
+DWM,billing,Billing Complaints Per 1000 Accounts,3/10/2014,3.72,
+DWM,billing,Billing Complaints Per 1000 Accounts,4/10/2014,1.54,
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2008,,0.071027621
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2008,,0.069089317
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2008,,0.067362512
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2008,,0.068904247
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2008,,0.067271664
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2008,,0.066074648
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2009,,0.066633311
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2009,,0.080906761
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2009,,0.087934298
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2009,,0.096151046
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,5/10/2009,,0.099502622
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,6/10/2009,,0.096927646
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2009,,0.095714471
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2009,,0.088694203
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2009,,0.092918473
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2009,,0.086157057
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2009,,0.071003672
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2009,,0.056164252
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2010,,0.054690454
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2010,,0.048103913
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2010,,0.046033321
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2010,,0.04539119
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,5/10/2010,,0.050562294
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,6/10/2010,,0.047327008
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2010,,0.041262614
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2010,,0.041992916
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2010,,0.038340469
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2010,,0.036133306
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2010,,0.03520056
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2010,,0.035681511
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2011,,0.037500571
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2011,,0.031464008
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2011,,0.022615655
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2011,,0.017059372
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,5/10/2011,,0.011869476
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,6/10/2011,,0.009295801
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2011,,0.007502846
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2011,,0.010714644
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2011,,0.00614267
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2011,,0.005458464
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2011,,0.005193899
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2011,,0.005286561
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2012,,0.004822969
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2012,,0.004323096
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2012,,0.003974478
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2012,,0.00608224
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,5/10/2012,,0.005821449
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,6/10/2012,,0.006873012
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2012,,0.007118383
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2012,,0.007679073
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2012,,0.008782298
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2012,,0.006647811
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2012,,0.005903996
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2012,,0.006117342
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2013,,0.006877406
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2013,,0.006765963
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2013,,0.008123048
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2013,,0.008123664
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,5/10/2013,,0.01
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,6/10/2013,,0.011
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,7/10/2013,,0.012
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,8/10/2013,,0.012
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,9/10/2013,,0.012
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,10/10/2013,,0.008
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,11/10/2013,,0.005
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,12/10/2013,,0.005781
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,1/10/2014,,0.0066
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,2/10/2014,,0.006
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,3/10/2014,,0.007
+DWM,billing,Estimated Bills As A Percent Of Bills Issued,4/10/2014,,0.007
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,100
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,100
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2010,,0.98630137
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2010,,0.991780822
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2010,,0.994520548
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2010,,0.994520548
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2010,,0.997260274
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2010,,0.997260274
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2010,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2011,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2012,,1
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2012,,0.99
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2012,,0.99
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2012,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,0.97
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,0.981
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,0.9799
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,0.98
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,0.99
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,0.993
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,0.992
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,0.99
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,0.99
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),1/10/2014,44,0.023
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),2/10/2014,22,0.636
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),3/10/2014,88,0.909
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),4/10/2014,147,0.748
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,2/10/2014,461,0.258
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,3/10/2014,525,0.992
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,4/10/2014,259,0.892
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),7/10/2013,133,0.564
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),8/10/2013,85,0.51765
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),9/10/2013,124,0.702
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),10/10/2013,98,0.765
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),11/10/2013,224,0.813
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),1/10/2014,236,0.127
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),2/10/2014,245,0.184
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),3/10/2014,244,0.189
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),4/10/2014,387,0.227
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),1/10/2013,,0.98
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),2/10/2013,,1
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),3/10/2013,,1
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),4/10/2013,,0.995
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),5/10/2013,,1
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),6/10/2013,856,0.995
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),7/10/2013,987,0.998
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),8/10/2013,1001,0.97003
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),9/10/2013,795,0.997
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),10/10/2013,893,0.994
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),11/10/2013,717,0.992
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),12/10/2013,638,0.985
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),1/10/2014,574,0.991
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),2/10/2014,657,0.995
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),3/10/2014,791,0.999
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),4/10/2014,922,0.993
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2011,,16.15121434
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2011,,16.22616197
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2011,,16.52595249
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2011,,16.26363578
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2011,,16.48847868
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2011,,16.26363578
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,12/10/2011,,13.94025924
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,1/10/2012,,14.01520687
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,2/10/2012,,13.60299491
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,3/10/2012,,13.52804728
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,4/10/2012,,12.70362334
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,5/10/2012,,13.37815202
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2012,,13.45309965
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2012,,13.15330913
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2012,,12.29141138
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2012,,12.02909467
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2012,,11.31709218
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2012,,11.69183033
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,12/10/2012,,11.80425178
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,1/10/2013,,13.00341386
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,2/10/2013,,13.94025924
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,3/10/2013,,14.16510213
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,4/10/2013,,14.76468318
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,5/10/2013,,14.2
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2013,,14.3
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2013,,14.65
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2013,,14.65
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2013,,13.266
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2013,,13.45
+DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2013,,12.97
