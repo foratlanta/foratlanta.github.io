@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
   <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
   <script type="text/javascript">
     var chartOptions=[];
   </script>
@@ -33,30 +33,23 @@
         </button>
       </div>
     </header>
-    <aside class="sidebar">
+       <aside class="sidebar">
       <div id="leftside-navigation" class="nano">
         <ul class="nano-content">
           <li class="sub-menu">
-            <strong><i class="fa fa-bell"></i> <span>Public Safety</span></strong>
+            <strong><i class="fa fa-university"></i> <span>Public Safety Departments</span></strong>
             <ul>
-              <li{% if page.pid == 10 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/public-safety.html">Crime and Police</a></li>
-              <li{% if page.pid == 20 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/municipal-courts.html">Municipal Courts</a></li>
-              <li{% if page.pid == 30 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/emergency-response.html">Emergency Response</a></li>
+              <li><a href="{{ site.baseurl }}/charts/apd.html">Atlanta Police Department</a></li>
+              <li><a href="{{ site.baseurl }}/charts/afr.html">Atlanta Fire Rescue Department</a></li>
+              <li><a href="{{ site.baseurl }}/charts/doc.html">Department of Corrections</a></li>
+              <li><a href="{{ site.baseurl }}/charts/court.html">Atlanta Municipal Court</a></li>
             </ul>
           </li>
           <li class="sub-menu">
             <strong><i class="fa fa-cogs"></i> <span>Efficiency and Service</span></strong>
             <ul>
-              <li{% if page.pid == 40 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/customer-satisfaction.html">Customer Satisfaction</a></li>
-              <li{% if page.pid == 50 %} class="active"{% endif %}><a href="{{ site.baseurl }}/charts/core-customer-services.html">Core Customer Services</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <strong><i class="fa fa-leaf"></i> <span>Infrastructure and Vitality</span></strong>
-            <ul>
-              <li><a href="#">PLACEHOLDER</a></li>
-              <li><a href="#">PLACEHOLDER</a></li>
-              <li><a href="#">PLACEHOLDER</a></li>
+              <li><a href="{{ site.baseurl }}/charts/customer-satisfaction.html">Customer Satisfaction</a></li>
+              <li><a href="{{ site.baseurl }}/charts/core-customer-services.html">Core Customer Services</a></li>
             </ul>
           </li>
         </ul>
