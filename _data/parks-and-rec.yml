@@ -1,12 +1,26 @@
-- group-title: Section I - Customer Service and Park Maintenance
-  group-description:
-  charts:
-    - title: Timeliness of Completion of Customer Service Requests
+- group-title: Section I - Customer Service
+  group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+    - title: All Customer Service Requests (Total Department)
       description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: full
       department: DPR
       datasource: dpr_customer_service
-      series-grouping: true
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+
+    - title: Arborist Service Requests
+      description: Total customer-initiated arborist inspection requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: third
+      department: DPR
+      datasource: dpr_arborist
+      series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: Number
@@ -16,6 +30,38 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       
+    - title: Forestry Service Requests
+      description: Total customer-initiated forestry service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: third
+      department: DPR
+      datasource: dpr_forestry
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+      
+    - title: Skilled Services Service Requests
+      description: Total customer-initiated skilled services service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: third
+      department: DPR
+      datasource: dpr_skilled
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+
+- group-title: Section II - Park Maintenance
+  group-description:      
     - title: Mowing Completed on Schedule
       description: The percentage of scheduled park mowing that is completed on schedule
       size: full
@@ -27,7 +73,7 @@
       series1-format: percentage
       series1-label: Completed on Schedule
     
-- group-title: Section II - Recreation Center Attendance and Programming
+- group-title: Section III - Recreation Center Attendance and Programming
   group-description:
   charts:
     - title: Recreation Center Attendance
