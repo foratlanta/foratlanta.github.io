@@ -38,7 +38,7 @@
       series-grouping: true
       series1-metric: Result
       series1-type: column
-      series1-format: Number
+      series1-format: number
       series1-label: Total people
 
     - title: Youth Attendance and Programming
@@ -48,6 +48,6 @@
       datasource: youth_programming
       series-grouping: true
       series1-metric: Result
-      series1-type: line
+      series1-type: column
       series1-format: number
       series1-label: Total Youth Served
