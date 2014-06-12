@@ -1,12 +1,12 @@
 - group-title: Section I - Customer Service
-  group-description:
+  group-description: Customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
-    - title: Timeliness of Completion of Customer Service Requests
+    - title: All Customer Service Requests (Total Department)
       description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: full
       department: DPCD
       datasource: oob_customer_service
-      series-grouping: true
+      series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: Number
@@ -15,14 +15,26 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+    - title: Permit Inspection Customer Service Requests
+      description: Total customer-initiated permit inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: half
+      department: DPCD
+      datasource: oob_permit_insp
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe      
     - title: Quality Control Review Efficiency
       description: The percentage of submitted plans that are approved after first Quality Control Review (QCR)
-      size: full
+      size: half
       department: DPCD
       datasource: oob_plan_review
       series-grouping: false
-      series-grouping: true
       series1-metric: Volume
       series1-type: column
       series1-format: Number

@@ -17,7 +17,7 @@
 
     - title: Arborist Service Requests
       description: Total customer-initiated arborist inspection requests and the percentage of those service requests that were resolved within the Department's target timeframes
-      size: third
+      size: half
       department: DPR
       datasource: dpr_arborist
       series-grouping: false
@@ -32,7 +32,7 @@
       
     - title: Forestry Service Requests
       description: Total customer-initiated forestry service requests and the percentage of those service requests that were resolved within the Department's target timeframes
-      size: third
+      size: half
       department: DPR
       datasource: dpr_forestry
       series-grouping: false
@@ -47,7 +47,7 @@
       
     - title: Skilled Services Service Requests
       description: Total customer-initiated skilled services service requests and the percentage of those service requests that were resolved within the Department's target timeframes
-      size: third
+      size: full
       department: DPR
       datasource: dpr_skilled
       series-grouping: false
