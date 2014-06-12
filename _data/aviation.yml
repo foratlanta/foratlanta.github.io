@@ -30,7 +30,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Year-over-Year Volume Change
-            
+
 - group-title: Section II - Processing and Wait Times
   group-description:
   charts:

@@ -15,7 +15,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+
     - title: Pickups Collected on schedule
       description: The percentage of garbage, recycling and yard wste pickups that are collected on schedule
       size: full
@@ -26,7 +26,7 @@
       series1-type: line
       series1-format: percentage
       series1-label: Percent collected on schedule
-    
+
 - group-title: Section II - Office of Transportation
   group-description:
   charts:

@@ -15,7 +15,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+
     - title: Quality Control Review Efficiency
       description: The percentage of submitted plans that are approved after first Quality Control Review (QCR)
       size: full
@@ -31,7 +31,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Plans Approved After First QCR
-    
+
 - group-title: Section II - Building Permits
   group-description:
   charts:

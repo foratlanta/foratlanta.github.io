@@ -1,5 +1,6 @@
 - group-title: Section I - Customer Service
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+  charts:
     - title: All Customer Service Requests (Total Department)
       description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: full
@@ -29,7 +30,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+
     - title: Forestry Service Requests
       description: Total customer-initiated forestry service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: third
@@ -44,7 +45,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+
     - title: Skilled Services Service Requests
       description: Total customer-initiated skilled services service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: third
@@ -61,7 +62,8 @@
       series2-label: Resolved Within Target Timeframe
 
 - group-title: Section II - Park Maintenance
-  group-description:      
+  group-description:
+  charts:
     - title: Mowing Completed on Schedule
       description: The percentage of scheduled park mowing that is completed on schedule
       size: full
@@ -72,7 +74,7 @@
       series1-type: line
       series1-format: percentage
       series1-label: Completed on Schedule
-    
+
 - group-title: Section III - Recreation Center Attendance and Programming
   group-description:
   charts:

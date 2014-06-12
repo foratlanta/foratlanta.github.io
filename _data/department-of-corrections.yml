@@ -1,5 +1,5 @@
 - group-title: Section I - Jail Operations
-  group-description: 
+  group-description:
   charts:
     - title: Jail Population
       description: Average Daily Population of the Jail as well as inmates being booked into and tranferred or released from the jail
@@ -13,7 +13,7 @@
       series1-label: Number of Inmates
 
 - group-title: Section II - Safety and Security
-  group-description: 
+  group-description:
   charts:
     - title: Inmate Accidents, Assults and Escape Attempts
       description:
@@ -25,13 +25,13 @@
       series1-type: line
       series1-format: number
       series1-label: Number of Inmates
-      
+
 - group-title: Section III - Community Partnerships
   group-description:
   charts:
     - title: Community Partnerships and Inmate Detail Hours
       description: The number of Community Partnerships facilities by the Department of Corrections and the number of Inmate Hours that the Department has leveraged to provide work details around the City
-      note: 
+      note:
       size: full
       department: DOC
       datasource: community_involvement
