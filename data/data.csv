@@ -571,19 +571,19 @@ DOC,safety_and_security,Inmate-To-Staff Assaults,1/10/2014,,0
 DOC,safety_and_security,Inmate-To-Staff Assaults,2/10/2014,,1
 DOC,safety_and_security,Inmate-To-Staff Assaults,3/10/2014,,2
 DOC,safety_and_security,Inmate-To-Staff Assaults,4/10/2014,,2
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,5/10/2013,"5,499",0.99327
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,6/10/2013,"5,180",0.989
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,7/10/2013,"5,682",0.989
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,8/10/2013,"6,092",0.99
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,9/10/2013,"5,668",0.9921
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,10/10/2013,"6,649",0.99098
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,11/10/2013,"5,725",0.993537118
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,12/10/2013,"5,828",0.992107
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,1/10/2014,"4,970",0.9662
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,2/10/2014,"4,942",0.9352
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,3/10/2014,"6,790",0.9903
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,4/10/2014,"6,717",0.9894
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,5/10/2014,"6,597",0.9927
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,5/10/2013,5499,.9327
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,6/10/2013,5180,0.989
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,7/10/2013,5682,0.989
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,8/10/2013,6092,0.99
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,9/10/2013,5668,0.9921
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,10/10/2013,6649,0.99098
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,11/10/2013,5725,0.993537118
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,12/10/2013,5828,0.992107
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,1/10/2014,4970,0.9662
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,2/10/2014,4942,0.9352
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,3/10/2014,6790,0.9903
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,4/10/2014,6717,0.9894
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe � Permit Inspections,5/10/2014,6597,0.9927
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,5/10/2013,,0.6677
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,6/10/2013,,0.7106
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,7/10/2013,,0.8023
