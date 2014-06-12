@@ -1,35 +1,45 @@
-- group-title: Department of Corrections
-  group-description: The City&rsquo;s Department of Corrections (DOC) is charged with protecting the public by providing a safe and secure correctional environment and enhancing the public safety through partnerships with the community and law enforcement.
+- group-title: Section I - Crime Reduction
+  group-description:
   charts:
-    - title: Average Daily Jail Population
-      description:
+    - title: Change in crime across City of Atlanta
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta.
+      note: This data is published by the Federal Bureau of Investigation.
+      size: full
+      department: APD
+      datasource: overall_crime
+      series-grouping: false
+      series1-metric: Result
+      series1-type: column
+      series1-format: percentage
+      series1-label: Year-Over-Year Change
+
+    - title: Change in crime By Police Zone
+      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones.
+      note: This data is published by the Federal Bureau of Investigation.
+      size: full
+      department: APD
+      datasource: crime_by_zone
+      series-grouping: true
+      series1-metric: Result
+      series1-type: column
+      series1-format: percentage
+      series1-label: Year-Over-Year Change
+
+- group-title: Section II - e911 Call Center
+  group-description: 
+  charts:
+    - title: Total Dispatched Calls and Call Answering Performance
+      description: Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
       note:
-      size: third
-      datasource: ps_jail_population
+      size: full
+      department: APD
+      datasource: e911_call_center
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Jail Population
-
-    - title: Median Booking Time
-      description:
-      note:
-      size: third
-      datasource: ps_median_booking_time
-      series-grouping: false
-      series1-metric: Volume
-      series1-type: column
-      series1-format: time
-      series1-label: Average Booking Time (in minutes)
-
-    - title: Jail Recidivism Rate
-      description:
-      note:
-      size: third
-      datasource: ps_recidivists
-      series-grouping: false
-      series1-metric: Result
-      series1-type: spline
-      series1-format: percentage
-      series1-label: Recidivism Percentage
+      series1-label: Total Dispatched Calls
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Answered Within 10 Seconds
