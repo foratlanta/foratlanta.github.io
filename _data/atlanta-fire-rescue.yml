@@ -26,7 +26,7 @@
       series-grouping: false
       series1-metric: Result
       series1-type: spline
-      series1-format: percentage
+      series1-format: number
       series1-label: Seconds
 
 - group-title: Section II - EMS Performance
@@ -53,9 +53,9 @@
       note:
       size: full
       department: AFR
-      datasource: EMS_turnout
+      datasource: ems_turnout
       series-grouping: false
       series1-metric: Result
       series1-type: spline
-      series1-format: percentage
+      series1-format: number
       series1-label: Seconds
