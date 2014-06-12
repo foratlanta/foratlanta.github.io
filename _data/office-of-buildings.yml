@@ -15,6 +15,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+<<<<<<< HEAD
     - title: Permit Inspection Customer Service Requests
       description: Total customer-initiated permit inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: half
@@ -29,6 +30,9 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe      
+=======
+
+>>>>>>> e54f1a6f5a991935223198c20a80ae9a9dca996a
     - title: Quality Control Review Efficiency
       description: The percentage of submitted plans that are approved after first Quality Control Review (QCR)
       size: half
@@ -43,7 +47,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Plans Approved After First QCR
-    
+
 - group-title: Section II - Building Permits
   group-description:
   charts:
