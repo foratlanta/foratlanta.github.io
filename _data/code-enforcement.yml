@@ -33,7 +33,7 @@
       description: Total customer-initiated highly hazardous inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: half
       department: CODE
-      datasource: code_pm
+      datasource: code_hh
       series-grouping: false
       series1-metric: Volume
       series1-type: column

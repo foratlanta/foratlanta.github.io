@@ -1,8 +1,8 @@
 - group-title: Section I - Customer Service
-  group-description: Customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+  group-description: Customer-initiated service requests and the percentage of those service requests that were resolved within the Office's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Office's target timeframes
       size: full
       department: DPCD
       datasource: oob_customer_service
@@ -16,7 +16,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Permit Inspection Customer Service Requests
-      description: Total customer-initiated permit inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      description: Total customer-initiated permit inspection service requests and the percentage of those service requests that were resolved within the Office's target timeframes
       size: half
       department: DPCD
       datasource: oob_permit_insp
