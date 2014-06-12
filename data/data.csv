@@ -65,7 +65,7 @@ COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,11/10/2013,1565
 COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,12/10/2013,1475,0.46
 COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,1/10/2014,1464,0.5
 COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,2/10/2014,1445,0.5
-COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,3/10/2014,1833,0.08
+COURT,criminal_cases,Criminal Cases Filed and Adjudication Speed,3/10/2014,1833,0.49
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,6/10/2013,13416,0.1
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,7/10/2013,14918,0.1
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,8/10/2013,12770,0.11
@@ -75,7 +75,7 @@ COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,11/10/2013,10745,
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,12/10/2013,11557,0.07
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,1/10/2014,11985,0.09
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,2/10/2014,11800,0.09
-COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,3/10/2014,10896,0.49
+COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,3/10/2014,10896,0.08
 AFR,ems_turnout,Average Turnout Time for EMS Events,4/10/2013,,91
 AFR,ems_turnout,Average Turnout Time for EMS Events,5/10/2013,,75
 AFR,ems_turnout,Average Turnout Time for EMS Events,6/10/2013,,76
