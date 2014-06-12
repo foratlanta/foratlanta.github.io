@@ -1,7 +1,6 @@
 - group-title: Section I - Customer Service
-  group-description:
-  charts:
-    - title: Timeliness of Completion of Customer Service Requests
+  group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+    - title: All Customer Service Requests (Total Department)
       description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: full
       department: DWM
@@ -16,7 +15,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Timeliness of Completion of Customer Service Requests - Turning On New Accounts
+    - title: Turning On New Account Service Requests
       description: Total customer-initiated new account turn on service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: half
       department: DWM
@@ -32,7 +31,7 @@
       series2-label: Resolved Within Target Timeframe
 
 
-    - title: Timeliness of Completion of Customer Service Requests - Meter Investigation
+    - title: Meter Investigation Service Requests
       description: Total customer-initiated water meter investigation service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: half
       department: DWM
@@ -47,7 +46,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Timeliness of Completion of Customer Service Requests - Street Flooding Inspection
+    - title: Street Flooding Inspection Service Requests
       description: Total customer-initiated water street flooding service requests and the percentage of those service requests that were inspected within the Department's target timeframes
       size: half
       department: DWM
@@ -63,7 +62,7 @@
       series2-label: Inspected Within Target Timeframe
 
 
-    - title: Timeliness of Completion of Customer Service Requests - Drinking Water Quality Complaint
+    - title: Drinking Water Quality Complaint Service Requests
       description: Total customer-initiated drinking water quality complaint service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: half
       department: DWM
@@ -77,7 +76,10 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      
+
+- group-title: Section II - Billing
+  group-description:
+  charts:      
     - title: Estimated Bills as a Percent of Bills Issued
       description: The percentage of all water bills that are estimated rather than based on actual water usage
       size: half
@@ -100,7 +102,7 @@
       series1-format: number
       series1-label: Complaints per 1000 Accounts   
 
-- group-title: Section II - Infrastructure
+- group-title: Section III - Infrastructure
   group-description:
   charts:
     - title: Water System Breaks and Leaks
@@ -114,7 +116,7 @@
       series1-format: number
       series1-label: Number
 
-- group-title: Section III - Compliance
+- group-title: Section IV - Compliance
   group-description:
   charts:
     - title: Drinking Water and Waste Water Compliance Rates
