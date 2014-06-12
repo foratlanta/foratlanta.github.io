@@ -48,6 +48,6 @@
       datasource: youth_programming
       series-grouping: true
       series1-metric: Result
-      series1-type: column
-      series1-format: Number
+      series1-type: area
+      series1-format: number
       series1-label: Total Youth Served
