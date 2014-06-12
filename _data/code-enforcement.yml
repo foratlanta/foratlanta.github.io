@@ -16,7 +16,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Property Maintenance Inspection Service Requests
-      description: Total customer-initiated property maintenance inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      description: Total customer-initiated property maintenance inspection service requests and the percentage of those service requests that were resolved within the Office's target timeframes
       size: half
       department: CODE
       datasource: code_pm
@@ -30,7 +30,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Highly Hazardous Inspection Service Requests
-      description: Total customer-initiated highly hazardous inspection service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      description: Total customer-initiated highly hazardous inspection service requests and the percentage of those service requests that were resolved within the Office's target timeframes
       size: half
       department: CODE
       datasource: code_hh
