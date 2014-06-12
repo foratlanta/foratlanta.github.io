@@ -1,1 +1,57 @@
-aviation.yml
+- group-title: Section I - Passenger and Cargo Volume
+  group-description:
+  charts:
+    - title: Year-To-Date Passenger Volume
+      description: Total year-to-date passenger volume and the year-over-year percentage change in passenger volume
+      size: full
+      department: DOA
+      datasource: passenger_volume
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Total Passenger Volume
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Year-over-Year Volume Change
+
+    - title: Year-To-Date Cargo Volume
+      description: Total year-to-date cargo volume and the year-over-year percentage change in cargo volume
+      size: full
+      department: DOA
+      datasource: cargo_volume
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Total Passenger Volume
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Year-over-Year Volume Change
+            
+- group-title: Section II - Processing and Wait Times
+  group-description:
+  charts:
+    - title: Security Wait Time Performance
+      description: Percentage of time that the wait to get through security is under the Airport's target time
+      size: half
+      department: DOA
+      datasource: security_wait_times
+      series-grouping: false
+      series1-metric: Result
+      series1-type: line
+      series1-format: percentage
+      series1-label: Under Target Wait Time
+
+    - title: Average Customs Processing Times
+      description: Ther average time it takes for an inbound passenger to get processed through customs
+      size: half
+      department: DOA
+      datasource: customs_processing_time
+      series-grouping: false
+      series1-metric: Result
+      series1-type: line
+      series1-format: number
+      series1-label: Minutes
