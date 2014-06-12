@@ -1,1 +1,46 @@
-public-works.yml
+- group-title: Section I - Solid Waste Services
+  group-description:
+  charts:
+    - title: Timeliness of Completion of Customer Service Requests
+      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: full
+      department: DPW
+      datasource: solid_waste_customer_service
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+      
+    - title: Pickups Collected on schedule
+      description: The percentage of garbage, recycling and yard wste pickups that are collected on schedule
+      size: full
+      department: DPW
+      datasource: solid_waste_operations
+      series-grouping: true
+      series1-metric: Result
+      series1-type: line
+      series1-format: percentage
+      series1-label: Percent collected on schedule
+    
+- group-title: Section I - Office of Transportation
+  group-description:
+  charts:
+    - title: Timeliness of Completion of Customer Service Requests
+      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: full
+      department: DPW
+      datasource: transportation_customer_service
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
