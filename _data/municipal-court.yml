@@ -1,33 +1,37 @@
-- group-title: Municipal Courts
-  group-description: The City of Atlanta Municipal Court serves as the court of jurisdiction for the City of Atlanta.  The Court processes traffic violations, City of Atlanta municipal code violations as well as a number of minor crimes and quality of life violations. The Court is comprised of the Judiciary, City Solicitors, and Public Defenders. Each plays a role in resolving cases that are brought before the Court. The goal of the Court is to fairly process and resolve citations as efficiently as possible. 
+- group-title: Section I - Criminal Cases
+  group-description:
   charts:
-    - title: Criminal
-      description:
-      note:
-      datasource: municipal_courts_criminal
-      size: half
+    - title: Total Cases Filed and Case Disposal Efficiency
+      description: Total Number of Criminal cases filed in the Court and the percentage of cases disposed of within 10 days
+      note: 
+      size: full
+      department: COURT
+      datasource: criminal_cases
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Number of Cases
+      series1-label: Cases filed
       series2-metric: Result
-      series2-type: spline
-      series2-format: percentage
-      series2-label: Percentage Adjudicated
+      series2-type: line
+      series2-format: percantage
+      series2-label: Disposed of within 10 days
 
-    - title: Traffic
-      description:
-      note:
-      datasource: municipal_courts_traffic
-      size: half
-      type: column
+- group-title: Section II - Traffic Cases
+  group-description:
+  charts:
+    - title: Total Cases Filed and Case Disposal Efficiency
+      description: Total Number of Traffic cases filed in the Court and the percentage of cases disposed of within 10 days
+      note: 
+      size: full
+      department: COURT
+      datasource: traffic_cases
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Number of Cases
+      series1-label: Cases filed
       series2-metric: Result
-      series2-type: spline
-      series2-format: percentage
-      series2-label: Percentage Adjudicated
+      series2-type: line
+      series2-format: percantage
+      series2-label: Disposed of within 10 days
