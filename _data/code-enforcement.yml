@@ -1,1 +1,31 @@
-code-enforcement.yml
+- group-title: Section I - Customer Service
+  group-description:
+  charts:
+    - title: Timeliness of Completion of Customer Service Requests
+      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: full
+      department: CODE
+      datasource: code_customer_service
+      series-grouping: true
+      series1-metric: Volume
+      series1-type: column
+      series1-format: number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+      
+- group-title: Section II - Inspection Volume
+  group-description:
+  charts:
+    - title: Total Code Compliance Complaints and Backlog of Uninspected Complaints
+      description: Total number of complaints received from constituents as well as the total number of open complaints that are past-due for inspection 
+      size: full
+      department: CODE
+      datasource: code_compliance_complaints
+      series-grouping: true
+      series1-metric: Result
+      series1-type: column
+      series1-format: number
+      series1-label: Total Code Complaints
