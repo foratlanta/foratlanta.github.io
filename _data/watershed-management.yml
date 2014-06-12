@@ -24,7 +24,7 @@
       series-grouping: false
       series1-metric: Result
       series1-type: line
-      series1-format: number
+      series1-format: percentage
       series1-label: Percent Estimated Bills
     
     - title: Billing Complaints per 1000 Accounts
@@ -36,7 +36,7 @@
       series1-metric: Result
       series1-type: column
       series1-format: number
-      series1-label: Percent Estimated Bills    
+      series1-label: Complaints per 1000 Accounts   
 
 - group-title: Section II - Infrastructure
   group-description:
@@ -63,5 +63,5 @@
       series-grouping: true
       series1-metric: Result
       series1-type: line
-      series1-format: percent
+      series1-format: percentage
       series1-label: Percentage of Days in Compliance
