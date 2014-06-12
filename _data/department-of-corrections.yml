@@ -1,45 +1,42 @@
-- group-title: Section I - Crime Reduction
-  group-description:
-  charts:
-    - title: Change in crime across City of Atlanta
-      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta.
-      note: This data is published by the Federal Bureau of Investigation.
-      size: full
-      department: APD
-      datasource: overall_crime
-      series-grouping: false
-      series1-metric: Result
-      series1-type: column
-      series1-format: percentage
-      series1-label: Year-Over-Year Change
-
-    - title: Change in crime By Police Zone
-      description: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones.
-      note: This data is published by the Federal Bureau of Investigation.
-      size: full
-      department: APD
-      datasource: crime_by_zone
-      series-grouping: true
-      series1-metric: Result
-      series1-type: column
-      series1-format: percentage
-      series1-label: Year-Over-Year Change
-
-- group-title: Section II - e911 Call Center
+- group-title: Section I - Jail Operations
   group-description: 
   charts:
-    - title: Total Dispatched Calls and Call Answering Performance
-      description: Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less.
-      note:
+    - title: Jail Population
+      description: Average Daily Population of the Jail as well as inmates being booked into and tranferred or released from the jail
       size: full
-      department: APD
-      datasource: e911_call_center
-      series-grouping: false
-      series1-metric: Volume
-      series1-type: column
+      department: DOC
+      datasource: jail_population
+      series-grouping: true
+      series1-metric: result
+      series1-type: line
       series1-format: number
-      series1-label: Total Dispatched Calls
-      series2-metric: Result
-      series2-type: line
-      series2-format: percentage
-      series2-label: Answered Within 10 Seconds
+      series1-label: Number of Inmates
+
+- group-title: Section II - Safety and Security
+  group-description: 
+  charts:
+    - title: Inmate Accidents, Assults and Escape Attempts
+      description:
+      size: full
+      department: DOC
+      datasource: safety_and_security
+      series-grouping: true
+      series1-metric: result
+      series1-type: line
+      series1-format: number
+      series1-label: Number of Inmates
+      
+- group-title: Section III - Community Partnerships
+  group-description:
+  charts:
+    - title: Community Partnerships and Inmate Detail Hours
+      description: The number of Community Partnerships facilities by the Department of Corrections and the number of Inmate Hours that the Department has leveraged to provide work details around the City
+      note: 
+      size: full
+      department: DOC
+      datasource: community_involvement
+      series-grouping: true
+      series1-metric: Result
+      series1-type: line
+      series1-format: number
+      series1-label: Total Number
