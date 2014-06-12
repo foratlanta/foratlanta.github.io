@@ -6,7 +6,69 @@
       size: full
       department: DWM
       datasource: dwm_customer_service
-      series-grouping: true
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+
+    - title: Timeliness of Completion of Customer Service Requests - Turning On New Accounts
+      description: Total customer-initiated new account turn on service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: half
+      department: DWM
+      datasource: dwm_new_account_request
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+
+
+    - title: Timeliness of Completion of Customer Service Requests - Meter Investigation
+      description: Total customer-initiated water meter investigation service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: half
+      department: DWM
+      datasource: dwm_meter_investigation
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Resolved Within Target Timeframe
+
+    - title: Timeliness of Completion of Customer Service Requests - Street Flooding Inspection
+      description: Total customer-initiated water street flooding service requests and the percentage of those service requests that were inspected within the Department's target timeframes
+      size: half
+      department: DWM
+      datasource: dwm_street_flooding
+      series-grouping: false
+      series1-metric: Volume
+      series1-type: column
+      series1-format: Number
+      series1-label: Total Service Requests
+      series2-metric: Result
+      series2-type: line
+      series2-format: percentage
+      series2-label: Inspected Within Target Timeframe
+
+
+    - title: Timeliness of Completion of Customer Service Requests - Drinking Water Quality Complaint
+      description: Total customer-initiated drinking water quality complaint service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      size: half
+      department: DWM
+      datasource: dwm_quality_complaint
+      series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: Number
