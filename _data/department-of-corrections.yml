@@ -7,7 +7,7 @@
       department: DOC
       datasource: jail_population
       series-grouping: true
-      series1-metric: result
+      series1-metric: Result
       series1-type: line
       series1-format: number
       series1-label: Number of Inmates
@@ -21,7 +21,7 @@
       department: DOC
       datasource: safety_and_security
       series-grouping: true
-      series1-metric: result
+      series1-metric: Result
       series1-type: line
       series1-format: number
       series1-label: Number of Inmates
