@@ -18,7 +18,7 @@
       series2-label: Responses Meeting SORC Criteria
 
     - title: Average Turnout Time Performance
-      description: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to a fire incident 
+      description: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to a fire incident
       note:
       size: full
       department: AFR
@@ -30,9 +30,9 @@
       series1-label: Seconds
 
 - group-title: Section II - EMS Performance
-  group-description: 
+  group-description:
   charts:
-     - title: Total EMS Events and Response Effectiveness
+    - title: Total EMS Events and Response Effectiveness
       description: Total number of EMS events responded to by the Fire Rescue department and the percent of EMS responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident.
       note:
       size: full
@@ -49,7 +49,7 @@
       series2-label: Responses Meeting SORC Criteria
 
     - title: Average Turnout Time Performance
-      description: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to an EMS incident 
+      description: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to an EMS incident
       note:
       size: full
       department: AFR
