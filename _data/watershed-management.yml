@@ -1,5 +1,6 @@
 - group-title: Section I - Customer Service
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+  charts:
     - title: All Customer Service Requests (Total Department)
       description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
       size: full
