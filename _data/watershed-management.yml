@@ -79,7 +79,7 @@
 
 - group-title: Section II - Billing
   group-description:
-  charts:      
+  charts:
     - title: Estimated Bills as a Percent of Bills Issued
       description: The percentage of all water bills that are estimated rather than based on actual water usage
       size: half
@@ -90,7 +90,7 @@
       series1-type: line
       series1-format: percentage
       series1-label: Percent Estimated Bills
-    
+
     - title: Billing Complaints per 1000 Accounts
       description: The number of billing-related complaints received for every 1000 customer accounts
       size: half
@@ -100,7 +100,7 @@
       series1-metric: Result
       series1-type: column
       series1-format: number
-      series1-label: Complaints per 1000 Accounts   
+      series1-label: Complaints per 1000 Accounts
 
 - group-title: Section III - Infrastructure
   group-description:
