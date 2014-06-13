@@ -15,6 +15,7 @@
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
+
   - title: Bin Delivery and Pickup Service Requests
     description: Total customer-initiated bin delivery and pickup service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
     size: half
@@ -29,6 +30,7 @@
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
+
   - title: Illegal Dumping Service Requests
     description: Total customer-initiated illegal dumping service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
     size: half
@@ -43,6 +45,7 @@
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
+
   - title: Missed Collections Service Requests
     description: Total customer-initiated missed collections service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
     size: full
@@ -159,6 +162,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+
     - title: Street Light Repair Service Requests
       description: Total customer-initiated street light repair service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
       size: half
@@ -173,6 +177,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+
     - title: Bridge Maintenance Service Requests
       description: Total customer-initiated bridge maintenance service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
       size: full
