@@ -2,6 +2,7 @@
   <div class="panel panel-default">
     <div class="panel-heading">
       <h5 class="panel-title">{{ chart.title }}</h5>
+      {% if chart.summary %}<p class="report-chart-summary">{{ chart.summary }}</p>{% endif %}
     </div>
     <div class="panel-body">
     {% capture chartId %}{{ chart.datasource | handleize }}_{{ chart.title | downcase | replace:' ','_' }}{% endcapture %}

@@ -2,7 +2,9 @@
   group-description:
   charts:
     - title: Change in crime across City of Atlanta
-      description: <h5>Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta</h5> Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.<br>  <i>This data is published by the Federal Bureau of Investigation</i>
+      summary: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta
+      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: This data is published by the Federal Bureau of Investigation
       size: full
       department: APD
       datasource: overall_crime
@@ -13,7 +15,9 @@
       series1-label: Year Over Year Change
 
     - title: Change in crime By Police Zone
-      description: <h5>Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones</h5> Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.<br /><i> This data is published by the Federal Bureau of Investigation</i>
+      summary: Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: This data is published by the Federal Bureau of Investigation
       size: full
       department: APD
       datasource: crime_by_zone
