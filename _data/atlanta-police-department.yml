@@ -1,8 +1,8 @@
 - group-title: Section I - Crime Reduction
   group-description:
   charts:
-    - title: Change in crime across City of Atlanta <BR> <SMALL> <B> Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta</B><BR> <I>This data is published by the Federal Bureau of Investigation</I></SMALL>
-      description: <SMALL> Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.</SMALL>
+    - title: Change in crime across City of Atlanta
+      description: <h5>Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed across the City of Atlanta</h5> Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.<br>  <i>This data is published by the Federal Bureau of Investigation</i>
       size: full
       department: APD
       datasource: overall_crime
@@ -10,10 +10,10 @@
       series1-metric: Result
       series1-type: column
       series1-format: percentage
-      series1-label: Year-Over-Year Change
+      series1-label: Year Over Year Change
 
-    - title: Change in crime By Police Zone Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones. This data is published by the Federal Bureau of Investigation
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+    - title: Change in crime By Police Zone
+      description: <h5>Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones</h5> Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.<br /><i> This data is published by the Federal Bureau of Investigation</i>
       size: full
       department: APD
       datasource: crime_by_zone
@@ -21,13 +21,15 @@
       series1-metric: Result
       series1-type: column
       series1-format: percentage
-      series1-label: Year-Over-Year Change
+      series1-label: Year Over Year Change
+
+
 
 - group-title: Section II - e911 Call Center
-  group-description: 
+  group-description:
   charts:
-    - title: Total Dispatched Calls and Call Answering Performance <BR> <SMALL> <B> Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less. </B> </SMALL>
-      description: <SMALL>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.</SMALL>
+    - title: Total Dispatched Calls and Call Answering Performance
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD
       datasource: e911_call_center
