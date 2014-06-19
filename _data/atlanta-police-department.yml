@@ -27,7 +27,7 @@
   group-description: 
   charts:
     - title: Total Dispatched Calls and Call Answering Performance <BR> <SMALL> <B> Total number of calls dispatched by the E911 call center every month as well as the number of calls that the Center is able to answer in 10 seconds or less. </B> </SMALL>
-      description: <SMALL> Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. </SMALL>
+      description: <SMALL>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.</SMALL>
       size: full
       department: APD
       datasource: e911_call_center
