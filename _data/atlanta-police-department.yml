@@ -12,8 +12,8 @@
       series1-format: percentage
       series1-label: Year-Over-Year Change
 
-    - title: Change in crime By Police Zone <BR> <SMALL> <B> Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones. </B><BR> <I>This data is published by the Federal Bureau of Investigation</I></SMALL>
-      description: <SMALL> Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. </SMALL>
+    - title: Change in crime By Police Zone <BR> Total Year-Over-Year change in the number of Uniform Crime Rate (UCR) Crimes committed within each of the City's Police zones. <I>This data is published by the Federal Bureau of Investigation</I>
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD
       datasource: crime_by_zone
