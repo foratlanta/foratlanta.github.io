@@ -2,7 +2,9 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      note: Add or remove data points by c
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: dwm_customer_service
@@ -16,8 +18,9 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Turning On New Account Service Requests
-      description: Total customer-initiated new account turn on service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+    - title: Turning On <B> New Account </> Service Requests
+      summary: Total customer-initiated new account turn on service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_new_account_request
@@ -32,8 +35,9 @@
       series2-label: Resolved Within Target Timeframe
 
 
-    - title: Meter Investigation Service Requests
-      description: Total customer-initiated water meter investigation service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+    - title: <B> Meter Investigation </B> Service Requests
+      summary: Total customer-initiated water meter investigation service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_meter_investigation
@@ -47,8 +51,9 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Street Flooding Inspection Service Requests
-      description: Total customer-initiated water street flooding service requests and the percentage of those service requests that were inspected within the Department's target timeframes
+    - title: <B>Street Flooding </B> Inspection Service Requests
+      summary: Total customer-initiated water street flooding service requests (blue, left) and the percentage of those service requests that were inspected within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_street_flooding
@@ -63,8 +68,9 @@
       series2-label: Inspected Within Target Timeframe
 
 
-    - title: Drinking Water Quality Complaint Service Requests
-      description: Total customer-initiated drinking water quality complaint service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+    - title: Drinking <B> Water Quality </B> Complaint Service Requests
+      summary: Total customer-initiated drinking water quality complaint service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_quality_complaint
@@ -82,7 +88,8 @@
   group-description:
   charts:
     - title: Estimated Bills as a Percent of Bills Issued
-      description: The percentage of all water bills that are estimated rather than based on actual water usage
+      summary: The percentage of all water bills that are estimated rather than based on actual water usage
+      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: estimated_bills
@@ -93,7 +100,8 @@
       series1-label: Percent Estimated Bills
 
     - title: Billing Complaints per 1000 Accounts
-      description: The number of billing-related complaints received for every 1000 customer accounts
+      summary: The number of billing-related complaints received for every 1000 customer accounts
+      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: billing_complaints
@@ -107,7 +115,8 @@
   group-description:
   charts:
     - title: Water System Breaks and Leaks
-      description: Water system breaks per 100 miles of pipe and leaks per 1000 customer accounts
+      summary: Water system breaks and leaks per 100 miles of pipe
+      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: infrastructure
@@ -121,7 +130,8 @@
   group-description:
   charts:
     - title: Drinking Water and Waste Water Compliance Rates
-      description: The compliance rate for waste and drinking water, as measured by a percentage of the prior 365 days
+      summary: The compliance rate for waste water (red) and drinking water (blue), as measured by a percentage of the prior 365 days
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: compliance
