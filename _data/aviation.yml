@@ -2,7 +2,8 @@
   group-description:
   charts:
     - title: Year-To-Date Passenger Volume
-      description: Total year-to-date passenger volume and the year-over-year percentage change in passenger volume
+      summary: Total year-to-date passenger volume (blue, left) and the year-over-year percentage change in passenger volume (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOA
       datasource: passenger_volume
@@ -17,7 +18,8 @@
       series2-label: Year-over-Year Volume Change
 
     - title: Year-To-Date Cargo Volume
-      description: Total year-to-date cargo volume and the year-over-year percentage change in cargo volume
+      summary: Total year-to-date cargo volume  (blue, left) and the year-over-year percentage change in cargo volume (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOA
       datasource: cargo_volume
@@ -25,7 +27,7 @@
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Total Passenger Volume
+      series1-label: Total Cargo Volume
       series2-metric: Result
       series2-type: line
       series2-format: percentage
@@ -35,7 +37,8 @@
   group-description:
   charts:
     - title: Security Wait Time Performance
-      description: Percentage of time that the wait to get through security is under the Airport's target time
+      summary: Percentage of time that the wait to get through security is under the Airport's target time
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DOA
       datasource: security_wait_times
@@ -46,7 +49,8 @@
       series1-label: Under Target Wait Time
 
     - title: Average Customs Processing Times
-      description: Ther average time it takes for an inbound passenger to get processed through customs
+      summary: The average time it takes for an inbound passenger to get processed through customs
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DOA
       datasource: customs_processing_time
