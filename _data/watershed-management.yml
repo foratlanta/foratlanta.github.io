@@ -3,7 +3,6 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      note: Add or remove data points by c
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
