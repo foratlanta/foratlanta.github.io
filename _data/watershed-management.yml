@@ -18,7 +18,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Turning On <B> New Account </B> Service Requests
+    - title: Turning On New Account Service Requests
       summary: Total customer-initiated new account turn on service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
@@ -35,7 +35,7 @@
       series2-label: Resolved Within Target Timeframe
 
 
-    - title: <B> Meter Investigation </B> Service Requests
+    - title: Meter Investigation Service Requests
       summary: Total customer-initiated water meter investigation service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
@@ -51,7 +51,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: <B>Street Flooding </B> Inspection Service Requests
+    - title: Street Flooding Inspection Service Requests
       summary: Total customer-initiated water street flooding service requests (blue, left) and the percentage of those service requests that were inspected within the Department's target timeframes (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
@@ -68,7 +68,7 @@
       series2-label: Inspected Within Target Timeframe
 
 
-    - title: Drinking <B> Water Quality </B> Complaint Service Requests
+    - title: Drinking Water Quality Complaint Service Requests
       summary: Total customer-initiated drinking water quality complaint service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
@@ -114,8 +114,8 @@
 - group-title: Section III - Infrastructure
   group-description:
   charts:
-    - title: Water System Breaks and Leaks
-      summary: Water system breaks and leaks per 100 miles of pipe
+    - title: Water System Breaks
+      summary: Water system breaks per 100 miles of pipe
       description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
