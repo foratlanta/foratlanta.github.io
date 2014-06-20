@@ -67,7 +67,7 @@
       series2-label: Monthly Permits Issued
 
     - title: Detailed Breakdown of Permit Types
-      summary: Percentage of new commercial building permits (blue) and new residential building permits (red) as a percent of total permits issued
+      summary: New commercial building permits (blue) and new residential building permits (red) as a percent of total permits issued
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
