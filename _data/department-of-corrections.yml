@@ -2,7 +2,8 @@
   group-description:
   charts:
     - title: Jail Population
-      description: Average Daily Population of the Jail as well as inmates being booked into and tranferred or released from the jail
+      summary: Average Daily Population of the Jail (blue) as well as inmates being booked into (red) and tranferred or released from the jail (gold)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
       datasource: jail_population
@@ -15,8 +16,9 @@
 - group-title: Section II - Safety and Security
   group-description:
   charts:
-    - title: Inmate Accidents, Assults and Escape Attempts
-      description:
+    - title: Inmate Accidents, Assaults and Escape Attempts
+      summary: Number of Incidents categorized as Accidents (red), Inmate-To-Inmate Assaults (gold), Inmate-To-Staff Assaults (mango tango), and Escape Attempts (blue)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
       datasource: safety_and_security
@@ -24,13 +26,14 @@
       series1-metric: Result
       series1-type: line
       series1-format: number
-      series1-label: Number of Inmates
+      series1-label: Number of Incidents
 
 - group-title: Section III - Community Partnerships
   group-description:
   charts:
     - title: Community Partnerships and Inmate Detail Hours
-      description: The number of Community Partnerships facilities by the Department of Corrections and the number of Inmate Hours that the Department has leveraged to provide work details around the City
+      summary: The number of Community Partnerships facilities by the Department of Corrections (blue) and the number of Inmate Hours that the Department has leveraged to provide work details around the City (red)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       note:
       size: full
       department: DOC
