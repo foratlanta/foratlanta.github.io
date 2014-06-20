@@ -18,7 +18,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Turning On <B> New Account </> Service Requests
+    - title: Turning On <B> New Account </B> Service Requests
       summary: Total customer-initiated new account turn on service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
