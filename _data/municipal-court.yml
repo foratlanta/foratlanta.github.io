@@ -1,7 +1,7 @@
 - group-title: Section I - Criminal Cases
   group-description:
   charts:
-    - title: Total Cases Filed and Case Disposal Efficiency
+    - title: Total <B>Criminal</B> Cases Filed and Case Disposal Efficiency
       summary: Total Number of Criminal cases filed in the Court (blue, left) and the percentage of cases disposed of within 10 days (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       note: 
@@ -21,7 +21,7 @@
 - group-title: Section II - Traffic Cases
   group-description:
   charts:
-    - title: Total Cases Filed and Case Disposal Efficiency
+    - title: Total <B> Traffic</B> Cases Filed and Case Disposal Efficiency
       summary: Total Number of Traffic cases filed in the Court (blue, left) and the percentage of cases disposed of within 10 days (red, right)
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       note: 
