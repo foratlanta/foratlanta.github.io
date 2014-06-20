@@ -2,7 +2,8 @@
   group-description: Customer-initiated service requests and the percentage of those service requests that were resolved within the Office's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Office's target timeframes
+      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Office's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: oob_customer_service
@@ -16,7 +17,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Permit Inspection Customer Service Requests
-      description: Total customer-initiated permit inspection service requests and the percentage of those service requests that were resolved within the Office's target timeframes
+      summary: Total customer-initiated permit inspection service requests (blue, left) and the percentage of those service requests that were resolved within the Office's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
       datasource: oob_permit_insp
@@ -30,7 +32,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe      
     - title: Quality Control Review Efficiency
-      description: The percentage of submitted plans that are approved after first Quality Control Review (QCR)
+      summary: The total number of plans that are submitted for Quality Control Review (blue, left) and percentage of submitted plans that are approved after first QCR (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
       datasource: oob_plan_review
@@ -48,7 +51,8 @@
   group-description:
   charts:
     - title: Number of Building Permits Issued
-      description: Total building permits issued within the current fiscal year
+      summary: Total building permits issued within the current fiscal year by month (red, right) and year-to-date (blue, left)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: building_permits_overall
@@ -63,7 +67,8 @@
       series2-label: Monthly Permits Issued
 
     - title: Detailed Breakdown of Permit Types
-      description: Percentage of various permit types as a percent of total permits issued
+      summary: Percentage of new commercial building permits (blue) and new residential building permits (red) as a percent of total permits issued
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: building_permits_detail
