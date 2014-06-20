@@ -2,7 +2,8 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: dpr_customer_service
@@ -17,7 +18,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Arborist Service Requests
-      description: Total customer-initiated arborist inspection requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      summary: Total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
       datasource: dpr_arborist
@@ -32,7 +34,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Forestry Service Requests
-      description: Total customer-initiated forestry service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      summary: Total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
       datasource: dpr_forestry
@@ -47,7 +50,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Skilled Services Service Requests
-      description: Total customer-initiated skilled services service requests and the percentage of those service requests that were resolved within the Department's target timeframes
+      summary: Total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: dpr_skilled
@@ -64,8 +68,9 @@
 - group-title: Section II - Park Maintenance
   group-description:
   charts:
-    - title: Mowing Completed on Schedule
-      description: The percentage of scheduled park mowing that is completed on schedule
+    - title: Scheduled Maintenance Completed on Schedule [Coming Soon]
+      summary: The percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: park_maintenance
@@ -78,8 +83,9 @@
 - group-title: Section III - Recreation Center Attendance and Programming
   group-description:
   charts:
-    - title: Recreation Center Attendance
-      description: Total recreation center visits and active recreation center memberships
+    - title: Recreation Center Attendance [Coming Soon]
+      summary: Total recreation center visits and active recreation center memberships
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: rec_center_attendance
@@ -90,7 +96,8 @@
       series1-label: Total people
 
     - title: Youth Attendance and Programming
-      description: Total youth being served by a variety of Recreation programs
+      summary: Total youth being served by After School and Camp Best Friends (blue) and Recreation Center (red) Programming
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: youth_programming
