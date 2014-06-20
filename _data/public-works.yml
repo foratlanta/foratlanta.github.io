@@ -2,8 +2,8 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the SWS's target timeframes
   charts:
   - title: All Customer Service Requests (All Solid Waste)
-    summary: Total customer-initiated service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
-    description: 
+    summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the SWS's target timeframes (red, right)
+    description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
     datasource: solid_waste_customer_service
@@ -18,8 +18,8 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Bin Delivery and Pickup Service Requests
-    summary: Total customer-initiated bin delivery and pickup service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
-    description: 
+    summary: Total customer-initiated bin delivery and pickup service requests (blue, left) and the percentage of those service requests that were resolved within the SWS's target timeframes (red, right)
+    description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
     datasource: solid_waste_bin
@@ -34,8 +34,8 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Illegal Dumping Service Requests
-    summary: Total customer-initiated illegal dumping service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
-    description: 
+    summary: Total customer-initiated illegal dumping service requests (blue, left) and the percentage of those service requests that were resolved within the SWS's target timeframes (red, right)
+    description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
     datasource: solid_waste_dumping
@@ -50,8 +50,8 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Missed Collections Service Requests
-    summary: Total customer-initiated missed collections service requests and the percentage of those service requests that were resolved within the SWS' target timeframes
-    description: 
+    summary: Total customer-initiated missed collections service requests (blue, left) and the percentage of those service requests that were resolved within the SWS's target timeframes (red, right)
+    description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
     datasource: solid_waste_missed_collections
@@ -69,8 +69,8 @@
   group-description:
   charts:
   - title: Garbage, recycling and yard waste collected on schedule
-    summary: The percentage of garbage, recycling and yard wste pickups that are collected on schedule
-    description: 
+    summary: The percentage of garbage (blue), recycling (red) and yard waste (gold) pickups that are collected on schedule
+    description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
     datasource: solid_waste_operations
@@ -84,8 +84,8 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
   charts:
     - title: All Customer Service Requests (All Solid Waste)
-      summary: Total customer-initiated service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPW
       datasource: transportation_customer_service
@@ -99,8 +99,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Asphalt and Street Repair Service Requests
-      summary: Total customer-initiated asphalt and street repair service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated asphalt and street repair service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
       datasource: transportation_asphalt
@@ -114,8 +114,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Concrete Repair Service Requests
-      summary: Total customer-initiated concrete repair service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated concrete repair service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
       datasource: transportation_concrete
@@ -129,8 +129,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Street Sign Repair and Replace Service Requests
-      summary: Total customer-initiated street sign repair and replace service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated street sign repair and replace service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       summary:
       department: DPW
@@ -145,8 +145,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Street Markings Service Requests
-      summary: Total customer-initiated street markings service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated street markings service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
       datasource: transportation_customer_markings
@@ -160,8 +160,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Traffic Signal Repair Service Requests
-      summary: Total customer-initiated traffic signal repair service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated traffic signal repair service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
       datasource: transportation_customer_signals
@@ -176,8 +176,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Street Light Repair Service Requests
-      summary: Total customer-initiated street light repair service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated street light repair service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
       datasource: transportation_lights
@@ -192,8 +192,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Bridge Maintenance Service Requests
-      summary: Total customer-initiated bridge maintenance service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
-      description: 
+      summary: Total customer-initiated bridge maintenance service requests (blue, left) and the percentage of those service requests that were resolved within the OOT's target timeframes (red, right)
+      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPW
       datasource: transportation_bridge
