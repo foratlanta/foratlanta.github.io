@@ -69,7 +69,7 @@
   group-description:
   charts:
     - title: Scheduled Maintenance Completed on Schedule [Coming Soon]
-      summary: Park Maintenance is handled by Park District Operations and is divided by quadrants: Northeast, Southeast, Northwest, and Southwest. Parks are maintained on a 10-day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.
+      summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -84,7 +84,7 @@
   group-description:
   charts:
     - title: Recreation Center Attendance [Coming Soon]
-      summary: The Office of Recreation currently manages an array of facilities which include 33 recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships.
+      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships.
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
