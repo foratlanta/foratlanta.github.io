@@ -2,7 +2,7 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right). <BR> <DFN> This metric is an aggregation of services requested by citizens include arborist, forestry, and skilled services. </DFN>
+      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right). <BR> <STRONG> The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement.</STRONG>
       description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
