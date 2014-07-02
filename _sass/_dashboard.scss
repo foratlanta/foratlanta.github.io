@@ -1521,16 +1521,18 @@ li.dropdown ul.dropdown-menu.alert > li h1 {
   }
   .panel>.panel-heading {
     font-weight: 400;
-    text-transform: uppercase;
     padding: 15px;
     h3 {
       font-size: 28px;
+      text-transform: uppercase;
     }
     h4 {
       font-size: 22px;
+      text-transform: uppercase;
     }
     h5 {
       font-size: 18px;
+      text-transform: uppercase;
     }
   }
   .panel .actions {
