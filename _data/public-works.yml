@@ -2,8 +2,8 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the SWS's target timeframes.
   charts:
   - title: All Customer Service Requests (All Solid Waste)
-    summary: The Office of Solid Waste Services is responsible for the collection and disposal of solid waste within the City of Atlanta. Additionally, the office provides vacant lot clean-up; maintenance of various rights-of-way specified in the Atlanta City Code and dead animal removal and disposal. The office also oversees landfill operations; the City’s recycling program; enforcing codes related to lawn maintenance and the disposal of yard trimmings; and assists in citywide emergency operations. 
-	description: With an average of more than 2,000 service requests per month, Solid Waste Services has greatly improved how quickly the Office responds to citizen requests and is now above target.
+    summary: The Office of Solid Waste Services is responsible for the collection and disposal of solid waste within the City of Atlanta. Additionally, the office provides vacant lot clean-up; maintenance of various rights-of-way specified in the Atlanta City Code and dead animal removal and disposal. The office also oversees landfill operations; the City’s recycling program; enforcing codes related to lawn maintenance and the disposal of yard trimmings; and assists in citywide emergency operations.
+    description: With an average of more than 2,000 service requests per month, Solid Waste Services has greatly improved how quickly the Office responds to citizen requests and is now above target.
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -19,9 +19,9 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Bin Delivery and Pickup Service Requests
-    summary: The City supplies a 96 gallon green garbage can and a 96 gallon blue recycling bin to all new residents (single-family), and replacement bins for a cost to those who request them. 
+    summary: The City supplies a 96 gallon green garbage can and a 96 gallon blue recycling bin to all new residents (single-family), and replacement bins for a cost to those who request them.
     description: With an average of 900 requests per month, bins are delivered within 7 days nearly every time.
-	note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+    note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
     datasource: solid_waste_bin
@@ -36,8 +36,8 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Illegal Dumping Service Requests
-    summary: The City of Atlanta collects illegal dumping from the city right of way and from the City's known dump sites. If the dump site is causing a visibility issue in the public right of way, they city will remove obstruction within 2 - 15 days. 
-	description: The Office gets an average of 50 calls per month and has been trending upwards, exceeding its target just shortly after the start of 2014.
+    summary: The City of Atlanta collects illegal dumping from the city right of way and from the City's known dump sites. If the dump site is causing a visibility issue in the public right of way, they city will remove obstruction within 2 - 15 days.
+    description: The Office gets an average of 50 calls per month and has been trending upwards, exceeding its target just shortly after the start of 2014.
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
@@ -53,8 +53,8 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Missed Collections Service Requests
-    summary: The City makes an estimated 360,000 garbage, recycle, and yard trimmings per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin. 
-	description: With an average of 1,000 requests per month, performance has trended upwards and has been above target most of 2014.
+    summary: The City makes an estimated 360,000 garbage, recycle, and yard trimmings per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin.
+    description: With an average of 1,000 requests per month, performance has trended upwards and has been above target most of 2014.
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -73,8 +73,8 @@
   group-description:
   charts:
   - title: Garbage, recycling and yard waste collected on schedule
-    summary: Household garbage, recycling and yard trimmings are collected weekly on the scheduled collection day. 
-	description: Most collection schedules handle all three at the same time, but when there are equipment or staff constraints, garbage and recycle become the top priority—and garbage has not dropped below 99% collection rate since 2012.
+    summary: Household garbage, recycling and yard trimmings are collected weekly on the scheduled collection day.
+    description: Most collection schedules handle all three at the same time, but when there are equipment or staff constraints, garbage and recycle become the top priority—and garbage has not dropped below 99% collection rate since 2012.
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -89,8 +89,8 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
   charts:
     - title: All Customer Service Requests (All Solid Waste)
-      summary: The Office of Transportation is responsible for overseeing and maintaining the City's street network. This office includes traffic engineering, street operations, traffic signals, street lights, street signs, street maintenance, on-street parking management, and capital/infrastructure improvement projects. 
-	  description: With an average of 1,700 requests per month, the office’s performance has fluctuated year over year but is trending upwards since the start of 2014 and working with FOR Atlanta work towards meeting targets.
+      summary: The Office of Transportation is responsible for overseeing and maintaining the City's street network. This office includes traffic engineering, street operations, traffic signals, street lights, street signs, street maintenance, on-street parking management, and capital/infrastructure improvement projects.
+      description: With an average of 1,700 requests per month, the office’s performance has fluctuated year over year but is trending upwards since the start of 2014 and working with FOR Atlanta work towards meeting targets.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPW
@@ -105,8 +105,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Asphalt and Street Repair Service Requests
-      summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs. 
-	  description: With an average of 300 requests per month, performance has been consistently below target through 2014.
+      summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs.
+      description: With an average of 300 requests per month, performance has been consistently below target through 2014.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -121,8 +121,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Concrete Repair Service Requests
-      summary: The Office of Transportation, often in cooperation with neighborhood associations, will repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens. 
-	  description: The City receives an average of 100 requests per month, and performance has begun to trend upwards but is still below target through 2014.
+      summary: The Office of Transportation, often in cooperation with neighborhood associations, will repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
+      description: The City receives an average of 100 requests per month, and performance has begun to trend upwards but is still below target through 2014.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -137,8 +137,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Street Sign Repair and Replace Service Requests
-      summary: If a street sign is reported as in need of repair or replacement (e.g. broken, blotted out, removed), a transportation inspector will investigate and order a repair or replacement as needed. 
-	  description: With 400 requests per month, performance has trended up through the beginning of 2014 and is stabilized at target.
+      summary: If a street sign is reported as in need of repair or replacement (e.g. broken, blotted out, removed), a transportation inspector will investigate and order a repair or replacement as needed.
+      description: With 400 requests per month, performance has trended up through the beginning of 2014 and is stabilized at target.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       summary:
@@ -154,8 +154,8 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Street Markings Service Requests
-      summary: If markings on the street are worn or missing (including lane dividers, crosswalks, bike lanes) the office of transportation will draw new markings as appropriate. 
-	  description: With an average of 50 requests per month, performance has been down around the start of 2014 and trending back towards target.
+      summary: If markings on the street are worn or missing (including lane dividers, crosswalks, bike lanes) the office of transportation will draw new markings as appropriate.
+      description: With an average of 50 requests per month, performance has been down around the start of 2014 and trending back towards target.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -171,7 +171,7 @@
       series2-label: Resolved Within Target Timeframe
     - title: Traffic Signal Repair Service Requests
       summary: If a street light is reported as out or not functioning properly (including red, yellow, green traffic lights, flashers, and crosswalk signals), the city will repair and replace as appropriate.
-	  description: With an average of 500 requests per month, the office can meet target of between 1-23 days (depending on the urgency of traffic) over 90% of the time.
+      description: With an average of 500 requests per month, the office can meet target of between 1-23 days (depending on the urgency of traffic) over 90% of the time.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -187,8 +187,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Street Light Repair Service Requests
-      summary: The City will repair and replace necessary aspects of street lights (including flickering lights, bulb out or missing) so long as the light is on a metal pole. 
-	  description: With an average of 100 requests per month, this task is often above target but fluctuates greatly following bad weather.
+      summary: The City will repair and replace necessary aspects of street lights (including flickering lights, bulb out or missing) so long as the light is on a metal pole.
+      description: With an average of 100 requests per month, this task is often above target but fluctuates greatly following bad weather.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -204,8 +204,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Bridge Maintenance Service Requests
-      summary: The City of Atlanta Maintains Repairs to City owned Bridges (including routine repairs, major repairs, and falling objects). 
-	  description: With an average of 20 requests per month, performance is below target through 2014 and being monitored by the FOR Atlanta team.
+      summary: The City of Atlanta Maintains Repairs to City owned Bridges (including routine repairs, major repairs, and falling objects).
+      description: With an average of 20 requests per month, performance is below target through 2014 and being monitored by the FOR Atlanta team.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPW
