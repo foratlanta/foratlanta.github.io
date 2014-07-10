@@ -2,8 +2,9 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure shows the total volume of all customer service requests that the Department of Watershed Management (DWM) receives on a monthly basis. [This covers every element of the department’s operations – from billing queries to leaking hydrant complaints and reports of missing street plates.] It also shows DWM’s performance in fulfilling those requests on time each month.
+      description: -	The graph shows two key trends over the past year - the volume of customer service requests has increased since January 2014, while DWM’s performance has decreased over the same period. This is partly the result of a recent upgrade to the department’s IT system. We expect the red performance line to begin trending back up from May 2014 onwards. 
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: dwm_customer_service
