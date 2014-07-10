@@ -3,8 +3,8 @@
   charts:
     - title: Jail Population
       summary: The City of Atlanta municipal jail houses persons arrested on city ordinance charges and those sentenced by judges in certain criminal trials. Jail populations are measured at least 3 times a day and the average of all daily counts shows the estimated jail population at any given time during the month (blue). The number of inmates booked (gold) and released (red) includes inmates that stay in the municipal jail for any amount of time. This includes pre-trial inmates arrested, but not yet sentenced.
-      description: Average daily jail population for fiscal year 2014 was above the fiscal year 2013 population by 25%. Much of this extra population is driven by housing inmates temporarily from federal agencies, which also helps maximize space and offset costs. 
-	  note:  Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: Average daily jail population for fiscal year 2014 was above the fiscal year 2013 population by 25%. Much of this extra population is driven by housing inmates temporarily from federal agencies, which also helps maximize space and offset costs.
+      note:  Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
       datasource: jail_population
@@ -18,8 +18,8 @@
   group-description:
   charts:
     - title: Inmate Accidents, Assaults and Escape Attempts
-      summary: A series of metrics are used to examine the safety and security of the Atlanta municipal jail. Imamate accidents (red), inmate-to-inmate assaults (gold), inmate-to-staff assaults (orange), and escape attempts (blue) are all shown as total number of incidents for the denoted month. 
-	  description: The City of Atlanta municipal jail has not recorded a successful escape attempt in over XX years. 
+      summary: A series of metrics are used to examine the safety and security of the Atlanta municipal jail. Imamate accidents (red), inmate-to-inmate assaults (gold), inmate-to-staff assaults (orange), and escape attempts (blue) are all shown as total number of incidents for the denoted month.
+      description: The City of Atlanta municipal jail has not recorded a successful escape attempt in over XX years.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
@@ -34,8 +34,8 @@
   group-description:
   charts:
     - title: Community Partnerships and Inmate Detail Hours
-      summary: The Atlanta municipal jail organizes inmate details with a number of community organizations to help clear roads and neighborhoods of debris and most recently helping to clean overgrown lots on vacant and abandoned properties. The number of inmate hours utilized each month (red) represents a count of 1 hour for each inmate detail hour complete. The number of community organizations partnered with each month to achieve detail hours is shown in blue. 
-	  description: During the beginning of 2014, harsh weather kept inmate details to a minimum. With the change in seasons, a clear trend in increasing community partnerships and inmate hours has occurred taking inmate hours to near record his in April 2014 (1516 hours). 
+      summary: The Atlanta municipal jail organizes inmate details with a number of community organizations to help clear roads and neighborhoods of debris and most recently helping to clean overgrown lots on vacant and abandoned properties. The number of inmate hours utilized each month (red) represents a count of 1 hour for each inmate detail hour complete. The number of community organizations partnered with each month to achieve detail hours is shown in blue.
+      description: During the beginning of 2014, harsh weather kept inmate details to a minimum. With the change in seasons, a clear trend in increasing community partnerships and inmate hours has occurred taking inmate hours to near record his in April 2014 (1516 hours).
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC

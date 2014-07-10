@@ -19,7 +19,7 @@
 
     - title: Arborist Service Requests
       summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborist for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous; and require maintenance such as pruning or removal. <B> The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B>
-	  description: Given an average of 150 requests for tree inspections per month, the team is consistently above target of 90%.
+      description: Given an average of 150 requests for tree inspections per month, the team is consistently above target of 90%.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
@@ -35,8 +35,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Forestry Service Requests
-      summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right of way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. <B> The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B
-	  description: Taking on an average of 200 requests per month, the largest drivers of performance are tree takedowns and pruning. The increased workload of downed trees from several back to back storms has the team well below target of 90%, but trending upwards in 2014.
+      summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right of way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. <B> The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department\'s target timeframes (red, right).</B
+      description: Taking on an average of 200 requests per month, the largest drivers of performance are tree takedowns and pruning. The increased workload of downed trees from several back to back storms has the team well below target of 90%, but trending upwards in 2014.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
@@ -53,7 +53,7 @@
 
     - title: Skilled Services Service Requests
       summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. <B> The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B>
-	  description: Taking on an average of 800 requests per month; the skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. The performance has been well below target but the department is working collaboratively with FOR Atlanta to work towards a solution.
+      description: Taking on an average of 800 requests per month; the skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. The performance has been well below target but the department is working collaboratively with FOR Atlanta to work towards a solution.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -88,7 +88,7 @@
   charts:
     - title: Recreation Center Attendance [Coming Soon]
       summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. <B> The charts below shows total recreation center visits and active recreation center memberships.</B>
-	  description: 
+      description:
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -102,7 +102,7 @@
     - title: Youth Attendance and Programming
       summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. <B> The chart below shows the total youth being served by After School and Camp Best Friends (blue) and Recreation Center (red) Programming.</B>
       description: With new investments in facilities and programming, youth attendance in 2014 is more than double prior year.
-	  note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: youth_programming
