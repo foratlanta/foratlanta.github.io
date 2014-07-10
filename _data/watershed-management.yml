@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of all customer service requests that the Department of Watershed Management (DWM) receives on a monthly basis. [This covers every element of the department’s operations – from billing queries to leaking hydrant complaints and reports of missing street plates.] It also shows DWM’s performance in fulfilling those requests on time each month.
-      description: -	The graph shows two key trends over the past year - the volume of customer service requests has increased since January 2014, while DWM’s performance has decreased over the same period. This is partly the result of a recent upgrade to the department’s IT system. We expect the red performance line to begin trending back up from May 2014 onwards. 
+      description: The graph shows two key trends over the past year - the volume of customer service requests has increased since January 2014, while DWM’s performance has decreased over the same period. This is partly the result of a recent upgrade to the department’s IT system. We expect the red performance line to begin trending back up from May 2014 onwards. 
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
@@ -19,8 +19,9 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Turning On New Account Service Requests
-      summary: Total customer-initiated new account turn on service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure measures the number of new customer account requests that DWM receives each month. It also measures the department’s responsiveness in activating those accounts within 24 hours of the request being made.
+	  description: The results show that DWM has consistently activated nearly 100 percent of new accounts on time in every month. The volume of customer requests for new accounts has fluctuated between 600 and 1000 per month. The total number of active customer accounts is around 150,000.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_new_account_request
@@ -36,8 +37,9 @@
 
 
     - title: Meter Investigation Service Requests
-      summary: Total customer-initiated water meter investigation service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure measures the number of meter investigations carried out by DWM each month, and the department’s performance in carrying out those investigations in a timely manner. Customers can request a meter investigation where they believe there is something wrong with their meter that is causing it to give false readings about the amount of water they are consuming. DWM’s target is to complete a meter investigation within 7 business days of the customer making the request.
+	  description: This is a new metric that has only been tracked since February 2014. The results to date show that the department is performing close to its goal of completing 90 percent of all customer service requests within 7 business days. The volume of service requests has fluctuated between 250 and 525 service requests each month. This is a very small fraction of the more-than 150,000 meters that are installed across the city.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_meter_investigation
@@ -52,8 +54,9 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Street Flooding Inspection Service Requests
-      summary: Total customer-initiated water street flooding service requests (blue, left) and the percentage of those service requests that were inspected within the Department's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure measures DWM’s responsiveness to customer service calls about water pooling in city streets. Because this pooling can be a symptom of several different problems, the first course of action is always for watershed staff to inspect the site and determine the root cause of the problem. DWM has a goal of responding to all such customer calls within 4 hours.
+	  description: The department has steadily improved its performance from January to April 2014. This is in spite of a large increase in investigation requests. We are working with DWM to ensure that its responsiveness to this type of customer service request improves.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_street_flooding
@@ -69,8 +72,9 @@
 
 
     - title: Drinking Water Quality Complaint Service Requests
-      summary: Total customer-initiated drinking water quality complaint service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure reports the number of customer complaints received by DWM about the quality of its drinking water. The department’s target is to resolve each complaint within 8 hours of it being reported.
+	  description: As the graph shows, DWM’s performance has improved since January. It met its 90% target in March and came reasonably close in April (74%). The overall number of complaints received – 147 complaints in April – represents less than 0.1% of all customers.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: dwm_quality_complaint
@@ -88,8 +92,9 @@
   group-description:
   charts:
     - title: Estimated Bills as a Percent of Bills Issued
-      summary: The percentage of all water bills that are estimated rather than based on actual water usage
-      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: The department has made a big effort over recent years to move away from estimating monthly bills and instead provide accurate bills based on actual water consumption. This metric tracks the department’s progress in moving all customers away from estimated bills.
+	  description: The figure shows the great progress that the department has made in recent years. From 10% in May 2009, monthly results are now consistently below 1% and DWM is on track to meet its target of only 0.5% of customer bills being estimated.
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: estimated_bills
@@ -100,8 +105,9 @@
       series1-label: Percent Estimated Bills
 
     - title: Billing Complaints per 1000 Accounts
-      summary: The number of billing-related complaints received for every 1000 customer accounts
-      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure shows the number of billing complaints the department receives from customers each month. 
+	  description: The results show that in April 2014, DWM received less-than two complaints per thousand customers. This is a measure of the accuracy of the new small meter billing system that has been rolled out across the city.
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
       datasource: billing_complaints
@@ -115,8 +121,9 @@
   group-description:
   charts:
     - title: Water System Breaks
-      summary: Water system breaks per 100 miles of pipe
-      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure tracks the condition of Atlanta’s the water distribution system by measuring the number of water breaks per 100 miles of pipe over the past twelve months. 
+	  description: The results show the number of breaks trending down over the period until October 2012. Following a six month period of increasing breaks, the number is again trending down to around 13. This indicates approximately one break for every 10 miles of Atlanta’s distribution system piping each year.
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: infrastructure
@@ -130,8 +137,9 @@
   group-description:
   charts:
     - title: Drinking Water and Waste Water Compliance Rates
-      summary: The compliance rate for waste water (red) and drinking water (blue), as measured by a percentage of the prior 365 days
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: These measures track DWM’s performance in complying with relevant drinking water and waste water quality regulations. Both measures show how many days out of the last year that the department has been in compliance with federal, state and local regulations. 
+	  description: The figure shows that the department has been in compliance with all relevant regulations almost all of the time. Waste water temporarily dipped below its target of 98% during 2013, but that has since been remedied. Drinking water has consistently met all regulations and requirements.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: compliance

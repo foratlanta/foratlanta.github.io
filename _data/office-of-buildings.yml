@@ -2,8 +2,9 @@
   group-description: Customer-initiated service requests and the percentage of those service requests that were resolved within the Office's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      summary: Total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Office's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: This figure shows the total volume of customer service requests that the Office of Buildings receives on a monthly basis. It also shows performance in fulfilling those requests on-time each month.
+	  description: The graph shows that both volume and performance have been consistent over the past year. The office has an excellent track record of meeting its customer service delivery targets. This is based largely on its performance in building inspections, which make up the bulk of its work on a caseload basis.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: oob_customer_service
@@ -17,8 +18,9 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
     - title: Permit Inspection Customer Service Requests
-      summary: Total customer-initiated permit inspection service requests (blue, left) and the percentage of those service requests that were resolved within the Office's target timeframes (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: The Office of Buildings is responsible for carrying out arborist, building, mechanical, electrical and plumbing inspections across the city. Altogether, around 6,500 permit inspections are undertaken in a normal month.  The office strives to meet its customer service target of responding to customer requests for building inspections within two business days (six days for arborist inspections).
+	  description: As the figure shows, the Office has an excellent track record of performing nearly all inspections within the target timeframe. Despite a small dip in inspection volume and departmental responsiveness in January and February 2014 (the result of successive ice storms), performance has consistently been at 99% or better. 
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
       datasource: oob_permit_insp
@@ -32,8 +34,9 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe      
     - title: Quality Control Review Efficiency
-      summary: The total number of plans that are submitted for Quality Control Review (blue, left) and percentage of submitted plans that are approved after first QCR (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: In 2013, the Office introduced a new process at the front end of the permit application process that is designed to save both customers and staff time. This is referred to as Quality Control Review or QCR. Before an application is submitted, it is reviewed to make sure that all of the necessary paperwork is present and the application is complete. This gives the customer an early opportunity to gather additional documents before starting the formal application process. It makes the application review process smoother and ultimately quicker.
+	  description: The results show that a disappointing decrease in the percentage of customers that have had their applications approved for submittal after the first QCR review – from 80-percent plus in mid-2013 to just-over 50 percent in April 2014. One interpretation of this result is that the Office needs to better communicate with its customers and the public about the information they need to provide when they are applying for a permit. The Office has taken this performance information on board and has re-vamped its website to set out more clearly what the information requirements are for different types of permits.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
       datasource: oob_plan_review
@@ -51,8 +54,9 @@
   group-description:
   charts:
     - title: Number of Building Permits Issued
-      summary: Total building permits issued within the current fiscal year by month (red, right) and year-to-date (blue, left)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: One of the key functions of the Office of Buildings is to issue permits for residential, multifamily and commercial construction, alterations and demolition. This is an important barometer of economic development for the City. The figure shows the number of building permits issued each month. The figures are cumulative so they give a running count for each fiscal year.
+	  description: The red line shows the monthly total for building permits issued. Despite some seasonal movement in the month-to-month date, there is a clear upward trend over time. Likewise the solid blue (year-to-date) lines indicate that more permits were issued in 2013 than in 2012, and that 2014 is on track to register a further increase over 2013. This is a good sign that the Atlanta economy is recovering after several years of recession.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: building_permits_overall
@@ -67,8 +71,9 @@
       series2-label: Monthly Permits Issued
 
     - title: Detailed Breakdown of Permit Types
-      summary: New commercial building permits (blue) and new residential building permits (red) as a percent of total permits issued
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: The figure below gives a breakdown of the permitting data by different permit types. This is important to understand from the standpoint of city operations, since one new multifamily development has a bigger impact on watershed management, transport infrastructure and public safety services than a single new residential home, for example. 
+	  description: The figure shows that the share of multifamily permits has increased in the past couple years, while the contributions of commercial and residential construction demand have stayed fairly constant
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
       datasource: building_permits_detail
