@@ -1099,11 +1099,6 @@ DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe 
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),2/10/2014,245,0.184
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),3/10/2014,244,0.189
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),4/10/2014,387,0.227
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),1/10/2013,,0.98
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),2/10/2013,,1
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),3/10/2013,,1
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),4/10/2013,,0.995
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),5/10/2013,,1
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),6/10/2013,856,0.995
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),7/10/2013,987,0.998
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe - Vacant New Account Request (call to resolution),8/10/2013,1001,0.97003
