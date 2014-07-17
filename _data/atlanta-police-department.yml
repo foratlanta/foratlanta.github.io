@@ -3,7 +3,7 @@
   charts:
     - title: Change in crime across City of Atlanta
       summary: The FBI collects information on major crimes from agencies across the United States and the Atlanta Police Department is no exception. The YTD change in total major crimes from the year before (blue) reported by the Atlanta Police Department (APD) is shown below.
-      description: Atlanta saw very respectable reductions in crime in 2012 and 2013 (-7% and -4%) and in 2014 crime is on pace to be reduced 10% compared to the previous year as of May 2014. The City is on track to meet its target of a 20% reduction in crime from the start of the Mayor's term to the end of his term.
+      description: Atlanta saw very respectable reductions in crime in 2012 and 2013 (-7% and -4%) and in 2014 crime is on pace to be reduced 10% compared to the previous year as of May 2014. Crime in the City is at its lowest level since the 1960's, and the City is on track to meet its target of a 20% reduction in crime from the start of the Mayor's term to the end of his term.
       note:  Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD

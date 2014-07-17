@@ -1095,11 +1095,6 @@ DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timefram
 DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe - Meter investigation (call to resolution)                                                        ,2/10/2014,461,0.258
 DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe - Meter investigation (call to resolution)                                                        ,3/10/2014,525,0.992
 DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe - Meter investigation (call to resolution)                                                        ,4/10/2014,259,0.892
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),7/10/2013,133,0.564
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),8/10/2013,85,0.51765
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),9/10/2013,124,0.702
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),10/10/2013,98,0.765
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),11/10/2013,224,0.813
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),1/10/2014,236,0.127
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),2/10/2014,245,0.184
 DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe - Street flooding during or after rain event (call to inspection),3/10/2014,244,0.189
@@ -1154,13 +1149,6 @@ DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,7231,0.564383349
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,6364,0.477587366
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,1/10/2014,5382,0.505589929
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,12/10/2013,2495,0.964598798
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,11/10/2013,3033,0.942121991
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2013,3610,0.966479224
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2013,3319,0.953572462
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2013,4051,0.931613805
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2013,4435,0.91709425
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2013,3029,0.984664246
 CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,1045,0.781282297
 CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,1335,0.730576779
 CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,395,0.641974684
