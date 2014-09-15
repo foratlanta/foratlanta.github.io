@@ -60,6 +60,7 @@ $('.report-chart-container').each(function(index, element) {
             },
             series: {
                 grouping: $(element).data('series-grouping'),
+                pointPlacement: 'between',
                 shadow: false,
                 minPointLength: 2,
                 pointPadding: 0.1,
