@@ -1,2 +1,8 @@
 /_sass/.sass-cache/
 /_site/
+vendor/*
+.DS_Store
+*-project
+*-workspace
+**/bower_components
+**/node_modules

@@ -52,7 +52,7 @@ $('.report-chart-container').each(function(index, element) {
             symbolWidth: 10,
             symbolHeight: 10
         },
-        colors: ['#6084ac', '#d63f44', '#c87d35', '#e76c47', '#A60000', '#455789', '#87b5d8', '#ecd435'],
+        colors: ['#6084ac', '#d63f44','#068f28' ,'#c87d35', '#e76c47', '#A60000', '#455789', '#87b5d8', '#ecd435'],
         plotOptions: {
             column: {
                 borderColor: '#ddd',
@@ -60,6 +60,7 @@ $('.report-chart-container').each(function(index, element) {
             },
             series: {
                 grouping: $(element).data('series-grouping'),
+                pointPlacement: 'between',
                 shadow: false,
                 minPointLength: 2,
                 pointPadding: 0.1,
