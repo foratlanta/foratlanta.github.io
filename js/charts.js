@@ -104,26 +104,3 @@ $('.report-chart-container').each(function(index, element) {
 
     $(element).highcharts(options);
 });
-
-/**
- * allows the map legend to show/hide series in the crime rate chart
- * --== EXPERIMENTAL ==--
- */
-var mapChart = $('#ps_crime_rates').highcharts();
-//$('#ps_crime_rates').after('<img src="/img/APD-zones.svg" width="300">');
-$('.map-toggle').each(function(index, element) {
-    //for(var zone in mapChart.series)
-    for (var i = 0; i < mapChart.series.length; i++) {
-        if ($(this).data('series') == mapChart.series[i].name) {
-            var target_series = mapChart.series[i];
-            $(this).click(function(e) {
-                e.preventDefault();
-                if (target_series.visible) {
-                    target_series.hide();
-                } else {
-                    target_series.show();
-                }
-            });
-        }
-    }
-});

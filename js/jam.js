@@ -126,7 +126,7 @@ var Jam = (function() {
                 });
 
                 if (!_.isEmpty(yAxisOptions.axis[1])) {
-                    set.min = 0;
+                    set.min = null;
                 }
                 yAxis.push(set);
             }
