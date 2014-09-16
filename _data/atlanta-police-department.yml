@@ -3,7 +3,7 @@
   charts:
     - title: Change in crime across City of Atlanta
       summary: The FBI collects information on major crimes from agencies across the United States and the Atlanta Police Department is no exception. The YTD change in total major crimes from the year before (blue) reported by the Atlanta Police Department (APD) is shown below.
-      description: Atlanta saw very respectable reductions in crime in 2012 and 2013 (-7% and -4%) and in 2014 crime is on pace to be reduced 10% compared to the previous year as of May 2014. Crime in the City is at its lowest level since the 1960's, and the City is on track to meet its target of a 20% reduction in crime from the start of the Mayor's term to the end of his term.
+      description: Atlanta saw respectable reductions in crime in 2012 and 2013 (-7% and -4%) and in 2014 crime is on pace to decrease by a further 9%. Crime in the city is at its lowest level since the 1960's, and the City is on track to meet its target of a 20% reduction in crime during Mayor Reed's administration.
       note:  Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD
@@ -15,8 +15,8 @@
       series1-label: Year Over Year Change
 
     - title: Change in crime By Police Zone
-      summary: APD organizes its field division into 6 administrative zones.  APD actively monitors changes and compares crime across these different zones as part of its improvement efforts.  The YTD change in major crimes compared to the year before for each zone is shown below.
-      description: Currently in 2014, all 6 zones are reporting a reduction in crime compared to the year before. This achievement was not seen in 2013.
+      summary: APD organizes its field division into 6 administrative zones.  APD actively monitors changes and compares crime across these different zones as part of its improvement efforts.  The YTD change in major crimes, as defined by the FBI, compared to the year before for each zone is shown below.
+      description: So far in 2014, all 6 zones are seeing a reduction in crime compared to last year. This achievement was not seen in 2013.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD
@@ -33,8 +33,8 @@
   group-description:
   charts:
     - title: Total Dispatched Calls and Call Answering Performance
-      summary: The City of Atlanta e911 center handles all the emergency calls within city limits. Many of the calls require the dispatching of police services (blue bar chart). The center prides itself on being able to answer emergency calls as quickly as possible and actively measures the percent of calls it answers within 10 seconds (red) per industry standards.
-      description: The City’s e911 center has achieved a 10 second or less answer time on all emergency calls 90% of the time or greater for the last 3 years. This industry standard shows e911’s committed use of technology, efficiency and staffing to meet the emergency needs of citizens.
+      summary: The City of Atlanta e911 center handles all the emergency calls made within city limits. Many of the calls require the dispatching of police services (blue bar chart). The center prides itself on being able to answer emergency calls as quickly as possible and actively measures the percent of calls it answers within 10 seconds (red) per industry standards.
+      description: The City’s e911 center has consistently answered at least 90% of emergency calls within 10 seconds for the last 3 years. This performance vs. an industry standard benchmark demonstrates the center's commitment to technology, efficiency and staffing to respond to the emergency needs of citizens.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: APD

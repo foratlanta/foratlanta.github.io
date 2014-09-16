@@ -20,7 +20,7 @@
 
     - title: Property Maintenance Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of services requests each month from the public to inspect possible property maintenance violations. These include junk vehicles, overgrowth on property, or debris and garbage. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 120 calendar days (red).
-      description: As of May 2014, the Office of Code compliance has seen a 70% increase in the number of property maintenance inspections completed within the time goals. This improvement has come with a reduction in the inspection backlog as seen in dropping active service request volumes.
+      description: As of May 2014, the Office of Code compliance has seen a 70% increase in the number of property maintenance inspections completed within the time goals. This improvement has come as overdue requests are closed, as seen in dropping active service request volumes.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point
       size: half
       department: CODE
@@ -36,7 +36,7 @@
       series2-label: Resolved Within Target Timeframe
     - title: Highly Hazardous Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of services requests from the public to inspect possible highly hazardous housing conditions. These include broken HVAC, broken windows and doors, and roof collapses without repair attempts. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 58 calendar days (red).
-      description: As of May 2014, the Office of Code compliance has seen a 45% increase in the number of highly hazardous inspections completed within the time goals. This improvement has come with a reduction in the inspection backlog as seen in dropping active service request volumes.
+      description: As of May 2014, the Office of Code compliance has seen a 45% increase in the number of highly hazardous inspections completed within the time goals. This improvement has come as overdue requests are closed, as seen in dropping active service request volumes.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point
       size: half
       department: CODE
@@ -54,7 +54,7 @@
   group-description:
   charts:
     - title: Total Code Compliance Complaints and Backlog of Uninspected Complaints
-      summary: The Atlanta Office of Code Enforcement receives possible housing code violation notifications from the public through the City’s 3-1-1 line. The volume of complaints (red bar chart) changes on a seasonal pattern with low points in the colder months and high volume in the summer months.  The number of current cases being investigated outside of time frame goals (blue bar chart is also shown for each month here.
+      summary: The Atlanta Office of Code Enforcement receives possible housing code violation notifications from the public through the City’s 311 line. The volume of complaints (red) changes on a seasonal pattern with low points in the colder months and high volume in the summer months.  The number of current cases being investigated outside of time frame goals (blue bar chart is also shown for each month here.
       description: As of May 2014, the Office of Code compliance has reduced its backlog of inspections to below 350. This is down from a high of over 1000 open and out of date cases in August 2013.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point
       size: full

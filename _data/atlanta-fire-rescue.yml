@@ -1,4 +1,4 @@
-- group-title: Section I - Fire Performance
+- group-title: Section I - Fire Responsiveness
   group-description:
   charts:
     - title: Total Fire Events and Response Effectiveness
@@ -19,7 +19,7 @@
       series2-label: Responses Meeting SORC Criteria
 
     - title: Average Turnout Time Performance
-      summary: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to a fire incident
+      summary: Average time between dispatch and unit leaving the fire station once dispatched to a fire incident
       description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       note:
       size: full
@@ -52,7 +52,7 @@
       series2-label: Responses Meeting SORC Criteria
 
     - title: Average Turnout Time Performance
-      summary: Average time it took a dispatched Fire Rescue unit to leave the station once dispatched to an EMS incident
+      summary: Average time between dispatch and unit leaving the station once dispatched to an EMS incident
       description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       note:
       size: full
