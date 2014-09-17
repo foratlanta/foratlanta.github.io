@@ -2,9 +2,9 @@
   group-description:
   charts:
     - title: Total <B>Criminal</B> Cases Filed and Case Disposal Efficiency
-      summary: Total Number of Criminal cases filed in the Court (blue, left) and the percentage of cases disposed of within 10 days (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note: 
+      summary: Total Number of Criminal cases filed in the Court (blue, left axis) and the percentage of cases disposed of within 10 days (red, right axis)
+      description: To be added
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: COURT
       datasource: criminal_cases
@@ -22,9 +22,9 @@
   group-description:
   charts:
     - title: Total <B> Traffic</B> Cases Filed and Case Disposal Efficiency
-      summary: Total Number of Traffic cases filed in the Court (blue, left) and the percentage of cases disposed of within 10 days (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note: 
+      summary: Total Number of Traffic cases filed in the Court (blue, left axis) and the percentage of cases disposed of within 10 days (red, right axis)
+      description: To be added
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: COURT
       datasource: traffic_cases

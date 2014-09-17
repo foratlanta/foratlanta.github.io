@@ -2,9 +2,9 @@
   group-description:
   charts:
     - title: Total Fire Events and Response Effectiveness
-      summary: Total number of fire events responded to by the Fire Rescue department (left) and the percent of fire responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident (right). 
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note:
+      summary: Total number of fire events responded to by the Fire Rescue Department (left axis) and the percent of fire responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incident and number of resources responding to an incident (right axis). 
+      description: To be added
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
       datasource: fire_performance
@@ -20,14 +20,14 @@
 
     - title: Average Turnout Time Performance
       summary: Average time between dispatch and unit leaving the fire station once dispatched to a fire incident
-      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note:
+      description: To be added
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
       datasource: fire_turnout
       series-grouping: false
       series1-metric: Result
-      series1-type: spline
+      series1-type: line
       series1-format: number
       series1-label: Seconds
 
@@ -35,9 +35,9 @@
   group-description:
   charts:
     - title: Total EMS Events and Response Effectiveness
-      summary: Total number of EMS events responded to by the Fire Rescue department (left) and the percent of EMS responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident (right).
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note:
+      summary: Total number of EMS events responded to by the Fire Rescue Department (left axis) and the percent of EMS responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident (right axis).
+      description: To be added
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
       datasource: ems_performance
@@ -53,13 +53,13 @@
 
     - title: Average Turnout Time Performance
       summary: Average time between dispatch and unit leaving the station once dispatched to an EMS incident
-      description: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      note:
+      description: To be added
+      note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
       datasource: ems_turnout
       series-grouping: false
       series1-metric: Result
-      series1-type: spline
+      series1-type: line
       series1-format: number
       series1-label: Seconds
