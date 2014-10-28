@@ -5,12 +5,12 @@
       summary: Total number of fire events responded to by the Fire Rescue Department (left axis) and the percent of fire responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incident and number of resources responding to an incident (right axis). 
       description: To be added
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      size: full
+      size: half
       department: AFR
       datasource: fire_calls_for_service
       series-grouping: false
       series1-metric: Result
-      series1-type: line
+      series1-type: column
       series1-format: number
       series1-label: Total Fire Calls For Service
 
@@ -18,7 +18,7 @@
       summary: Average time between dispatch and unit leaving the fire station once dispatched to a fire incident
       description: To be added
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      size: full
+      size: half
       department: AFR
       datasource: fire_response
       series-grouping: true
