@@ -1,28 +1,14 @@
 Department,Chart,Metric,Date,Volume,Result
-AFR,ems_performance,EMS Events and Performance,5/10/2013,3919,0.49
-AFR,ems_performance,EMS Events and Performance,6/10/2013,4253,0.49
-AFR,ems_performance,EMS Events and Performance,7/10/2013,3714,0.49
-AFR,ems_performance,EMS Events and Performance,8/10/2013,3889,0.5
-AFR,ems_performance,EMS Events and Performance,9/10/2013,3763,0.51
-AFR,ems_performance,EMS Events and Performance,10/10/2013,3878,0.51
-AFR,ems_performance,EMS Events and Performance,11/10/2013,3771,0.52
-AFR,fire_performance,Fire Events and Performance,7/10/2012,185,0.86
-AFR,fire_performance,Fire Events and Performance,8/10/2012,128,0.8
-AFR,fire_performance,Fire Events and Performance,9/10/2012,144,0.81
-AFR,fire_performance,Fire Events and Performance,10/10/2012,164,0.82
-AFR,fire_performance,Fire Events and Performance,11/10/2012,177,0.89
-AFR,fire_performance,Fire Events and Performance,12/10/2012,134,0.79
-AFR,fire_performance,Fire Events and Performance,1/10/2013,131,0.9
-AFR,fire_performance,Fire Events and Performance,2/10/2013,194,0.7
-AFR,fire_performance,Fire Events and Performance,3/10/2013,178,0.8
-AFR,fire_performance,Fire Events and Performance,4/10/2013,128,0.96
-AFR,fire_performance,Fire Events and Performance,5/10/2013,150,0.68
-AFR,fire_performance,Fire Events and Performance,6/10/2013,115,1
-AFR,fire_performance,Fire Events and Performance,7/10/2013,110,0.73
-AFR,fire_performance,Fire Events and Performance,8/10/2013,131,0.78
-AFR,fire_performance,Fire Events and Performance,9/10/2013,137,0.84
-AFR,fire_performance,Fire Events and Performance,10/10/2013,135,0.7
-AFR,fire_performance,Fire Events and Performance,11/10/2013,132,0.73
+AFR,fire_calls_for_service,Number of Fire Calls for Service,6/10/2014,,759
+AFR,fire_calls_for_service,Number of Fire Calls for Service,7/10/2014,,819
+AFR,fire_calls_for_service,Number of Fire Calls for Service,8/10/2014,,896
+AFR,fire_calls_for_service,Number of Fire Calls for Service,9/10/2014,,891
+AFR,fire_response,90th Percentile First Due Fire Response Time,7/10/2014,,450
+AFR,fire_response,90th Percentile First Due Fire Response Time,8/10/2014,,435
+AFR,fire_response,90th Percentile First Due Fire Response Time,9/10/2014,,448
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,7/10/2014,,128
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,8/10/2014,,110
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,9/10/2014,,120
 APD,e911_call_center,Total Dispatch Calls and Performance,7/10/2011,34940,0.92
 APD,e911_call_center,Total Dispatch Calls and Performance,8/10/2011,33611,0.93
 APD,e911_call_center,Total Dispatch Calls and Performance,9/10/2011,31108,0.92
@@ -76,16 +62,6 @@ COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,12/10/2013,11557,
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,1/10/2014,11985,0.09
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,2/10/2014,11800,0.09
 COURT,traffic_cases,Traffic Cases Filed and Adjudication Speed,3/10/2014,10896,0.08
-AFR,ems_turnout,Average Turnout Time for EMS Events,4/10/2013,,91
-AFR,ems_turnout,Average Turnout Time for EMS Events,5/10/2013,,75
-AFR,ems_turnout,Average Turnout Time for EMS Events,6/10/2013,,76
-AFR,ems_turnout,Average Turnout Time for EMS Events,7/10/2013,,78
-AFR,ems_turnout,Average Turnout Time for EMS Events,8/10/2013,,70
-AFR,fire_turnout,Average Turnout Time for Fire Events,4/10/2013,,66
-AFR,fire_turnout,Average Turnout Time for Fire Events,5/10/2013,,94
-AFR,fire_turnout,Average Turnout Time for Fire Events,6/10/2013,,58
-AFR,fire_turnout,Average Turnout Time for Fire Events,7/10/2013,,70
-AFR,fire_turnout,Average Turnout Time for Fire Events,8/10/2013,,100
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,6/10/2013,,-0.14
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,7/10/2013,,-0.14
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 1,8/10/2013,,-0.17
