@@ -71,22 +71,22 @@
 - group-title: Section II - Park Maintenance
   group-description:
   charts:
-    - title: Park Maintenance Activities Completed on Schedule
+    - title: Scheduled Maintenance Completed on Schedule [Coming Soon]
       summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. <B> The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.</B>
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: park_maintenance
-      series-grouping: true
+      series-grouping: false
       series1-metric: Result
       series1-type: line
       series1-format: percentage
-      series1-label: % Completed on Schedule
+      series1-label: Completed on Schedule
 
 - group-title: Section III - Recreation Center Attendance and Programming
   group-description:
   charts:
-    - title: Recreation Center Attendance
+    - title: Recreation Center Attendance [Coming Soon]
       summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. <B> The charts below shows total recreation center visits and active recreation center memberships.</B>
       description:
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
