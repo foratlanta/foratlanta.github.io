@@ -77,7 +77,7 @@
       size: full
       department: DPR
       datasource: park_maintenance
-      series-grouping: false
+      series-grouping: true
       series1-metric: Result
       series1-type: line
       series1-format: percentage
@@ -86,7 +86,7 @@
 - group-title: Section III - Recreation Center Attendance and Programming
   group-description:
   charts:
-    - title: Recreation Center Attendance [Coming Soon]
+    - title: Recreation Center Attendance
       summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. <B> The charts below shows total recreation center visits and active recreation center memberships.</B>
       description:
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
