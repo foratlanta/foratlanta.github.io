@@ -1183,3 +1183,12 @@ DPW,solid_waste_customer_service,% of Service Requests Completed Within Target T
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests OOT,5/10/2013,803,0.905828144
 DPW,solid_waste_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests SWS,4/10/2013,1986,0.481888218
 DPW,transportation_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests OOT,4/10/2013,908,0.763248899
+AFR,ems_calls_for_service,Number of EMS Calls for Service,6/10/2014,,4175
+AFR,ems_calls_for_service,Number of EMS Calls for Service,7/10/2014,,4503
+AFR,ems_calls_for_service,Number of EMS Calls for Service,8/10/2014,,5526
+AFR,ems_calls_for_service,Number of EMS Calls for Service,9/10/2014,,5628
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,7/10/2014,,128
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,8/10/2014,,116
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,9/10/2014,,129
+AFR,ems_response,90th Percentile First Due EMS Response Time,8/10/2014,,487
+AFR,ems_response,90th Percentile First Due EMS Response Time,9/10/2014,,478

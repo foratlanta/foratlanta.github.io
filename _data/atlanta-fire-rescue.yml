@@ -1,4 +1,4 @@
-- group-title: Section I - Fire Responsiveness
+- group-title: Section I - Fire
   group-description:
   charts:
     - title: Total Fire Calls For Service
@@ -10,7 +10,7 @@
       datasource: fire_calls_for_service
       series-grouping: false
       series1-metric: Result
-      series1-type: line
+      series1-type: column
       series1-format: number
       series1-label: Total Fire Calls For Service
 
@@ -27,34 +27,30 @@
       series1-format: number
       series1-label: Seconds
 
-- group-title: Section II - EMS Performance
+- group-title: Section II - EMS
   group-description:
   charts:
-    - title: Total EMS Events and Response Effectiveness
+    - title: Total EMS Calls For Service
       summary: Total number of EMS events responded to by the Fire Rescue Department (left axis) and the percent of EMS responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident (right axis).
       description: To be added
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
-      datasource: ems_performance
+      datasource: ems_calls_for_service
       series-grouping: false
-      series1-metric: Volume
+      series1-metric: Result
       series1-type: column
       series1-format: number
-      series1-label: Total EMS Events
-      series2-metric: Result
-      series2-type: line
-      series2-format: percentage
-      series2-label: Responses Meeting SORC Criteria
+      series1-label: Total EMS Calls For Service
 
-    - title: Average Turnout Time Performance
+    - title: EMS Response Performance
       summary: Average time between dispatch and unit leaving the station once dispatched to an EMS incident
       description: To be added
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
-      datasource: ems_turnout
-      series-grouping: false
+      datasource: ems_response
+      series-grouping: true
       series1-metric: Result
       series1-type: line
       series1-format: number
