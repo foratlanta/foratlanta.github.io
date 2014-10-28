@@ -1107,89 +1107,62 @@ AFR,ems_response,90th Percentile Turnout Time of EMS Response,9/10/2014,,129
 AFR,ems_response,90th Percentile First Due EMS Response Time,8/10/2014,,487
 AFR,ems_response,90th Percentile First Due EMS Response Time,9/10/2014,,478
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,1/10/2014,,729
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,2/10/2014,,733
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,3/10/2014,,713
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,4/10/2014,,716
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,5/10/2014,,671
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,6/10/2014,,1678
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,7/10/2014,,1388
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,8/10/2014,,721
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,9/10/2014,,785
 DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,1/10/2014,,1450
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,2/10/2014,,1521
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,3/10/2014,,1603
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,4/10/2014,,1687
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,5/10/2014,,1697
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,6/10/2014,,3011
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,7/10/2014,,3200
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,8/10/2014,,1126
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,9/10/2014,,1268
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,1/10/2014,1685,0.280225519
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,1/10/2014,237,0.67
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,1/10/2014,357,0.45
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,1/10/2014,316,0.3924
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,2/10/2014,,733
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,2/10/2014,,1521
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,1155,0.500774534
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/10/2014,138,0.93
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/10/2014,353,0.447293447
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/10/2014,379,0.496
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,3/10/2014,,713
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,3/10/2014,,1603
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,1252,0.469680511
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/10/2014,174,0.95
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/10/2014,282,0.37
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/10/2014,471,0.4589
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,4/10/2014,,716
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,4/10/2014,,1687
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,1400,0.541374
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,4/10/2014,235,0.9659
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,4/10/2014,233,0.4291
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,4/10/2014,580,0.5672
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,5/10/2014,,671
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,5/10/2014,,1697
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,1048,0.574427481
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,5/10/2014,136,0.93
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,5/10/2014,286,0.64
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,5/10/2014,607,0.5107
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,6/10/2014,,1678
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,6/10/2014,,3011
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,7/10/2014,,1388
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,7/10/2014,,3200
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,1415,0.51
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,7/10/2014,374,0.957219251
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,7/10/2014,323,0.59
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,7/10/2014,718,0.250696379
+DPR,rec_center_attendance,Total Active Recreation Center Memberships,7/10/2014,,5372
+DPR,rec_center_attendance,Total Recreation Center Visits,7/10/2014,,49979
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,8/10/2014,,721
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,8/10/2014,,1126
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,1197,0.761629089
+DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,8/10/2014,504,0.950396825
+DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,8/10/2014,498,0.670020121
+DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,8/10/2014,195,0.507692308
+DPR,rec_center_attendance,Total Active Recreation Center Memberships,8/10/2014,,3235
+DPR,rec_center_attendance,Total Recreation Center Visits,8/10/2014,,54350
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,9/10/2014,,785
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,9/10/2014,,1268
 DPR,dpr_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,1214,0.74247117
 DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,9/10/2014,,0.94
 DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,9/10/2014,,0.99
 DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,9/10/2014,,1
 DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,9/10/2014,,0.82
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,1/10/2014,237,0.67
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,1/31/2014,239,0.43
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/10/2014,138,0.93
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/16/2014,144,0.49
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/23/2014,171,0.5556
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/28/2014,237,0.666666667
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/9/2014,151,0.549668874
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/10/2014,174,0.95
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/16/2014,111,0.936936937
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/23/2014,149,0.95
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/31/2014,174,0.95
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,4/6/2014,103,0.98
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,4/10/2014,235,0.9659
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,5/10/2014,136,0.93
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,7/10/2014,374,0.957219251
-DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,8/10/2014,504,0.950396825
 DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,9/10/2014,404,0.84
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,1/10/2014,357,0.45
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,1/31/2014,356,0.31
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/10/2014,353,0.447293447
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/16/2014,314,0.4
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/23/2014,333,0.4229
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,2/28/2014,358,0.446
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/9/2014,244,0.295081967
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/10/2014,282,0.37
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/16/2014,253,0.31
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/23/2014,357,0.45
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,3/31/2014,282,0.37
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,4/6/2014,186,0.32
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,4/10/2014,233,0.4291
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,5/10/2014,286,0.64
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,7/10/2014,323,0.59
-DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,8/10/2014,498,0.670020121
 DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Forestry Service Requests,9/10/2014,545,0.72
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,1/10/2014,316,0.3924
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,1/31/2014,1109,0.27
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/10/2014,379,0.496
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/16/2014,1042,0.15
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/23/2014,1138,0.18
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,2/28/2014,1070,0.14953271
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/9/2014,1060,0.130188679
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/10/2014,471,0.4589
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/16/2014,574,0.371080139
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/23/2014,698,0.41
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,3/31/2014,796,0.4
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,4/6/2014,615,0.39
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,4/10/2014,580,0.5672
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,5/10/2014,607,0.5107
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,7/10/2014,718,0.250696379
-DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,8/10/2014,195,0.507692308
 DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,9/10/2014,265,0.64
-DPR,rec_center_attendance,Total Active Recreation Center Memberships,7/10/2014,,5372
-DPR,rec_center_attendance,Total Active Recreation Center Memberships,8/10/2014,,3235
 DPR,rec_center_attendance,Total Active Recreation Center Memberships,9/10/2014,,3446
-DPR,rec_center_attendance,Total Recreation Center Visits,7/10/2014,,49979
-DPR,rec_center_attendance,Total Recreation Center Visits,8/10/2014,,54350
 DPR,rec_center_attendance,Total Recreation Center Visits,9/10/2014,,36495
