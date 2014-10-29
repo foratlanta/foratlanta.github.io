@@ -159,7 +159,7 @@
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
-      datasource: transportation_customer_markings
+      datasource: transportation_markings
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -175,7 +175,7 @@
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
-      datasource: transportation_customer_signals
+      datasource: transportation_signals
       series-grouping: false
       series1-metric: Volume
       series1-type: column
