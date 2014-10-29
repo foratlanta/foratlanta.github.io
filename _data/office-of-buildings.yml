@@ -74,6 +74,6 @@
       datasource: building_permits_detail
       series-grouping: true
       series1-metric: Result
-      series1-type: area
+      series1-type: line
       series1-format: percentage
       series1-label: Percent of Total
