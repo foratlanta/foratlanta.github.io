@@ -1073,78 +1073,122 @@ DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – P
 DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,7/10/2014,6587,0.990587521
 DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,8/10/2014,6871,0.990248872
 DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,9/10/2014,7059,0.986966992
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2013,749,0.079
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2013,1546,0.206
-CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2013,2452,0.199839723
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,4/10/2013,,498
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2013,721,0.062
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2013,1357,0.175
-CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2013,2237,0.173659812
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,5/10/2013,,765
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,5/10/2013,477,0.15
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,5/10/2013,1059,0.224
-CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2013,1618,0.228520396
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,6/10/2013,,686
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,6/10/2013,625,0.12
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,6/10/2013,1524,0.34
-CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2013,2263,0.309138312
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,7/10/2013,,742
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,7/10/2013,873,0.25
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,7/10/2013,2151,0.476
-CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2013,3146,0.433256834
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,8/10/2013,,1072
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2013,,724
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,8/10/2013,718,0.308
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,8/10/2013,2102,0.711
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,9/10/2013,,1098
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,9/10/2013,,667
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,9/10/2013,645,0.28
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,9/10/2013,2020,0.65
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,10/10/2013,,908
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,10/10/2013,,583
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,10/10/2013,502,0.31
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,10/10/2013,1768,0.64
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,11/10/2013,,877
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,11/10/2013,,435
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,11/10/2013,460,0.25
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,11/10/2013,1579,0.57
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,12/10/2013,,707
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,12/10/2013,,293
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/10/2013,356,0.24
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/10/2013,1287,0.55
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,1/10/2014,,554
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,1/10/2014,,259
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,1/10/2014,362,0.46
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,1/10/2014,1138,0.63
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,2/10/2014,,400
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,2/10/2014,,621
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/10/2014,303,0.54
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/10/2014,1140,0.73
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,3/10/2014,,408
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,3/10/2014,,674
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2014,288,0.53
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2014,855,0.75
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,4/10/2014,,321
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,4/10/2014,,684
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2014,390,0.6
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2014,1274,0.83
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,5/10/2014,,320
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,5/10/2014,,1023
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,5/10/2014,374,0.51
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,5/10/2014,1637,0.87
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,6/10/2014,,380
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,6/10/2014,,834
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,6/10/2014,403,0.45
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,6/10/2014,1847,0.86
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,7/10/2014,,472
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,7/10/2014,,892
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,7/10/2014,450,0.52
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,7/10/2014,2068,0.87
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,8/10/2014,,465
-CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2014,,754
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,8/10/2014,369,0.47
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,8/10/2014,1839,0.83
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,9/10/2014,,474
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2013,,724
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,9/10/2013,,667
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,10/10/2013,,583
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,11/10/2013,,435
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,12/10/2013,,293
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,1/10/2014,,259
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,2/10/2014,,621
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,3/10/2014,,674
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,4/10/2014,,684
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,5/10/2014,,1023
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,6/10/2014,,834
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,7/10/2014,,892
+CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2014,,754
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,9/10/2014,,661
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,9/10/2014,322,0.419
-CODE,code_customer_service,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,9/10/2014,1683,0.806
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2013,2452,0.199839723
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2013,2237,0.173659812
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2013,1618,0.228520396
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2013,2263,0.309138312
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2013,3146,0.433256834
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2013,3063,0.639192295
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2013,2844,0.587819972
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2013,2419,0.592492766
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,11/10/2013,2127,0.518133521
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,12/10/2013,1738,0.508659379
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,1/10/2014,1681,0.632730518
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,395,0.641974684
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,1335,0.730576779
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,1664,0.781282297
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,2011,0.83
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,2250,0.79
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,2518,0.78
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,2208,0.77
+CODE,code_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,2191,0.77
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/10/2013,,0.086
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2013,749,0.079
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2013,721,0.062
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,5/10/2013,477,0.15
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,6/10/2013,625,0.12
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,7/10/2013,873,0.25
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,8/10/2013,718,0.308
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,9/10/2013,645,0.28
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,10/10/2013,502,0.31
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,11/10/2013,460,0.25
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/4/2013,357,0.27
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/10/2013,356,0.24
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/11/2013,373,0.27
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/18/2013,391,0.29
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,12/25/2013,406,0.29
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,1/10/2014,362,0.46
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,1/31/2014,391,0.44
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/9/2014,324,0.43
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/10/2014,303,0.54
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/16/2014,319,0.5
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/23/2014,376,0.58
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,2/28/2014,368,0.58
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/9/2014,332,0.63
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/10/2014,288,0.53
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/16/2014,389,0.61
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/23/2014,450,0.62
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,3/31/2014,,0.55
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/6/2014,346,0.55
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/10/2014,390,0.6
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/13/2014,346,0.54
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,4/20/2014,346,0.56
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,5/10/2014,374,0.51
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,6/10/2014,403,0.45
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,7/10/2014,450,0.52
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,8/10/2014,369,0.47
+CODE,code_hh,% of Inspections Completed Within Target Timeframe –  Highly Hazardous Complaints,9/10/2014,322,0.419
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/10/2013,,0.164
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2013,1546,0.206
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2013,1357,0.175
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,5/10/2013,1059,0.224
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,6/10/2013,1524,0.34
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,7/10/2013,2151,0.476
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,8/10/2013,2102,0.711
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,9/10/2013,2020,0.65
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,10/10/2013,1768,0.64
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,11/10/2013,1579,0.57
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/4/2013,1362,0.6
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/10/2013,1287,0.55
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/11/2013,1442,0.6
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/18/2013,1451,0.59
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,12/25/2013,1531,0.6
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,1/10/2014,1138,0.63
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,1/31/2014,1302,0.6
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/9/2014,1003,0.62
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/10/2014,1140,0.73
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/16/2014,981,0.69
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/23/2014,1105,0.72
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,2/28/2014,1140,0.75
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/9/2014,1078,0.75
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/10/2014,855,0.75
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/16/2014,1186,0.75
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/23/2014,1310,0.76
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,3/31/2014,,0.75
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/6/2014,1040,0.76
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/10/2014,1274,0.83
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/13/2014,1057,0.76
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,4/20/2014,1072,0.79
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,5/10/2014,1637,0.87
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,6/10/2014,1847,0.86
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,7/10/2014,2068,0.87
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,8/10/2014,1839,0.83
+CODE,code_pm,% of Inspections Completed Within Target Timeframe – Property Maintenance Complaints,9/10/2014,1683,0.806
