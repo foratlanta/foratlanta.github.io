@@ -1051,86 +1051,88 @@ DPR,dpr_forestry,% of Service Requests Completed Within Target Timeframe – Fores
 DPR,dpr_skilled,% of Service Requests Completed Within Target Timeframe – Skilled Service Requests,9/10/2014,265,0.64
 DPR,rec_center_attendance,Total Active Recreation Center Memberships,9/10/2014,,3446
 DPR,rec_center_attendance,Total Recreation Center Visits,9/10/2014,,36495
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,1/10/2014,4970,0.9662
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,1/10/2014,5442,0.963978262
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,1/10/2014,,0.66
-DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,1/10/2014,11,0.026442308
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,1/10/2014,138,0.331730769
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,1/10/2014,3,0.007211538
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,1/10/2014,53,0.127403846
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,1/10/2014,211,0.507211538
-DPCD,building_permits_overall,Building Permits Issued FYTD,1/10/2014,420,3610
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,2/10/2014,4942,0.9352
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,5528,0.93790313
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,2/10/2014,,0.63
-DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,2/10/2014,14,0.032258065
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,2/10/2014,135,0.311059908
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,2/10/2014,0,0
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,2/10/2014,47,0.108294931
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,2/10/2014,238,0.548387097
-DPCD,building_permits_overall,Building Permits Issued FYTD,2/10/2014,435,4045
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,3/10/2014,6790,0.9903
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,7390,0.983099005
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,3/10/2014,4004,0.670829171
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,3/10/2014,1950,0.327510917
-DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,3/10/2014,6,0.011342155
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,3/10/2014,133,0.251417769
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,3/10/2014,10,0.018903592
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,3/10/2014,37,0.069943289
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,3/10/2014,343,0.648393195
-DPCD,building_permits_overall,Building Permits Issued FYTD,3/10/2014,529,4574
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,4/10/2014,6717,0.9894
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,7203,0.983734624
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,4/10/2014,4397,0.66636343
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,4/10/2014,2151,0.328497251
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,1/10/2014,0,0.5993
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,2/10/2014,0,0.5881
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,3/10/2014,0,0.568
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,4/10/2014,0,0.5343
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,5/10/2014,0,0.5828
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,6/10/2014,0,0.459
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,7/10/2014,0,0.5446
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,8/10/2014,0,0.4219
+DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,9/10/2014,0,0.5449
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,1/10/2014,,0.66
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,2/10/2014,,0.63
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,3/10/2014,4004,0.670829171
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,4/10/2014,4397,0.66636343
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,5/10/2014,4366,0.655519927
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,6/10/2014,4645,0.636167922
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,7/10/2014,4937,0.649584768
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,8/10/2014,4609,0.645259275
+DPCD,oob_plan_review,% of Plan Reviews Approved upon First Review,9/10/2014,,0.68
+DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,1/10/2014,11,0.026442308
+DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,2/10/2014,14,0.032258065
+DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,3/10/2014,6,0.011342155
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,4/10/2014,11,0.019031142
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,4/10/2014,191,0.330449827
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,4/10/2014,12,0.020761246
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,4/10/2014,24,0.041522491
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,4/10/2014,340,0.588235294
-DPCD,building_permits_overall,Building Permits Issued FYTD,4/10/2014,578,5152
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,5/10/2014,6597,0.9927
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,5/10/2014,4366,0.655519927
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,5/10/2014,2203,0.335363069
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,5/10/2014,2,0.003384095
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,5/10/2014,174,0.294416244
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,5/10/2014,6,0.010152284
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,5/10/2014,73,0.123519459
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,5/10/2014,336,0.568527919
-DPCD,building_permits_overall,Building Permits Issued FYTD,5/10/2014,591,5743
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,6/10/2014,6673,0.9921
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,6/10/2014,4645,0.636167922
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,6/10/2014,2463,0.346510974
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,6/10/2014,5,0.008992806
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,6/10/2014,181,0.325539568
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,6/10/2014,7,0.012589928
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,6/10/2014,61,0.10971223
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,6/10/2014,302,0.543165468
-DPCD,building_permits_overall,Building Permits Issued FYTD,6/10/2014,556,6299
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,7/10/2014,6587,0.990587521
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,7/10/2014,4937,0.649584768
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,7/10/2014,2615,0.34626589
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,7/10/2014,2,0.004
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,7/10/2014,175,0.308
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,7/10/2014,16,0.028
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,7/10/2014,47,0.083
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,7/10/2014,329,0.578
-DPCD,building_permits_overall,Building Permits Issued FYTD,7/10/2014,569,569
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,8/10/2014,6871,0.990248872
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,8/10/2014,4609,0.645259275
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,8/10/2014,2499,0.351575689
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,8/10/2014,2,0.003629764
-DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,8/10/2014,196,0.355716878
-DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,8/10/2014,6,0.010889292
-DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,8/10/2014,42,0.076225045
-DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,8/10/2014,305,0.55353902
-DPCD,building_permits_overall,Building Permits Issued FYTD,8/10/2014,551,1120
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – Permit Inspections,9/10/2014,7059,0.986966992
-DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,9/10/2014,,0.68
-DPCD,oob_plan_review,Average # Of Times Plans Returned To Applicant For Revisions,9/10/2014,,0.33
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,9/10/2014,5,0.008156607
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,1/10/2014,138,0.331730769
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,2/10/2014,135,0.311059908
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,3/10/2014,133,0.251417769
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,4/10/2014,191,0.330449827
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,5/10/2014,174,0.294416244
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,6/10/2014,181,0.325539568
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,7/10/2014,175,0.308
+DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,8/10/2014,196,0.355716878
 DPCD,building_permits_detail,Commercial Building Permits Issued As % Total Permits Issued,9/10/2014,202,0.329526917
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,1/10/2014,3,0.007211538
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,2/10/2014,0,0
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,3/10/2014,10,0.018903592
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,4/10/2014,12,0.020761246
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,5/10/2014,6,0.010152284
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,6/10/2014,7,0.012589928
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,7/10/2014,16,0.028
+DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,8/10/2014,6,0.010889292
 DPCD,building_permits_detail,Land Development Permits Issued As % Total Permits Issued,9/10/2014,8,0.013050571
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,1/10/2014,53,0.127403846
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,2/10/2014,47,0.108294931
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,3/10/2014,37,0.069943289
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,4/10/2014,24,0.041522491
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,5/10/2014,73,0.123519459
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,6/10/2014,61,0.10971223
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,7/10/2014,47,0.083
+DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,8/10/2014,42,0.076225045
 DPCD,building_permits_detail,Multifamily Building Permits Issued As % Total Permits Issued,9/10/2014,84,0.137030995
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,1/10/2014,211,0.507211538
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,2/10/2014,238,0.548387097
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,3/10/2014,343,0.648393195
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,4/10/2014,340,0.588235294
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,5/10/2014,336,0.568527919
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,6/10/2014,302,0.543165468
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,7/10/2014,329,0.578
+DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,8/10/2014,305,0.55353902
 DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,9/10/2014,314,0.51223491
+DPCD,building_permits_overall,Building Permits Issued FYTD,1/10/2014,420,3610
+DPCD,building_permits_overall,Building Permits Issued FYTD,2/10/2014,435,4045
+DPCD,building_permits_overall,Building Permits Issued FYTD,3/10/2014,529,4574
+DPCD,building_permits_overall,Building Permits Issued FYTD,4/10/2014,578,5152
+DPCD,building_permits_overall,Building Permits Issued FYTD,5/10/2014,591,5743
+DPCD,building_permits_overall,Building Permits Issued FYTD,6/10/2014,556,6299
+DPCD,building_permits_overall,Building Permits Issued FYTD,7/10/2014,569,569
+DPCD,building_permits_overall,Building Permits Issued FYTD,8/10/2014,551,1120
 DPCD,building_permits_overall,Building Permits Issued FYTD,9/10/2014,613,1733
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,1/10/2014,4970,0.9662
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,2/10/2014,4942,0.9352
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,3/10/2014,6790,0.9903
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,4/10/2014,6717,0.9894
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,5/10/2014,6597,0.9927
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,6/10/2014,6673,0.9921
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,7/10/2014,6587,0.990587521
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,8/10/2014,6871,0.990248872
+DPCD,oob_permit_insp,% of Service Requests Completed Within Target Timeframe – Permit Inspections,9/10/2014,7059,0.986966992
