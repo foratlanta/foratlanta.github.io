@@ -11,7 +11,7 @@
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Total Passenger Volume
+      series1-label: Total Passenger Volume Year-To-Date
       series2-metric: Result
       series2-type: line
       series2-format: percentage
@@ -27,7 +27,7 @@
       series1-metric: Volume
       series1-type: column
       series1-format: number
-      series1-label: Total Cargo Volume
+      series1-label: Total Cargo Volume Year-To-Date
       series2-metric: Result
       series2-type: line
       series2-format: percentage
