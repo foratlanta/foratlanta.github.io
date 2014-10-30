@@ -2,8 +2,9 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). <B> The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B>
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)description: 
+      description: The number of Service Requests the Department receives tends to fluctuate seasonsally betweem 1,000-2,000 per month.  Performance on completing these requests within target timeframes has shown a distinct upward trend since the start of 2014.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
       datasource: dpr_customer_service
@@ -18,8 +19,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Arborist Service Requests
-      summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborist for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous; and require maintenance such as pruning or removal. <B> The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B>
-      description: Given an average of 150 requests for tree inspections per month, the team is consistently above target of 90%.
+      summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborist for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous; and require maintenance such as pruning or removal. The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
+      description: Arborist Service Requests vary greatly by season, but the team is usually near or above target of 90% regardless of volume.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
@@ -35,8 +36,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Forestry Service Requests
-      summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right of way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. <B> The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department\'s target timeframes (red, right).</B
-      description: Taking on an average of 200 requests per month, the largest drivers of performance are tree takedowns and pruning. The increased workload of downed trees from several back to back storms has the team well below target of 90%, but trending upwards in 2014.
+      summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right of way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
+      description: The largest drivers of performance are tree takedowns and pruning. The increased workload of downed trees from several back to back storms has started the team well below target of 90% in 2014, but performance has trende dupwards as the team has worked through the backlog.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
@@ -52,8 +53,8 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Skilled Services Service Requests
-      summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. <B> The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).</B>
-      description: Taking on an average of 800 requests per month; the skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. The performance has been well below target but the department is working collaboratively with FOR Atlanta to work towards a solution.
+      summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
+      description: The skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. Performance has been below target but is trending upwards and the Department continues to adress staffing and other operational issues.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -72,8 +73,9 @@
   group-description:
   charts:
     - title: Scheduled Maintenance Completed on Schedule
-      summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. <B> The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.</B>
+      summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.description
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: The Department has only recently started working with the FOR Atlanta team to track park maintenance as a separate category. FOR Atlanta and the Department will monitor performance over time.
       size: full
       department: DPR
       datasource: park_maintenance
@@ -87,8 +89,8 @@
   group-description:
   charts:
     - title: Recreation Center Attendance
-      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. <B> The charts below shows total recreation center visits and active recreation center memberships.</B>
-      description:
+      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships.
+      description: Since the Department started reliably tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 36,000-55,000.  This numbers fluctuates significantly based on seasonality, with higher numbers coming in summer months.  Active memberships, also seasonal, has ranged from 3,200-5,300.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -100,8 +102,8 @@
       series1-label: Total people
 
     - title: Youth Attendance and Programming
-      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. <B> The chart below shows the total youth being served by After School and Camp Best Friends (blue) and Recreation Center (red) Programming.</B>
-      description: With new investments in facilities and programming, youth attendance in 2014 is more than double prior year.
+      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and Recreation Center (red) Programming.
+      description: With new investments in facilities and programming, lead by the Mayor's Centers of Hope initiative, youth attendance peaked at 3,00 per month in the summer of 2014.  This is a significant increase over prior years.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR

@@ -3,7 +3,8 @@
   charts:
     - title: Year-To-Date Passenger Volume
       summary: Total year-to-date passenger volume (blue, left) and the year-over-year percentage change in passenger volume (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: Passenger volume is on track to deliver another year-over-year increase in 2014, and Hartsfield-Jackson is expected to maintain its title as the world's busiest airport for passengers.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOA
       datasource: passenger_volume
@@ -19,7 +20,8 @@
 
     - title: Year-To-Date Cargo Volume
       summary: Total year-to-date cargo volume  (blue, left) and the year-over-year percentage change in cargo volume (red, right)
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: Increasing the airport's cargo volume is a key economic development priority of Mayor Reed and Miguel Southwell, HJAIA's General Manager. Current volume is flat vs 2013, though velocity has picked up significantly as the year has progressed.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOA
       datasource: cargo_volume
@@ -38,7 +40,8 @@
   charts:
     - title: Security Wait Time Performance
       summary: Percentage of time that the wait to get through security is under the Airport's target time
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: Performance is almost always at or near the airport's target of 90%
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DOA
       datasource: security_wait_times
@@ -50,7 +53,8 @@
 
     - title: Average Customs Processing Times
       summary: The average time it takes for an inbound passenger to get processed through customs
-      description: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      description: Average processing time has fluctuated from 9 minutes to 13 minutes in 2014.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DOA
       datasource: customs_processing_time

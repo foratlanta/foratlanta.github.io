@@ -2,8 +2,8 @@
   group-description:
   charts:
     - title: Total Fire Calls For Service
-      summary: Total number of fire events responded to by the Fire Rescue Department (left axis) and the percent of fire responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incident and number of resources responding to an incident (right axis). 
-      description: To be added
+      summary: Total number of fire calls for service responded to by the Fire Rescue Department, a measure of the volume of calls that the Department handles each month. 
+      description: Since June of 2014, the Department has had between 750 and 900 fire-related calls for service each month.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
@@ -15,8 +15,8 @@
       series1-label: Total Fire Calls For Service
 
     - title: Fire Response Performance
-      summary: Average time between dispatch and unit leaving the fire station once dispatched to a fire incident
-      description: To be added
+      summary: Of all of the fire calls for service responded to in a given month, the responders were able to leave the station (turnout time) in a certain amount of seconds at least 90% of the time.  Similarly, the first due responders arrived at the call in a certain amount of seconds at least 90% of the time.
+      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 110 seconds to 128 seconds.  First due response times have ranged from 435 seconds to 450 seconds.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
@@ -31,8 +31,8 @@
   group-description:
   charts:
     - title: Total EMS Calls For Service
-      summary: Total number of EMS events responded to by the Fire Rescue Department (left axis) and the percent of EMS responses that met the Standards of Response Coverage (SORC) criteria, which are a combination of time to respond to an incidents and number of resources responding to an incident (right axis).
-      description: To be added
+      summary: Total number of EMS calls for service responded to by the Fire Rescue Department.
+      description: Since June of 2014, the Department has had between 4100 and 5700 EMS-related calls for service each month.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
@@ -44,8 +44,8 @@
       series1-label: Total EMS Calls For Service
 
     - title: EMS Response Performance
-      summary: Average time between dispatch and unit leaving the station once dispatched to an EMS incident
-      description: To be added
+      summary: Of all of the EMS calls for service responded to in a given month, the responders were able to leave the station (turnout time) in a certain amount of seconds at least 90% of the time.  Similarly, the first due responders arrived at the call in a certain amount of seconds at least 90% of the time.
+      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 116 seconds to 129 seconds.  First due response times have ranged from 478 seconds to 487 seconds.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR

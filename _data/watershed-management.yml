@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of all customer service requests that the Department of Watershed Management (DWM) receives on a monthly basis. [This covers every element of the Department’s operations – from billing queries to leaking hydrant complaints and reports of missing street plates.] It also shows DWM’s performance in fulfilling those requests on time each month.
-      description: The graph shows two key trends over the past year - the volume of customer service requests has increased since January 2014, while DWM’s performance has decreased over the same period. This is partly the result of a recent upgrade to the Department’s IT system. FOR Atlanta expects the red performance line to trend back up to 90% by the end of 2014 onwards.
+      description: The graph shows two key trends over the past year - the volume of customer service requests has increased since January 2014, while DWM’s performance has decreased over the same period. The cause of this performance is manifold, including staffing challenges and challenges arising from a recent upgrade to the Department’s IT system.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
@@ -38,7 +38,7 @@
 
     - title: Meter Investigation Service Requests
       summary: This figure measures the number of meter investigations carried out by DWM each month, and the Department’s performance in carrying out those investigations in a timely manner. Customers can request a meter investigation where they believe there is something wrong with their meter that is causing it to give false readings about the amount of water they are consuming. DWM’s target is to complete a meter investigation within 7 business days of the customer making the request.
-      description: This is a new metric that has only been tracked since February 2014. The results to date show that the Department is performing close to its goal of completing 90 percent of all customer service requests within 7 business days. The volume of service requests has fluctuated between 250 and 525 service requests each month. This is a very small fraction of the more-than 150,000 meters that are installed across the city.
+      description: This metric has only been tracked since February 2014. The results to date show a slight downward trend in the percent of all customer service requests within 7 business days. Meter investigations deal with a very small fraction of the more-than 150,000 meters that are installed across the city.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -55,7 +55,7 @@
 
     - title: Street Flooding Inspection Service Requests
       summary: This figure measures DWM’s responsiveness to customer service calls about water pooling in city streets. Because this pooling can be a symptom of several different problems, the first course of action is always for Watershed staff to inspect the site and determine the root cause of the problem. DWM has a goal of responding to all such customer calls and initiating an inspection within 4 hours.
-      description: The Department has steadily improved its performance from January to April 2014. This is in spite of a large increase in investigation requests. FOR Atlanta is working with DWM to ensure that its responsiveness to this type of customer service request improves.
+      description: The Department has steadily improved its performance from January to September 2014. This can be attributed to both operational improvements within the Department as well as a decreasing volume of Service Requests.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -73,7 +73,7 @@
 
     - title: Drinking Water Quality Complaint Service Requests
       summary: This figure reports the number of customer complaints received by DWM about the quality of its drinking water. The Department’s target is to resolve each complaint within 8 hours of it being reported.
-      description: As the graph shows, DWM’s performance has improved since January. It met its 90% target in March and came reasonably close in April (74%). The overall number of complaints received – 147 complaints in April – represents less than 0.1% of all customers.
+      description: As the graph shows, DWM’s performance has improved since January. While performance is bumpy, there is an overall upward trend. The overall number of complaints received – a max of 200 complaints in August – represents less than 0.1% of all customers.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -106,7 +106,7 @@
 
     - title: Billing Complaints per 1000 Accounts
       summary: This figure shows the number of billing complaints the Department receives from customers each month.
-      description: The results show that in April 2014, DWM received less-than two complaints per thousand customers. This is a measure of the accuracy of the new small meter billing system that has been rolled out across the city.
+      description: The results show that in September 2014, DWM received approximately 5 complaints per thousand customers. This is a measure of the accuracy of the new small meter billing system that has been rolled out across the city.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
