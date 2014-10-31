@@ -104,7 +104,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-	  
+
     - title: Asphalt and Street Repair Service Requests
       summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs.
       description: With an average of over 400 requests per month, performance hoevered around 70% through most 2014.  Recently, performance has improved significantly.
@@ -121,7 +121,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-	  
+
     - title: Concrete Repair Service Requests
       summary: The Office of Transportation, often in cooperation with neighborhood associations, will repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
       description: The City receives an average of ~200 requests per month. Performance has fluctuated significantly throughout the year.
@@ -138,7 +138,7 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-	  
+
     - title: Street Sign Repair and Replacement Service Requests
       summary: If a street sign is reported as in need of repair or replacement (e.g. broken, blotted out, removed), a transportation inspector will investigate and order a repair or replacement as needed.
       description: With 400 requests per month, performance trended up through the beginning of 2014 before dropping back down in recent months.
