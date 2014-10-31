@@ -2,7 +2,7 @@
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the Department's target timeframes
   charts:
     - title: All Customer Service Requests (Total Department)
-      summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)description: 
+      summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description: The number of Service Requests the Department receives tends to fluctuate seasonsally betweem 1,000-2,000 per month.  Performance on completing these requests within target timeframes has shown a distinct upward trend since the start of 2014.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
