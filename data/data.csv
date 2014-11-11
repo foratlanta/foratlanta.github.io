@@ -357,9 +357,9 @@ DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timefr
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),7/10/2014,963,0.994
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),8/10/2014,986,1
 DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),9/10/2014,832,0.998
-DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,9/10/2014,,0.99
-DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,9/10/2014,,0.94
-DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,9/10/2014,,0.82
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,8/10/2014,,1
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,6/10/2014,,0.99
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,5/10/2014,,0.97
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,5/10/2013,,0.6677
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,6/10/2013,,0.7106
 DPCD,oob_plan_review,% Plans Approved For Review After First Quality Control Review Inspection,7/10/2013,,0.8023
@@ -1338,3 +1338,31 @@ DOA,customs_processing_time,Average Customs Processing Time,5/10/2014,,10.45
 DOA,customs_processing_time,Average Customs Processing Time,6/10/2014,,8.75
 DOA,customs_processing_time,Average Customs Processing Time,7/10/2014,,8.5
 DOA,customs_processing_time,Average Customs Processing Time,8/10/2014,,9.5
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,4/10/2014,,0.99
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,3/10/2014,,0.98
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,2/10/2014,,0.94
+DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,1/10/2014,,0.86
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,9/10/2014,,0.99
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,8/10/2014,,1
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,6/10/2014,,1
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,5/10/2014,,1
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,4/10/2014,,0.99
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,3/10/2014,,0.98
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,2/10/2014,,0.95
+DPR,park_maintenance,% Park Garbage Cans Collected on Schedule,1/10/2014,,0.88
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,9/10/2014,,0.94
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,8/10/2014,,0.98
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,6/10/2014,,0.98
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,5/10/2014,,0.98
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,4/10/2014,,0.9
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,3/10/2014,,0.67
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,2/10/2014,,0.78
+DPR,park_maintenance,% Park Mulching and Mowing Completed on Schedule,1/10/2014,,0.51
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,9/10/2014,,0.82
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,8/10/2014,,0.94
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,6/10/2014,,0.96
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,5/10/2014,,0.95
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,4/10/2014,,0.89
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,3/10/2014,,0.74
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,2/10/2014,,0.83
+DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,1/10/2014,,0.57
