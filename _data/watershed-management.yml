@@ -120,14 +120,14 @@
 - group-title: Section III - Infrastructure
   group-description:
   charts:
-    - title: Water System Breaks
-      summary: This figure tracks the condition of Atlanta’s the water distribution system by measuring the number of water breaks per 100 miles of pipe over the past twelve months.
+    - title: Water System Breaks and Sewage Spills
+      summary: This figure tracks the condition of Atlanta’s the water distribution system by measuring the number of water breaks per 100 miles of pipe and sewage spills per 100 mils of sewer.  These metrics are good indicators of the health of the City's overall water system infrastructure.
       description: The results show the number of breaks trending down over the period until October 2012. Following a six month period of increasing breaks, the number is again trending down to around 13. This indicates approximately one break for every 10 miles of Atlanta’s distribution system piping each year.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
       datasource: infrastructure
-      series-grouping: true
+      series-grouping: false
       series1-metric: Result
       series1-type: line
       series1-format: number
