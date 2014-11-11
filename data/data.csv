@@ -244,11 +244,11 @@ DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,6364,0.477587366
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,7231,0.564383349
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,7908,0.514820309
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,7681,0.53
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,7883,0.53
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,8243,0.515
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,0,0
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,0,0
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,7681,0.528702252
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,7883,0.528819612
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,8243,0.514939221
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,6471,0.653831711
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,5970,0.663878727
 OEAM,OEAM_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,1281,0.931303669
 OEAM,OEAM_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,1247,0.788291901
 OEAM,OEAM_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,1429,0.898
@@ -1369,32 +1369,24 @@ DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,1/10/2014
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2011,,12
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2011,,7
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2011,,9
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/20/2011,,28
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2011,,7
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2011,,14
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2011,,14
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/20/2011,,35
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2012,,12
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2012,,13
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2012,,15
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/20/2012,,40
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2012,,13
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2012,,10
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2012,,6
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/20/2012,,29
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/30/2012,,132
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2012,,6
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2012,,12
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2012,,10
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/20/2012,,28
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2012,,12
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2012,,11
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2012,,13
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/20/2012,,36
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2013,,7.7
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2013,,7.7
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2013,,7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/20/2013,,7.3
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2013,,6.578982846
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2013,,7.4
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2013,,7.6
@@ -1412,3 +1404,8 @@ DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2014,,7.3
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2014,,7.8
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2014,,8.4
 DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2014,,8.4
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,6908,0.991726708
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,7016,0.987924629
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,6850,0.986548237
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,7179,0.988299206
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,7470,0.98206158
