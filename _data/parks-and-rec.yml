@@ -75,7 +75,7 @@
     - title: Scheduled Maintenance Completed on Schedule
       summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.description
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      description: The Department has only recently started working with the FOR Atlanta team to track park maintenance as a separate category. FOR Atlanta and the Department will monitor performance over time.
+      description: Litter and garbage removal have remained consistently at or above 90%. Mulching, mowing, trimming and blowing hit 90% in the peak summer months but drop towards 50% in the winter as the Department ramps down on seasonal employees to complete these activities.  It should be noted that the volume of these activities is extremely cyclical, with volumes significantly increasing in the spring and summer months.
       size: full
       department: DPR
       datasource: park_maintenance
