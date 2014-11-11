@@ -1328,7 +1328,6 @@ DOA,security_wait_times,% Security Wait Times Under Target,4/10/2014,,0.9
 DOA,security_wait_times,% Security Wait Times Under Target,5/10/2014,,0.86
 DOA,security_wait_times,% Security Wait Times Under Target,6/10/2014,,0.85
 DOA,security_wait_times,% Security Wait Times Under Target,7/10/2014,,0.88
-DOA,security_wait_times,% Security Wait Times Under Target,8/10/2014,,
 DOA,security_wait_times,% Security Wait Times Under Target,9/10/2014,,0.92
 DOA,customs_processing_time,Average Customs Processing Time,1/10/2014,,9.08
 DOA,customs_processing_time,Average Customs Processing Time,2/10/2014,,8.93
