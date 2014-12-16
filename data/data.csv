@@ -445,17 +445,17 @@ DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,6/10/2014,
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,7/10/2014,,0.9989
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2014,,0.9989
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2014,,0.9662
-AFR,ems_response,90th Percentile First Due EMS Response Time,8/10/2014,,487
-AFR,ems_response,90th Percentile First Due EMS Response Time,9/10/2014,,478
 AFR,ems_response,90th Percentile First Due EMS Response Time,6/10/2014,,503
 AFR,ems_response,90th Percentile First Due EMS Response Time,7/10/2014,,488
+AFR,ems_response,90th Percentile First Due EMS Response Time,8/10/2014,,487
+AFR,ems_response,90th Percentile First Due EMS Response Time,9/10/2014,,478
 AFR,ems_response,90th Percentile First Due EMS Response Time,10/10/2014,,505
+AFR,fire_response,90th Percentile First Due Fire Response Time,6/10/2014,,482.7
 AFR,fire_response,90th Percentile First Due Fire Response Time,7/10/2014,,450
 AFR,fire_response,90th Percentile First Due Fire Response Time,8/10/2014,,435
 AFR,fire_response,90th Percentile First Due Fire Response Time,9/10/2014,,448
-AFR,fire_response,90th Percentile First Due Fire Response Time,6/10/2014,,482.7
 AFR,fire_response,90th Percentile First Due Fire Response Time,10/10/2014,,449
-AFR,ems_response,90th Percentile Turnout Time of EMS Response,7/10/2014,,128
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,6/10/2014,,116
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,7/10/2012,10,0.018214936
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,8/10/2012,11,0.020183486
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,9/10/2012,24,0.045540797
@@ -908,14 +908,14 @@ CODE,code_compliance_complaints,New Code Compliance Complaints From Public,6/10/
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,7/10/2014,,892
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2014,,754
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,9/10/2014,,661
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,7/10/2014,,128
 AFR,ems_response,90th Percentile Turnout Time of EMS Response,8/10/2014,,116
 AFR,ems_response,90th Percentile Turnout Time of EMS Response,9/10/2014,,129
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,10/10/2014,,122
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,6/10/2014,,110
 AFR,fire_response,90th Percentile Turnout Time of Fire Response,7/10/2014,,128
 AFR,fire_response,90th Percentile Turnout Time of Fire Response,8/10/2014,,110
 AFR,fire_response,90th Percentile Turnout Time of Fire Response,9/10/2014,,120
-AFR,ems_calls_for_service,Number of EMS Calls for Service,6/10/2014,,4175
-AFR,ems_calls_for_service,Number of EMS Calls for Service,7/10/2014,,4503
-AFR,ems_calls_for_service,Number of EMS Calls for Service,8/10/2014,,5526
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2010,,48
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2011,,160
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2011,,192
@@ -1409,12 +1409,12 @@ DOA,cargo_volume,Cargo Volume Change,6/10/2014,291061,-0.0057
 DOA,cargo_volume,Cargo Volume Change,7/10/2014,342614,0.0289
 DOA,cargo_volume,Cargo Volume Change,8/10/2014,394802,-0.0019
 DOA,cargo_volume,Cargo Volume Change,9/10/2014,444966,-0.014
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,10/10/2014,,128
+AFR,ems_calls_for_service,Number of EMS Calls for Service,6/10/2014,,4175
+AFR,ems_calls_for_service,Number of EMS Calls for Service,7/10/2014,,4503
+AFR,ems_calls_for_service,Number of EMS Calls for Service,8/10/2014,,5526
 AFR,ems_calls_for_service,Number of EMS Calls for Service,9/10/2014,,5628
 AFR,fire_calls_for_service,Number of Fire Calls for Service,6/10/2014,,759
 AFR,fire_calls_for_service,Number of Fire Calls for Service,7/10/2014,,819
 AFR,fire_calls_for_service,Number of Fire Calls for Service,8/10/2014,,896
 AFR,fire_calls_for_service,Number of Fire Calls for Service,9/10/2014,,891
-AFR,ems_response,90th Percentile Turnout Time of EMS Response,6/10/2014,,116
-AFR,ems_response,90th Percentile Turnout Time of EMS Response,10/10/2014,,122
-AFR,fire_response,90th Percentile Turnout Time of Fire Response,6/10/2014,,110
-AFR,fire_response,90th Percentile Turnout Time of Fire Response,10/10/2014,,128
