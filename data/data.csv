@@ -1242,6 +1242,100 @@ APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,5/10/2014,,-
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,6/10/2014,,-0.2
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,7/10/2014,,-0.19
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,8/10/2014,,-0.17
+DOA,cargo_volume,Cargo Volume Change,1/10/2012,48095,-0.0418
+DOA,cargo_volume,Cargo Volume Change,2/10/2012,100280,0.0093
+DOA,cargo_volume,Cargo Volume Change,3/10/2012,159917,0.028
+DOA,cargo_volume,Cargo Volume Change,4/10/2012,212901,-0.0499
+DOA,cargo_volume,Cargo Volume Change,5/10/2012,268628,-0.0165
+DOA,cargo_volume,Cargo Volume Change,6/10/2012,324002,-0.0214
+DOA,cargo_volume,Cargo Volume Change,7/10/2012,378180,-0.0136
+DOA,cargo_volume,Cargo Volume Change,8/10/2012,433694,0.0199
+DOA,cargo_volume,Cargo Volume Change,9/10/2012,488610,-0.0131
+DOA,cargo_volume,Cargo Volume Change,10/10/2012,544583,-0.0208
+DOA,cargo_volume,Cargo Volume Change,11/10/2012,599621,0.0012
+DOA,cargo_volume,Cargo Volume Change,12/10/2012,654012,-0.0474
+DOA,cargo_volume,Cargo Volume Change,1/10/2013,50070,0.0411
+DOA,cargo_volume,Cargo Volume Change,2/10/2013,98273,-0.0763
+DOA,cargo_volume,Cargo Volume Change,3/10/2013,153932,-0.0667
+DOA,cargo_volume,Cargo Volume Change,4/10/2013,204258,-0.0502
+DOA,cargo_volume,Cargo Volume Change,5/10/2013,256104,-0.0696
+DOA,cargo_volume,Cargo Volume Change,6/10/2013,307008,-0.0807
+DOA,cargo_volume,Cargo Volume Change,7/10/2013,355773,-0.0752
+DOA,cargo_volume,Cargo Volume Change,8/10/2013,408063,-0.0581
+DOA,cargo_volume,Cargo Volume Change,9/10/2013,458940,-0.0736
+DOA,cargo_volume,Cargo Volume Change,10/10/2013,513910,-0.0179
+DOA,cargo_volume,Cargo Volume Change,11/10/2013,565861,-0.0746
+DOA,cargo_volume,Cargo Volume Change,12/10/2013,616365,-0.0715
+DOA,cargo_volume,Cargo Volume Change,1/10/2014,45542,-0.0905
+DOA,cargo_volume,Cargo Volume Change,2/10/2014,88697,-0.0956
+DOA,cargo_volume,Cargo Volume Change,3/10/2014,141629,-0.0499
+DOA,cargo_volume,Cargo Volume Change,4/10/2014,190304,-0.0328
+DOA,cargo_volume,Cargo Volume Change,5/10/2014,241300,-0.0115
+DOA,cargo_volume,Cargo Volume Change,6/10/2014,291061,-0.0057
+DOA,cargo_volume,Cargo Volume Change,7/10/2014,342614,0.0289
+DOA,cargo_volume,Cargo Volume Change,8/10/2014,394802,-0.0019
+DOA,passenger_volume,Passengers Change,1/10/2012,6800851,0.073
+DOA,passenger_volume,Passengers Change,2/10/2012,13537637,0.0772
+DOA,passenger_volume,Passengers Change,3/10/2012,21758657,0.0396
+DOA,passenger_volume,Passengers Change,4/10/2012,29744566,0.0426
+DOA,passenger_volume,Passengers Change,5/10/2012,38206174,0.0151
+DOA,passenger_volume,Passengers Change,6/10/2012,46961939,0.0347
+DOA,passenger_volume,Passengers Change,7/10/2012,55868147,0.0054
+DOA,passenger_volume,Passengers Change,8/10/2012,64405710,0.0223
+DOA,passenger_volume,Passengers Change,9/10/2012,72005624,0.0146
+DOA,passenger_volume,Passengers Change,10/10/2012,80275856,0.0274
+DOA,passenger_volume,Passengers Change,11/10/2012,88060356,0.042
+DOA,passenger_volume,Passengers Change,12/10/2012,95513828,0.0337
+DOA,passenger_volume,Passengers Change,1/10/2013,7010088,0.0307
+DOA,passenger_volume,Passengers Change,2/10/2013,13690415,-0.0084
+DOA,passenger_volume,Passengers Change,3/10/2013,21904677,-0.0008
+DOA,passenger_volume,Passengers Change,4/10/2013,29823377,-0.0084
+DOA,passenger_volume,Passengers Change,5/10/2013,38153952,-0.0155
+DOA,passenger_volume,Passengers Change,6/10/2013,46603274,-0.035
+DOA,passenger_volume,Passengers Change,7/10/2013,55228365,-0.0316
+DOA,passenger_volume,Passengers Change,8/10/2013,63579546,-0.0218
+DOA,passenger_volume,Passengers Change,9/10/2013,71107117,-0.0095
+DOA,passenger_volume,Passengers Change,10/10/2013,79197408,-0.0218
+DOA,passenger_volume,Passengers Change,11/10/2013,86574929,-0.0523
+DOA,passenger_volume,Passengers Change,12/10/2013,94431224,0.054
+DOA,passenger_volume,Passengers Change,1/10/2014,6779582,-0.0329
+DOA,passenger_volume,Passengers Change,2/10/2014,13182769,-0.0415
+DOA,passenger_volume,Passengers Change,3/10/2014,21580661,0.0224
+DOA,passenger_volume,Passengers Change,4/10/2014,29742223,0.0307
+DOA,passenger_volume,Passengers Change,5/10/2014,38353612,0.0337
+DOA,passenger_volume,Passengers Change,6/10/2014,46950533,0.0175
+DOA,passenger_volume,Passengers Change,7/10/2014,55940181,0.0358
+DOA,passenger_volume,Passengers Change,8/10/2014,64506915,0.0258
+DOA,security_wait_times,% Security Wait Times Under Target,10/10/2012,,0.93
+DOA,security_wait_times,% Security Wait Times Under Target,11/10/2012,,0.98
+DOA,security_wait_times,% Security Wait Times Under Target,12/10/2012,,0.96
+DOA,security_wait_times,% Security Wait Times Under Target,1/10/2013,,0.96
+DOA,security_wait_times,% Security Wait Times Under Target,2/10/2013,,0.95
+DOA,security_wait_times,% Security Wait Times Under Target,3/10/2013,,0.89
+DOA,security_wait_times,% Security Wait Times Under Target,4/10/2013,,0.83
+DOA,security_wait_times,% Security Wait Times Under Target,5/10/2013,,0.79
+DOA,security_wait_times,% Security Wait Times Under Target,6/10/2013,,0.88
+DOA,security_wait_times,% Security Wait Times Under Target,7/10/2013,,0.919
+DOA,security_wait_times,% Security Wait Times Under Target,8/10/2013,,0.91
+DOA,security_wait_times,% Security Wait Times Under Target,9/10/2013,,0.95
+DOA,security_wait_times,% Security Wait Times Under Target,10/10/2013,,0.95
+DOA,security_wait_times,% Security Wait Times Under Target,11/10/2013,,0.95
+DOA,security_wait_times,% Security Wait Times Under Target,1/10/2014,,0.92
+DOA,security_wait_times,% Security Wait Times Under Target,2/10/2014,,0.94
+DOA,security_wait_times,% Security Wait Times Under Target,3/10/2014,,0.85
+DOA,security_wait_times,% Security Wait Times Under Target,4/10/2014,,0.9
+DOA,security_wait_times,% Security Wait Times Under Target,5/10/2014,,0.86
+DOA,security_wait_times,% Security Wait Times Under Target,6/10/2014,,0.85
+DOA,security_wait_times,% Security Wait Times Under Target,7/10/2014,,0.88
+DOA,security_wait_times,% Security Wait Times Under Target,9/10/2014,,0.92
+DOA,customs_processing_time,Average Customs Processing Time,1/10/2014,,9.08
+DOA,customs_processing_time,Average Customs Processing Time,2/10/2014,,8.93
+DOA,customs_processing_time,Average Customs Processing Time,3/10/2014,,11.45
+DOA,customs_processing_time,Average Customs Processing Time,4/10/2014,,12.9
+DOA,customs_processing_time,Average Customs Processing Time,5/10/2014,,10.45
+DOA,customs_processing_time,Average Customs Processing Time,6/10/2014,,8.75
+DOA,customs_processing_time,Average Customs Processing Time,7/10/2014,,8.5
+DOA,customs_processing_time,Average Customs Processing Time,8/10/2014,,9.5
 DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,4/10/2014,,0.99
 DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,3/10/2014,,0.98
 DPR,park_maintenance,% Litter and Limbs Removed From Parks on Schedule,2/10/2014,,0.94
@@ -1313,167 +1407,3 @@ DPCD,oob_customer_service,% of Service Requests Completed Within Target Timefram
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,6850,0.986548237
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,7179,0.988299206
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,7470,0.98206158
-DOA,cargo_volume,Cargo Volume Change,1/10/2012,48095,-0.0418
-DOA,cargo_volume,Cargo Volume Change,2/10/2012,52185,0.0093
-DOA,cargo_volume,Cargo Volume Change,3/10/2012,59637,0.028
-DOA,cargo_volume,Cargo Volume Change,4/10/2012,52984,-0.0499
-DOA,cargo_volume,Cargo Volume Change,5/10/2012,55726,-0.0165
-DOA,cargo_volume,Cargo Volume Change,6/10/2012,55374,-0.0214
-DOA,cargo_volume,Cargo Volume Change,7/10/2012,54178,-0.0136
-DOA,cargo_volume,Cargo Volume Change,8/10/2012,55514,0.0199
-DOA,cargo_volume,Cargo Volume Change,9/10/2012,54916,-0.0131
-DOA,cargo_volume,Cargo Volume Change,10/10/2012,55973,-0.0208
-DOA,cargo_volume,Cargo Volume Change,11/10/2012,55038,0.0012
-DOA,cargo_volume,Cargo Volume Change,12/10/2012,54391,-0.0474
-DOA,cargo_volume,Cargo Volume Change,1/10/2013,50070,0.0411
-DOA,cargo_volume,Cargo Volume Change,2/10/2013,48203,-0.0763
-DOA,cargo_volume,Cargo Volume Change,3/10/2013,55659,-0.0667
-DOA,cargo_volume,Cargo Volume Change,4/10/2013,50326,-0.0502
-DOA,cargo_volume,Cargo Volume Change,5/10/2013,51845,-0.0696
-DOA,cargo_volume,Cargo Volume Change,6/10/2013,50905,-0.0807
-DOA,cargo_volume,Cargo Volume Change,7/10/2013,50106,-0.0752
-DOA,cargo_volume,Cargo Volume Change,8/10/2013,52290,-0.0581
-DOA,cargo_volume,Cargo Volume Change,9/10/2013,50877,-0.0736
-DOA,cargo_volume,Cargo Volume Change,10/10/2013,54970,-0.0179
-DOA,cargo_volume,Cargo Volume Change,11/10/2013,51957,-0.0746
-DOA,cargo_volume,Cargo Volume Change,12/10/2013,50504,-0.0715
-DOA,cargo_volume,Cargo Volume Change,1/10/2014,45542,-0.0905
-DOA,cargo_volume,Cargo Volume Change,2/10/2014,43155,-0.0956
-DOA,cargo_volume,Cargo Volume Change,3/10/2014,52882,-0.0499
-DOA,cargo_volume,Cargo Volume Change,4/10/2014,48675,-0.0328
-DOA,cargo_volume,Cargo Volume Change,5/10/2014,51248,-0.0115
-DOA,cargo_volume,Cargo Volume Change,6/10/2014,49761,-0.0057
-DOA,cargo_volume,Cargo Volume Change,7/10/2014,51553,0.0289
-DOA,cargo_volume,Cargo Volume Change,8/10/2014,52187,-0.0019
-DOA,cargo_volume,Cargo Volume Change,9/10/2014,50165,-0.014
-DOA,cargo_volume,Cargo Volume YTD,1/10/2012,,48095
-DOA,cargo_volume,Cargo Volume YTD,2/10/2012,,100280
-DOA,cargo_volume,Cargo Volume YTD,3/10/2012,,159917
-DOA,cargo_volume,Cargo Volume YTD,4/10/2012,,212901
-DOA,cargo_volume,Cargo Volume YTD,5/10/2012,,268628
-DOA,cargo_volume,Cargo Volume YTD,6/10/2012,,324002
-DOA,cargo_volume,Cargo Volume YTD,7/10/2012,,378180
-DOA,cargo_volume,Cargo Volume YTD,8/10/2012,,433694
-DOA,cargo_volume,Cargo Volume YTD,9/10/2012,,488610
-DOA,cargo_volume,Cargo Volume YTD,10/10/2012,,544583
-DOA,cargo_volume,Cargo Volume YTD,11/10/2012,,599621
-DOA,cargo_volume,Cargo Volume YTD,12/10/2012,,654012
-DOA,cargo_volume,Cargo Volume YTD,1/10/2013,,50070
-DOA,cargo_volume,Cargo Volume YTD,2/10/2013,,97790
-DOA,cargo_volume,Cargo Volume YTD,3/10/2013,,153449
-DOA,cargo_volume,Cargo Volume YTD,4/10/2013,,203775
-DOA,cargo_volume,Cargo Volume YTD,5/10/2013,,255620
-DOA,cargo_volume,Cargo Volume YTD,6/10/2013,,305667
-DOA,cargo_volume,Cargo Volume YTD,7/10/2013,,355773
-DOA,cargo_volume,Cargo Volume YTD,8/10/2013,,408061
-DOA,cargo_volume,Cargo Volume YTD,9/10/2013,,458935
-DOA,cargo_volume,Cargo Volume YTD,10/10/2013,,513904
-DOA,cargo_volume,Cargo Volume YTD,11/10/2013,,565861
-DOA,cargo_volume,Cargo Volume YTD,12/10/2013,,616365
-DOA,cargo_volume,Cargo Volume YTD,1/10/2014,,45542
-DOA,cargo_volume,Cargo Volume YTD,2/10/2014,,88667
-DOA,cargo_volume,Cargo Volume YTD,3/10/2014,,141463
-DOA,cargo_volume,Cargo Volume YTD,4/10/2014,,190052
-DOA,cargo_volume,Cargo Volume YTD,5/10/2014,,241300
-DOA,cargo_volume,Cargo Volume YTD,6/10/2014,,291061
-DOA,cargo_volume,Cargo Volume YTD,7/10/2014,,342614
-DOA,cargo_volume,Cargo Volume YTD,8/10/2014,,394802
-DOA,cargo_volume,Cargo Volume YTD,9/10/2014,,444966
-DOA,passenger_volume,Passengers Accomodated YTD,1/10/2012,,6800851
-DOA,passenger_volume,Passengers Accomodated YTD,2/10/2012,,13537637
-DOA,passenger_volume,Passengers Accomodated YTD,3/10/2012,,21758657
-DOA,passenger_volume,Passengers Accomodated YTD,4/10/2012,,29744566
-DOA,passenger_volume,Passengers Accomodated YTD,5/10/2012,,38206174
-DOA,passenger_volume,Passengers Accomodated YTD,6/10/2012,,46961939
-DOA,passenger_volume,Passengers Accomodated YTD,7/10/2012,,55868147
-DOA,passenger_volume,Passengers Accomodated YTD,8/10/2012,,64405710
-DOA,passenger_volume,Passengers Accomodated YTD,9/10/2012,,72005624
-DOA,passenger_volume,Passengers Accomodated YTD,10/10/2012,,80275856
-DOA,passenger_volume,Passengers Accomodated YTD,11/10/2012,,88060356
-DOA,passenger_volume,Passengers Accomodated YTD,12/10/2012,,95513828
-DOA,passenger_volume,Passengers Accomodated YTD,1/10/2013,,7010088
-DOA,passenger_volume,Passengers Accomodated YTD,2/10/2013,,13690415
-DOA,passenger_volume,Passengers Accomodated YTD,3/10/2013,,21904677
-DOA,passenger_volume,Passengers Accomodated YTD,4/10/2013,,29823377
-DOA,passenger_volume,Passengers Accomodated YTD,5/10/2013,,38153952
-DOA,passenger_volume,Passengers Accomodated YTD,6/10/2013,,46603274
-DOA,passenger_volume,Passengers Accomodated YTD,7/10/2013,,55228365
-DOA,passenger_volume,Passengers Accomodated YTD,8/10/2013,,63579546
-DOA,passenger_volume,Passengers Accomodated YTD,9/10/2013,,71107117
-DOA,passenger_volume,Passengers Accomodated YTD,10/10/2013,,79197408
-DOA,passenger_volume,Passengers Accomodated YTD,11/10/2013,,86574929
-DOA,passenger_volume,Passengers Accomodated YTD,12/10/2013,,94431224
-DOA,passenger_volume,Passengers Accomodated YTD,1/10/2014,,6835411
-DOA,passenger_volume,Passengers Accomodated YTD,2/10/2014,,13238598
-DOA,passenger_volume,Passengers Accomodated YTD,3/10/2014,,21636490
-DOA,passenger_volume,Passengers Accomodated YTD,4/10/2014,,29798052
-DOA,passenger_volume,Passengers Accomodated YTD,5/10/2014,,38409411
-DOA,passenger_volume,Passengers Accomodated YTD,6/10/2014,,47006362
-DOA,passenger_volume,Passengers Accomodated YTD,7/10/2014,,55940181
-DOA,passenger_volume,Passengers Accomodated YTD,8/10/2014,,64506915
-DOA,passenger_volume,Passengers Accomodated YTD,9/10/2014,,72255229
-DOA,passenger_volume,Passengers Change,1/10/2012,6800851,0.073
-DOA,passenger_volume,Passengers Change,2/10/2012,6736786,0.0772
-DOA,passenger_volume,Passengers Change,3/10/2012,8221020,0.0396
-DOA,passenger_volume,Passengers Change,4/10/2012,7985909,0.0426
-DOA,passenger_volume,Passengers Change,5/10/2012,8461608,0.0151
-DOA,passenger_volume,Passengers Change,6/10/2012,8755765,0.0347
-DOA,passenger_volume,Passengers Change,7/10/2012,8906208,0.0054
-DOA,passenger_volume,Passengers Change,8/10/2012,8537563,0.0223
-DOA,passenger_volume,Passengers Change,9/10/2012,7599914,0.0146
-DOA,passenger_volume,Passengers Change,10/10/2012,8270232,0.0274
-DOA,passenger_volume,Passengers Change,11/10/2012,7784500,0.042
-DOA,passenger_volume,Passengers Change,12/10/2012,7453472,0.0337
-DOA,passenger_volume,Passengers Change,1/10/2013,7010088,0.0308
-DOA,passenger_volume,Passengers Change,2/10/2013,6680327,-0.0084
-DOA,passenger_volume,Passengers Change,3/10/2013,8214262,-0.0008
-DOA,passenger_volume,Passengers Change,4/10/2013,7918700,-0.0084
-DOA,passenger_volume,Passengers Change,5/10/2013,8330575,-0.0155
-DOA,passenger_volume,Passengers Change,6/10/2013,8448883,-0.035
-DOA,passenger_volume,Passengers Change,7/10/2013,8625091,-0.0316
-DOA,passenger_volume,Passengers Change,8/10/2013,8351181,-0.0218
-DOA,passenger_volume,Passengers Change,9/10/2013,7527571,-0.0095
-DOA,passenger_volume,Passengers Change,10/10/2013,8090291,-0.0218
-DOA,passenger_volume,Passengers Change,11/10/2013,7377521,-0.0523
-DOA,passenger_volume,Passengers Change,12/10/2013,7856295,0.054
-DOA,passenger_volume,Passengers Change,1/10/2014,6779582,-0.0329
-DOA,passenger_volume,Passengers Change,2/10/2014,6403187,-0.0415
-DOA,passenger_volume,Passengers Change,3/10/2014,8397892,0.0224
-DOA,passenger_volume,Passengers Change,4/10/2014,8161562,0.0307
-DOA,passenger_volume,Passengers Change,5/10/2014,8611389,0.0337
-DOA,passenger_volume,Passengers Change,6/10/2014,8596921,0.0175
-DOA,passenger_volume,Passengers Change,7/10/2014,8933819,0.0358
-DOA,passenger_volume,Passengers Change,8/10/2014,8566734,0.0258
-DOA,passenger_volume,Passengers Change,9/10/2014,7748314,0.0293
-DOA,security_wait_times,% Security Wait Times Under Target,10/10/2012,,0.93
-DOA,security_wait_times,% Security Wait Times Under Target,11/10/2012,,0.98
-DOA,security_wait_times,% Security Wait Times Under Target,12/10/2012,,0.96
-DOA,security_wait_times,% Security Wait Times Under Target,1/10/2013,,0.96
-DOA,security_wait_times,% Security Wait Times Under Target,2/10/2013,,0.95
-DOA,security_wait_times,% Security Wait Times Under Target,3/10/2013,,0.89
-DOA,security_wait_times,% Security Wait Times Under Target,4/10/2013,,0.83
-DOA,security_wait_times,% Security Wait Times Under Target,5/10/2013,,0.79
-DOA,security_wait_times,% Security Wait Times Under Target,6/10/2013,,0.88
-DOA,security_wait_times,% Security Wait Times Under Target,7/10/2013,,0.919
-DOA,security_wait_times,% Security Wait Times Under Target,8/10/2013,,0.91
-DOA,security_wait_times,% Security Wait Times Under Target,9/10/2013,,0.95
-DOA,security_wait_times,% Security Wait Times Under Target,10/10/2013,,0.95
-DOA,security_wait_times,% Security Wait Times Under Target,11/10/2013,,0.95
-DOA,security_wait_times,% Security Wait Times Under Target,1/10/2014,,0.92
-DOA,security_wait_times,% Security Wait Times Under Target,2/10/2014,,0.94
-DOA,security_wait_times,% Security Wait Times Under Target,3/10/2014,,0.85
-DOA,security_wait_times,% Security Wait Times Under Target,4/10/2014,,0.9
-DOA,security_wait_times,% Security Wait Times Under Target,5/10/2014,,0.86
-DOA,security_wait_times,% Security Wait Times Under Target,6/10/2014,,0.85
-DOA,security_wait_times,% Security Wait Times Under Target,7/10/2014,,0.88
-DOA,security_wait_times,% Security Wait Times Under Target,8/10/2014,,0.93
-DOA,security_wait_times,% Security Wait Times Under Target,9/10/2014,,0.92
-DOA,customs_processing_time,Average Customs Processing Time,1/10/2014,,9.08
-DOA,customs_processing_time,Average Customs Processing Time,2/10/2014,,8.93
-DOA,customs_processing_time,Average Customs Processing Time,3/10/2014,,11.45
-DOA,customs_processing_time,Average Customs Processing Time,4/10/2014,,12.9
-DOA,customs_processing_time,Average Customs Processing Time,5/10/2014,,10.45
-DOA,customs_processing_time,Average Customs Processing Time,6/10/2014,,8.75
-DOA,customs_processing_time,Average Customs Processing Time,7/10/2014,,8.5
-DOA,customs_processing_time,Average Customs Processing Time,8/10/2014,,9.5
-DOA,customs_processing_time,Average Customs Processing Time,10/10/2014,,8.75
