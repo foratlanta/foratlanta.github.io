@@ -89,7 +89,7 @@
   group-description:
   charts:
     - title: Recreation Center Attendance
-      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships.
+      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
       description: Since the Department started reliably tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 36,000-55,000.  This numbers fluctuates significantly based on seasonality, with higher numbers coming in summer months.  Active memberships, also seasonal, has ranged from 3,200-5,300.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
@@ -102,7 +102,7 @@
       series1-label: Total people
 
     - title: Youth Attendance and Programming
-      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and Recreation Center (red) Programming.
+      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
       description: With new investments in facilities and programming, lead by the Mayor's Centers of Hope initiative, youth attendance peaked at 3,00 per month in the summer of 2014.  This is a significant increase over prior years.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
