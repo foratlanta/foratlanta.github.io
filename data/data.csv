@@ -320,8 +320,8 @@ COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,4/10/2014,210
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,5/10/2014,1963,0.44
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,6/10/2014,2001,0.47
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,7/10/2014,2174,0.47
-COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,8/10/2014,,0.45
-COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,9/10/2014,,0.42
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,8/10/2014,1949,0.45
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,9/10/2014,1979,0.42
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,6/10/2013,13416,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,7/10/2013,14918,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2013,12770,0.11
@@ -336,12 +336,8 @@ COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,4/10/2014,11206
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,5/10/2014,8887,0.08
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,6/10/2014,11808,0.08
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,7/10/2014,11363,0.08
-COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2014,,0.08
-COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,9/10/2014,,0.11
-COURT,criminal_cases,Number of Criminal Cases Filed,9/10/2014,,1949
-COURT,criminal_cases,Number of Criminal Cases Filed,10/10/2014,,1979
-COURT,traffic_cases,Number of Traffic Cases Filed,9/10/2014,,16087
-COURT,traffic_cases,Number of Traffic Cases Filed,10/10/2014,,15675
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2014,16087,0.08
+COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,9/10/2014,15675,0.11
 DOA,security_wait_times,% Security Wait Times Under Target,10/10/2012,,0.93
 DOA,security_wait_times,% Security Wait Times Under Target,11/10/2012,,0.98
 DOA,security_wait_times,% Security Wait Times Under Target,12/10/2012,,0.96
@@ -364,7 +360,6 @@ DOA,security_wait_times,% Security Wait Times Under Target,5/10/2014,,0.86
 DOA,security_wait_times,% Security Wait Times Under Target,6/10/2014,,0.85
 DOA,security_wait_times,% Security Wait Times Under Target,7/10/2014,,0.88
 DOA,security_wait_times,% Security Wait Times Under Target,9/10/2014,,0.92
-DOA,security_wait_times,% Security Wait Times Under Target,10/10/2014,,0
 DOA,customs_processing_time,Average Customs Processing Time,1/10/2014,,9.08
 DOA,customs_processing_time,Average Customs Processing Time,2/10/2014,,8.93
 DOA,customs_processing_time,Average Customs Processing Time,3/10/2014,,11.45
@@ -408,10 +403,6 @@ DOA,cargo_volume,Cargo Volume Change,6/10/2014,291061,-0.0057
 DOA,cargo_volume,Cargo Volume Change,7/10/2014,342614,0.0289
 DOA,cargo_volume,Cargo Volume Change,8/10/2014,394802,-0.0019
 DOA,cargo_volume,Cargo Volume Change,9/10/2014,444966,-0.014
-DOA,cargo_volume,Cargo Volume YTD,8/10/2014,,394802
-DOA,cargo_volume,Cargo Volume YTD,9/10/2014,,444966
-DOA,passenger_volume,Passengers Accomodated YTD,8/10/2014,,64506915
-DOA,passenger_volume,Passengers Accomodated YTD,9/10/2014,,72255229
 DOA,passenger_volume,Passengers Change,1/10/2012,6800851,0.073
 DOA,passenger_volume,Passengers Change,2/10/2012,13537637,0.0772
 DOA,passenger_volume,Passengers Change,3/10/2012,21758657,0.0396
@@ -1015,7 +1006,6 @@ DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Pro
 DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,7/10/2014,,3200
 DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,8/10/2014,,1126
 DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,9/10/2014,,1268
-DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,10/10/2014,,0
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,1/10/2014,,729
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,2/10/2014,,733
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,3/10/2014,,713
@@ -1025,7 +1015,6 @@ DPR,youth_programming,Total Youth Served In Recreation Center Programs,6/10/2014
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,7/10/2014,,1388
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,8/10/2014,,721
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,9/10/2014,,785
-DPR,youth_programming,Total Youth Served In Recreation Center Programs,10/10/2014,,0
 DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,7/10/2012,,1
 DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,8/10/2012,,0.999
 DPW,solid_waste_operations,% Garbage Pickups Collected On Schedule,9/10/2012,,1
@@ -1496,3 +1485,5 @@ DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2013,,14.65
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2013,,13.266
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2013,,13.45
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2013,,12.97
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2014,6275,0.687
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,7463,0.9855
