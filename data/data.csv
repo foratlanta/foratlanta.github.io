@@ -60,8 +60,6 @@ APD,e911_call_center,% Calls Answered In 10 Seconds or Less,7/10/2014,32429,0.95
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,8/10/2014,32842,0.93
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,9/10/2014,31381,0.93
 APD,e911_call_center,% Calls Answered In 10 Seconds or Less,10/10/2014,31212,0.94
-APD,e911_call_center,Total Dispatched Calls,9/10/2014,,31381
-APD,e911_call_center,Total Dispatched Calls,10/10/2014,,31212
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,1/10/2010,,-0.23
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,2/10/2010,,-0.25
 APD,overall_crime,YTD % Change Year Over Year In UCR Crime - Overall,3/10/2010,,-0.2
@@ -1486,4 +1484,4 @@ DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2013,,13.266
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2013,,13.45
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2013,,12.97
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2014,6275,0.687
-DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,7463,0.9855
+DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2014,7463,0.9855
