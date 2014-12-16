@@ -990,9 +990,9 @@ DPCD,building_permits_detail,Residential Building Permits Issued As % Total Perm
 DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,7/10/2014,329,0.578
 DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,8/10/2014,305,0.55353902
 DPCD,building_permits_detail,Residential Building Permits Issued As % Total Permits Issued,9/10/2014,314,0.51223491
-DPR,rec_center_attendance,Total Active Recreation Center Memberships,7/10/2014,,5372
-DPR,rec_center_attendance,Total Active Recreation Center Memberships,8/10/2014,,3235
-DPR,rec_center_attendance,Total Active Recreation Center Memberships,9/10/2014,,3446
+DPR,rec_center_memberships,Total Active Recreation Center Memberships,7/10/2014,,5372
+DPR,rec_center_memberships,Total Active Recreation Center Memberships,8/10/2014,,3235
+DPR,rec_center_memberships,Total Active Recreation Center Memberships,9/10/2014,,3446
 DPR,rec_center_attendance,Total Recreation Center Visits,7/10/2014,,49979
 DPR,rec_center_attendance,Total Recreation Center Visits,8/10/2014,,54350
 DPR,rec_center_attendance,Total Recreation Center Visits,9/10/2014,,36495

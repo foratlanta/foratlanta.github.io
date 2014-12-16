@@ -112,8 +112,8 @@
       series1-label: Total memberships
 
     - title: Youth Attendance and Programming
-      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
-      description: With new investments in facilities and programming, lead by the Mayor's Centers of Hope initiative, youth attendance peaked at 3,00 per month in the summer of 2014.  This is a significant increase over prior years.
+      summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs.
+      description: With new investments in facilities and programming, lead by the Mayor's Centers of Hope initiative, youth attendance peaked at 3,000 per month in the summer of 2014.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
