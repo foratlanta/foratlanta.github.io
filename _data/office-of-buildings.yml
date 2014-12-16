@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of customer service requests that the Office of Buildings receives on a monthly basis. It also shows performance in fulfilling those requests on-time each month.
-      description: The graph shows that both volume and performance have been consistent over the past year. The office has an excellent track record of meeting its customer service delivery targets. This is based largely on its performance in building inspections, which make up the bulk of its work on a caseload basis.
+      description: The graph shows that both volume and performance have been consistent over the past year. The office has an excellent track record of meeting its customer service delivery targets. This is based largely on its performance in building inspections, which make up the bulk of its work on a caseload basis. <p>In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed.</p>
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
@@ -19,7 +19,7 @@
       series2-label: Resolved Within Target Timeframe
     - title: Permit Inspection Customer Service Requests
       summary: The Office of Buildings is responsible for carrying out arborist, building, mechanical, electrical and plumbing inspections across the city. Altogether, around 6,500 permit inspections are undertaken in a normal month.  The office strives to meet its customer service target of responding to customer requests for building inspections within two business days (six days for arborist inspections).
-      description: As the figure shows, the Office has an excellent track record of performing nearly all inspections within the target timeframe. Despite a small dip in inspection volume and departmental responsiveness in January and February 2014 (the result of successive ice storms), performance has consistently been at 99% or better.
+      description: As the figure shows, the Office has an excellent track record of performing nearly all inspections within the target timeframe. Despite a small dip in inspection volume and departmental responsiveness in January and February 2014 (the result of successive ice storms), performance has consistently been at 99% or better. <p>In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed.</p>
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
