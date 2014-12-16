@@ -86,13 +86,13 @@
       series1-label: Completed on Schedule
 
 - group-title: Section III - Recreation Center Attendance and Programming
-  group-description: Yada
+  group-description: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, Centers of Hope, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below show data on facility vists, membership and youth attendance. Please note that the numbers below reflect only the X facilities that are managed/operated by the Department.  The Department has X facilities that are managed through a third party via an MOU agreement.
   charts:
     - title: Recreation Center Attendance
-      summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
-      description: Since the Department started reliably tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 36,000-55,000.  This numbers fluctuates significantly based on seasonality, with higher numbers coming in summer months.  Active memberships, also seasonal, has ranged from 3,200-5,300.
+      summary: The charts below shows total attendance at Recreation facilities, as captured through the Department's iParks application.
+      description: Since the Department started tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 36,000-55,000.  This numbers fluctuates significantly based on seasonality, with higher numbers coming in summer months.  Active memberships, also seasonal, has ranged from 3,200-5,300.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      size: full
+      size: half
       department: DPR
       datasource: rec_center_attendance
       series-grouping: true
@@ -101,9 +101,9 @@
       series1-format: number
       series1-label: Total people
     - title: Recreation Center Memberships
-      summary: yada
-      description: yada
-      note: yada 
+      summary: The chart below shows the total active memberships at Recreation facilities.
+      description: Since the Department started tracking attendance data via its iParks application in July 2014, active memberships, has ranged from 3,200-5,300. This numbers fluctuates significantly based on seasonality, with higher numbers coming in summer months.
+      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       datasource: rec_center_memberships
       series1-metric: Result
