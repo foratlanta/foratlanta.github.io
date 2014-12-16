@@ -447,15 +447,15 @@ DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2014,
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2014,,0.9662
 AFR,ems_response,90th Percentile First Due EMS Response Time,8/10/2014,,487
 AFR,ems_response,90th Percentile First Due EMS Response Time,9/10/2014,,478
+AFR,ems_response,90th Percentile First Due EMS Response Time,6/10/2014,,503
+AFR,ems_response,90th Percentile First Due EMS Response Time,7/10/2014,,488
+AFR,ems_response,90th Percentile First Due EMS Response Time,10/10/2014,,505
 AFR,fire_response,90th Percentile First Due Fire Response Time,7/10/2014,,450
 AFR,fire_response,90th Percentile First Due Fire Response Time,8/10/2014,,435
 AFR,fire_response,90th Percentile First Due Fire Response Time,9/10/2014,,448
+AFR,fire_response,90th Percentile First Due Fire Response Time,6/10/2014,,482.7
+AFR,fire_response,90th Percentile First Due Fire Response Time,10/10/2014,,449
 AFR,ems_response,90th Percentile Turnout Time of EMS Response,7/10/2014,,128
-AFR,ems_response,90th Percentile Turnout Time of EMS Response,8/10/2014,,116
-AFR,ems_response,90th Percentile Turnout Time of EMS Response,9/10/2014,,129
-AFR,fire_response,90th Percentile Turnout Time of Fire Response,7/10/2014,,128
-AFR,fire_response,90th Percentile Turnout Time of Fire Response,8/10/2014,,110
-AFR,fire_response,90th Percentile Turnout Time of Fire Response,9/10/2014,,120
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,7/10/2012,10,0.018214936
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,8/10/2012,11,0.020183486
 DPCD,building_permits_detail,Airport Building Permits Issued As % Total Permits Issued,9/10/2012,24,0.045540797
@@ -908,14 +908,14 @@ CODE,code_compliance_complaints,New Code Compliance Complaints From Public,6/10/
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,7/10/2014,,892
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,8/10/2014,,754
 CODE,code_compliance_complaints,New Code Compliance Complaints From Public,9/10/2014,,661
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,8/10/2014,,116
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,9/10/2014,,129
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,7/10/2014,,128
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,8/10/2014,,110
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,9/10/2014,,120
 AFR,ems_calls_for_service,Number of EMS Calls for Service,6/10/2014,,4175
 AFR,ems_calls_for_service,Number of EMS Calls for Service,7/10/2014,,4503
 AFR,ems_calls_for_service,Number of EMS Calls for Service,8/10/2014,,5526
-AFR,ems_calls_for_service,Number of EMS Calls for Service,9/10/2014,,5628
-AFR,fire_calls_for_service,Number of Fire Calls for Service,6/10/2014,,759
-AFR,fire_calls_for_service,Number of Fire Calls for Service,7/10/2014,,819
-AFR,fire_calls_for_service,Number of Fire Calls for Service,8/10/2014,,896
-AFR,fire_calls_for_service,Number of Fire Calls for Service,9/10/2014,,891
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,12/10/2010,,48
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,1/10/2011,,160
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2011,,192
@@ -1343,69 +1343,78 @@ DPCD,oob_customer_service,% of Service Requests Completed Within Target Timefram
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,6850,0.986548237
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,7179,0.988299206
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,7470,0.98206158
-DOA,passenger_volume,Passengers Change,40918,6800851,0.073
-DOA,passenger_volume,Passengers Change,40949,13537637,0.0772
-DOA,passenger_volume,Passengers Change,40978,21758657,0.0396
-DOA,passenger_volume,Passengers Change,41009,29744566,0.0426
-DOA,passenger_volume,Passengers Change,41039,38206174,0.0151
-DOA,passenger_volume,Passengers Change,41070,46961939,0.0347
-DOA,passenger_volume,Passengers Change,41100,55868147,0.0054
-DOA,passenger_volume,Passengers Change,41131,64405710,0.0223
-DOA,passenger_volume,Passengers Change,41162,72005624,0.0146
-DOA,passenger_volume,Passengers Change,41192,80275856,0.0274
-DOA,passenger_volume,Passengers Change,41223,88060356,0.042
-DOA,passenger_volume,Passengers Change,41253,95513828,0.0337
-DOA,passenger_volume,Passengers Change,41284,7010088,0.0308
-DOA,passenger_volume,Passengers Change,41315,13690415,-0.0084
-DOA,passenger_volume,Passengers Change,41343,21904677,-0.0008
-DOA,passenger_volume,Passengers Change,41374,29823377,-0.0084
-DOA,passenger_volume,Passengers Change,41404,38153952,-0.0155
-DOA,passenger_volume,Passengers Change,41435,46603274,-0.035
-DOA,passenger_volume,Passengers Change,41465,55228365,-0.0316
-DOA,passenger_volume,Passengers Change,41496,63579546,-0.0218
-DOA,passenger_volume,Passengers Change,41527,71107117,-0.0095
-DOA,passenger_volume,Passengers Change,41557,79197408,-0.0218
-DOA,passenger_volume,Passengers Change,41588,86574929,-0.0523
-DOA,passenger_volume,Passengers Change,41618,94431224,0.054
-DOA,passenger_volume,Passengers Change,41649,6835411,-0.0329
-DOA,passenger_volume,Passengers Change,41680,13238598,-0.0415
-DOA,passenger_volume,Passengers Change,41708,21636490,0.0224
-DOA,passenger_volume,Passengers Change,41739,29798052,0.0307
-DOA,passenger_volume,Passengers Change,41769,38409411,0.0337
-DOA,passenger_volume,Passengers Change,41800,47006362,0.0175
-DOA,passenger_volume,Passengers Change,41830,55940181,0.0358
-DOA,passenger_volume,Passengers Change,41861,64506915,0.0258
-DOA,passenger_volume,Passengers Change,41892,72255229,0.0293
-DOA,cargo_volume,Cargo Volume Change,40918,48095,-0.0418
-DOA,cargo_volume,Cargo Volume Change,40949,100280,0.0093
-DOA,cargo_volume,Cargo Volume Change,40978,159917,0.028
-DOA,cargo_volume,Cargo Volume Change,41009,212901,-0.0499
-DOA,cargo_volume,Cargo Volume Change,41039,268628,-0.0165
-DOA,cargo_volume,Cargo Volume Change,41070,324002,-0.0214
-DOA,cargo_volume,Cargo Volume Change,41100,378180,-0.0136
-DOA,cargo_volume,Cargo Volume Change,41131,433694,0.0199
-DOA,cargo_volume,Cargo Volume Change,41162,488610,-0.0131
-DOA,cargo_volume,Cargo Volume Change,41192,544583,-0.0208
-DOA,cargo_volume,Cargo Volume Change,41223,599621,0.0012
-DOA,cargo_volume,Cargo Volume Change,41253,654012,-0.0474
-DOA,cargo_volume,Cargo Volume Change,41284,50070,0.0411
-DOA,cargo_volume,Cargo Volume Change,41315,97790,-0.0763
-DOA,cargo_volume,Cargo Volume Change,41343,153449,-0.0667
-DOA,cargo_volume,Cargo Volume Change,41374,203775,-0.0502
-DOA,cargo_volume,Cargo Volume Change,41404,255620,-0.0696
-DOA,cargo_volume,Cargo Volume Change,41435,305667,-0.0807
-DOA,cargo_volume,Cargo Volume Change,41465,355773,-0.0752
-DOA,cargo_volume,Cargo Volume Change,41496,408061,-0.0581
-DOA,cargo_volume,Cargo Volume Change,41527,458935,-0.0736
-DOA,cargo_volume,Cargo Volume Change,41557,513904,-0.0179
-DOA,cargo_volume,Cargo Volume Change,41588,565861,-0.0746
-DOA,cargo_volume,Cargo Volume Change,41618,616365,-0.0715
-DOA,cargo_volume,Cargo Volume Change,41649,45542,-0.0905
-DOA,cargo_volume,Cargo Volume Change,41680,88667,-0.0956
-DOA,cargo_volume,Cargo Volume Change,41708,141463,-0.0499
-DOA,cargo_volume,Cargo Volume Change,41739,190052,-0.0328
-DOA,cargo_volume,Cargo Volume Change,41769,241300,-0.0115
-DOA,cargo_volume,Cargo Volume Change,41800,291061,-0.0057
-DOA,cargo_volume,Cargo Volume Change,41830,342614,0.0289
-DOA,cargo_volume,Cargo Volume Change,41861,394802,-0.0019
-DOA,cargo_volume,Cargo Volume Change,41892,444966,-0.014
+DOA,passenger_volume,Passengers Change,1/10/2012,6800851,0.073
+DOA,passenger_volume,Passengers Change,2/10/2012,13537637,0.0772
+DOA,passenger_volume,Passengers Change,3/10/2012,21758657,0.0396
+DOA,passenger_volume,Passengers Change,4/10/2012,29744566,0.0426
+DOA,passenger_volume,Passengers Change,5/10/2012,38206174,0.0151
+DOA,passenger_volume,Passengers Change,6/10/2012,46961939,0.0347
+DOA,passenger_volume,Passengers Change,7/10/2012,55868147,0.0054
+DOA,passenger_volume,Passengers Change,8/10/2012,64405710,0.0223
+DOA,passenger_volume,Passengers Change,9/10/2012,72005624,0.0146
+DOA,passenger_volume,Passengers Change,10/10/2012,80275856,0.0274
+DOA,passenger_volume,Passengers Change,11/10/2012,88060356,0.042
+DOA,passenger_volume,Passengers Change,12/10/2012,95513828,0.0337
+DOA,passenger_volume,Passengers Change,1/10/2013,7010088,0.0308
+DOA,passenger_volume,Passengers Change,2/10/2013,13690415,-0.0084
+DOA,passenger_volume,Passengers Change,3/10/2013,21904677,-0.0008
+DOA,passenger_volume,Passengers Change,4/10/2013,29823377,-0.0084
+DOA,passenger_volume,Passengers Change,5/10/2013,38153952,-0.0155
+DOA,passenger_volume,Passengers Change,6/10/2013,46603274,-0.035
+DOA,passenger_volume,Passengers Change,7/10/2013,55228365,-0.0316
+DOA,passenger_volume,Passengers Change,8/10/2013,63579546,-0.0218
+DOA,passenger_volume,Passengers Change,9/10/2013,71107117,-0.0095
+DOA,passenger_volume,Passengers Change,10/10/2013,79197408,-0.0218
+DOA,passenger_volume,Passengers Change,11/10/2013,86574929,-0.0523
+DOA,passenger_volume,Passengers Change,12/10/2013,94431224,0.054
+DOA,passenger_volume,Passengers Change,1/10/2014,6835411,-0.0329
+DOA,passenger_volume,Passengers Change,2/10/2014,13238598,-0.0415
+DOA,passenger_volume,Passengers Change,3/10/2014,21636490,0.0224
+DOA,passenger_volume,Passengers Change,4/10/2014,29798052,0.0307
+DOA,passenger_volume,Passengers Change,5/10/2014,38409411,0.0337
+DOA,passenger_volume,Passengers Change,6/10/2014,47006362,0.0175
+DOA,passenger_volume,Passengers Change,7/10/2014,55940181,0.0358
+DOA,passenger_volume,Passengers Change,8/10/2014,64506915,0.0258
+DOA,passenger_volume,Passengers Change,9/10/2014,72255229,0.0293
+DOA,cargo_volume,Cargo Volume Change,1/10/2012,48095,-0.0418
+DOA,cargo_volume,Cargo Volume Change,2/10/2012,100280,0.0093
+DOA,cargo_volume,Cargo Volume Change,3/10/2012,159917,0.028
+DOA,cargo_volume,Cargo Volume Change,4/10/2012,212901,-0.0499
+DOA,cargo_volume,Cargo Volume Change,5/10/2012,268628,-0.0165
+DOA,cargo_volume,Cargo Volume Change,6/10/2012,324002,-0.0214
+DOA,cargo_volume,Cargo Volume Change,7/10/2012,378180,-0.0136
+DOA,cargo_volume,Cargo Volume Change,8/10/2012,433694,0.0199
+DOA,cargo_volume,Cargo Volume Change,9/10/2012,488610,-0.0131
+DOA,cargo_volume,Cargo Volume Change,10/10/2012,544583,-0.0208
+DOA,cargo_volume,Cargo Volume Change,11/10/2012,599621,0.0012
+DOA,cargo_volume,Cargo Volume Change,12/10/2012,654012,-0.0474
+DOA,cargo_volume,Cargo Volume Change,1/10/2013,50070,0.0411
+DOA,cargo_volume,Cargo Volume Change,2/10/2013,97790,-0.0763
+DOA,cargo_volume,Cargo Volume Change,3/10/2013,153449,-0.0667
+DOA,cargo_volume,Cargo Volume Change,4/10/2013,203775,-0.0502
+DOA,cargo_volume,Cargo Volume Change,5/10/2013,255620,-0.0696
+DOA,cargo_volume,Cargo Volume Change,6/10/2013,305667,-0.0807
+DOA,cargo_volume,Cargo Volume Change,7/10/2013,355773,-0.0752
+DOA,cargo_volume,Cargo Volume Change,8/10/2013,408061,-0.0581
+DOA,cargo_volume,Cargo Volume Change,9/10/2013,458935,-0.0736
+DOA,cargo_volume,Cargo Volume Change,10/10/2013,513904,-0.0179
+DOA,cargo_volume,Cargo Volume Change,11/10/2013,565861,-0.0746
+DOA,cargo_volume,Cargo Volume Change,12/10/2013,616365,-0.0715
+DOA,cargo_volume,Cargo Volume Change,1/10/2014,45542,-0.0905
+DOA,cargo_volume,Cargo Volume Change,2/10/2014,88667,-0.0956
+DOA,cargo_volume,Cargo Volume Change,3/10/2014,141463,-0.0499
+DOA,cargo_volume,Cargo Volume Change,4/10/2014,190052,-0.0328
+DOA,cargo_volume,Cargo Volume Change,5/10/2014,241300,-0.0115
+DOA,cargo_volume,Cargo Volume Change,6/10/2014,291061,-0.0057
+DOA,cargo_volume,Cargo Volume Change,7/10/2014,342614,0.0289
+DOA,cargo_volume,Cargo Volume Change,8/10/2014,394802,-0.0019
+DOA,cargo_volume,Cargo Volume Change,9/10/2014,444966,-0.014
+AFR,ems_calls_for_service,Number of EMS Calls for Service,9/10/2014,,5628
+AFR,fire_calls_for_service,Number of Fire Calls for Service,6/10/2014,,759
+AFR,fire_calls_for_service,Number of Fire Calls for Service,7/10/2014,,819
+AFR,fire_calls_for_service,Number of Fire Calls for Service,8/10/2014,,896
+AFR,fire_calls_for_service,Number of Fire Calls for Service,9/10/2014,,891
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,6/10/2014,,116
+AFR,ems_response,90th Percentile Turnout Time of EMS Response,10/10/2014,,122
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,6/10/2014,,110
+AFR,fire_response,90th Percentile Turnout Time of Fire Response,10/10/2014,,128
