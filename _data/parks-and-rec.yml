@@ -86,7 +86,7 @@
       series1-label: Completed on Schedule
 
 - group-title: Section III - Recreation Center Attendance and Programming
-  group-description:
+  group-description: Yada
   charts:
     - title: Recreation Center Attendance
       summary: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below shows total recreation center visits and active recreation center memberships. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
@@ -100,6 +100,16 @@
       series1-type: column
       series1-format: number
       series1-label: Total people
+    - title: Recreation Center Memberships
+      summary: yada
+      description: yada
+      note: yada 
+      size: half
+      datasource: rec_center_memberships
+      series1-metric: Result
+      series1-type: column
+      series1-format: number
+      series1-label: Total memberships
 
     - title: Youth Attendance and Programming
       summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs. Please note that the numbers below reflect only the X Centers that are managed/operated by the Department.  The Department has X Centers that are managed through a third party via an MOU agreement.
