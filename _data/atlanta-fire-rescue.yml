@@ -16,7 +16,7 @@
 
     - title: Fire Response Performance
       summary: Of all of the fire calls for service responded to in a given month, 90% of the time the responders were able to leave the station (turnout time) and arrive at the incident (first due response time) in the listed time or less. Data on response times are presented at the 90th percentile, which is consistent with the practices of the Commission on Fire Accreditation International.  A traditional “average” (mean, median or mode) does not give the best indication of the distribution of the data (i.e. outliers).
-      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 110 seconds to 128 seconds.  First due response times have ranged from 435 seconds to 450 seconds.
+      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 110 seconds to 128 seconds.  First due response times have ranged from 435 seconds to 482 seconds.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
@@ -45,7 +45,7 @@
 
     - title: EMS Response Performance
       summary: Of all of the EMS calls for service responded to in a given month, 90% of the time the responders were able to leave the station (turnout time) and arrive at the incident (first due response time) in the listed time or less. Data on response times are presented at the 90th percentile, which is consistent with the practices of the Commission on Fire Accreditation International.  A traditional “average” (mean, median or mode) does not give the best indication of the distribution of the data (i.e. outliers).
-      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 116 seconds to 129 seconds.  First due response times have ranged from 478 seconds to 487 seconds.
+      description: Since the Department started tracking this metric in July 2014, 90th percentile turnout times have ranged from 116 seconds to 129 seconds.  First due response times have ranged from 478 seconds to 503 seconds.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: AFR
