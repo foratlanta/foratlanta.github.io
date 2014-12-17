@@ -206,19 +206,3 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
 
-    - title: Bridge Maintenance Service Requests
-      summary: The City of Atlanta Maintains Repairs to City owned Bridges (including routine repairs, major repairs, and falling objects).
-      description: With an average of ~40 requests per month, performance has ranged from 65-90% for most of 2014.
-      note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      size: full
-      department: DPW
-      datasource: transportation_bridge
-      series-grouping: false
-      series1-metric: Volume
-      series1-type: column
-      series1-format: Number
-      series1-label: Total Service Requests
-      series2-metric: Result
-      series2-type: line
-      series2-format: percentage
-      series2-label: Resolved Within Target Timeframe
