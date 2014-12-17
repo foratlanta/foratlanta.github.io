@@ -1216,271 +1216,237 @@ DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,7/10/2014,
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2014,,0.9989
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2014,,0.9662
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,10/10/2014,,0.9915
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,1/10/2014,5382,0.505589929
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,2/10/2014,6364,0.477587366
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,3/10/2014,7231,0.564383349
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,4/10/2014,7908,0.514820309
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,5/10/2014,7681,0.528702252
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,6/10/2014,7883,0.528819612
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,7/10/2014,8243,0.514939221
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,6471,0.653831711
-DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,5970,0.663878727
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),1/10/2014,44,0.023
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),2/10/2014,22,0.636
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),3/10/2014,88,0.909
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),4/10/2014,147,0.748
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),5/10/2014,106,0.425
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),6/10/2014,79,0.57
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),7/10/2014,59,0.559
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),8/10/2014,200,0.37
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),9/10/2014,104,0.683
-DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),10/10/2014,70,0.743
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,2/10/2014,461,0.258
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,3/10/2014,525,0.992
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,4/10/2014,259,0.892
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,5/10/2014,258,0.725
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,6/10/2014,301,0.688
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,7/10/2014,277,0.776
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,8/10/2014,264,0.477
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,9/10/2014,479,0.685
-DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,10/10/2014,695,0.709
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),1/10/2014,236,0.127
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),2/10/2014,245,0.184
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),3/10/2014,244,0.189
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),4/10/2014,387,0.227
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),5/10/2014,204,0.309
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),6/10/2014,182,0.28
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),7/10/2014,210,0.314
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),8/10/2014,101,0.634
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),9/10/2014,82,0.817
-DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),10/10/2014,67,0.791
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),1/10/2014,574,0.991
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),2/10/2014,657,0.995
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),3/10/2014,791,0.999
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),4/10/2014,922,0.993
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),5/10/2014,985,0.991
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),6/10/2014,942,0.989
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),7/10/2014,963,0.994
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),8/10/2014,986,1
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),9/10/2014,832,0.998
-DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),10/10/2014,823,0.994
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,6/10/2013,,4.1
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,7/10/2013,,5.48
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,8/10/2013,,4.03
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,9/10/2013,,3.55
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,10/10/2013,,3.9
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,11/10/2013,,2.07
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,1/10/2014,,5.83
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,2/10/2014,,4.13
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,3/10/2014,,3.72
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,4/10/2014,,1.54
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,5/10/2014,,1.6
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,6/10/2014,,1.8
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,7/10/2014,,3.47
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,8/10/2014,,2.85
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,9/10/2014,,5.16
-DWM,billing_complaints,Billing Complaints Per 1000 Accounts,10/10/2014,,3.72
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2014,0,1
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2010,,0.054690454
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2010,,0.048103913
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2010,,0.046033321
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2010,,0.04539119
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2010,,0.050562294
 DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2010,,0.047327008
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2010,,0.041262614
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2010,,0.041992916
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2010,,0.038340469
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2010,,0.036133306
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2010,,0.03520056
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2010,,0.035681511
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2011,,0.037500571
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2011,,0.031464008
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2011,,0.022615655
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2011,,0.017059372
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2011,,0.011869476
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2011,,0.009295801
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2011,,0.007502846
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2011,,0.010714644
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2011,,0.00614267
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2011,,0.005458464
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2011,,0.005193899
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2011,,0.005286561
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2012,,0.004822969
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2012,,0.004323096
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2012,,0.003974478
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2012,,0.00608224
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2012,,0.005821449
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2012,,0.006873012
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2012,,0.007118383
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2012,,0.007679073
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2012,,0.008782298
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2012,,0.006647811
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2012,,0.005903996
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2012,,0.006117342
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2013,,0.006877406
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2013,,0.006765963
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2013,,0.008123048
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2013,,0.008123664
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2013,,0.01
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2013,,0.011
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2013,,0.012
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2013,,0.012
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2013,,0.012
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2013,,0.008
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2013,,0.005
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2013,,0.005781
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2014,,0.0066
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2014,,0.006
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2014,,0.007
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2014,,0.007
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2014,,0.009
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2014,,0.011
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2014,,0.011
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2014,,0.013
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2014,,0.011
-DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2014,0,0.018
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2011,,12
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2011,,7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2011,,9
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2011,,7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2011,,14
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2011,,14
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2012,,12
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2012,,13
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2012,,15
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2012,,13
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2012,,10
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2012,,6
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2012,,6
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2012,,12
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2012,,10
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2012,,12
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2012,,11
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2012,,13
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2013,,7.7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2013,,7.7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2013,,7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2013,,6.578982846
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2013,,7.4
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2013,,7.6
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2013,,7.5
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2013,,7.33
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2013,,7.496
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2013,,7.4
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2013,,7.7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2014,,7.5
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2014,,7.5
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2014,,7.7
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2014,,7.5
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2014,,7.2
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2014,,7.3
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2014,,7.8
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2014,,8.4
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2014,,8.4
-DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2014,0,8.7
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2010,,0.98630137
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2010,,0.041262614
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2010,,0.991780822
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2010,,0.041992916
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2010,,0.994520548
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2010,,0.038340469
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2010,,0.994520548
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2010,,0.036133306
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2010,,0.997260274
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2010,,0.03520056
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2010,,0.997260274
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2010,,0.035681511
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2010,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2011,,0.037500571
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2011,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2011,,0.031464008
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2011,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2011,,0.022615655
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2011,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2011,,0.017059372
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2011,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2011,,0.011869476
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2011,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2011,,0.009295801
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2011,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2012,,1
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2012,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2012,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2012,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,0.97
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,0.981
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,0.9799
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,0.98
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,0.993
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,0.992
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2014,,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2014,0,0.99
-DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2014,0,0.99
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2011,,16.15121434
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2011,,0.007502846
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2011,,12
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2011,,16.22616197
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2011,,0.010714644
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2011,,7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2011,,16.52595249
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2011,,0.00614267
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2011,,9
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2011,,16.26363578
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2011,,0.005458464
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2011,,7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2011,,16.48847868
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2011,,0.005193899
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2011,,14
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2011,,16.26363578
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2011,,0.005286561
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2011,,14
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2011,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,12/10/2011,,13.94025924
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2012,,0.004822969
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2012,,12
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,1/10/2012,,14.01520687
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2012,,0.004323096
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2012,,13
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,2/10/2012,,13.60299491
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2012,,0.003974478
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2012,,15
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,3/10/2012,,13.52804728
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2012,,0.00608224
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2012,,13
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,4/10/2012,,12.70362334
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2012,,0.005821449
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2012,,10
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,5/10/2012,,13.37815202
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2012,,0.006873012
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2012,,6
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2012,,13.45309965
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2012,,0.007118383
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2012,,6
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2012,,13.15330913
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2012,,0.007679073
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2012,,12
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2012,,12.29141138
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2012,,0.008782298
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2012,,10
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2012,,1
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2012,,12.02909467
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2012,,0.006647811
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2012,,12
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2012,,0.99
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2012,,11.31709218
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2012,,0.005903996
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2012,,11
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2012,,0.99
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2012,,11.69183033
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2012,,0.006117342
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,12/10/2012,,13
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2012,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,12/10/2012,,11.80425178
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2013,,0.006877406
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2013,,7.7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,1/10/2013,,13.00341386
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2013,,0.006765963
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2013,,7.7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,2/10/2013,,13.94025924
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2013,,0.008123048
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2013,,7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,3/10/2013,,14.16510213
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2013,,0.008123664
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2013,,6.578982846
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,4/10/2013,,14.76468318
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2013,,0.01
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2013,,7.4
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2013,,0.97
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,5/10/2013,,14.2
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,6/10/2013,,4.1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2013,,0.011
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2013,,7.6
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2013,,0.981
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,6/10/2013,,14.3
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,7/10/2013,,5.48
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2013,,0.012
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2013,,7.5
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,7/10/2013,,14.65
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,8/10/2013,,4.03
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2013,,0.012
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2013,,7.33
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2013,,0.9799
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,8/10/2013,,14.65
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,9/10/2013,,3.55
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2013,,0.012
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2013,,7.496
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2013,,13.266
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,10/10/2013,,3.9
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2013,,0.008
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2013,,7.4
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2013,,13.45
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,11/10/2013,,2.07
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,11/10/2013,,0.005
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,11/10/2013,,7.7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2013,,0.98
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2013,,12.97
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,12/10/2013,,0.005781
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2013,,0.99
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,1/10/2014,,5.83
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,1/10/2014,,0.0066
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,1/10/2014,,7.5
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2014,,0.993
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,2/10/2014,,4.13
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,2/10/2014,,0.006
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,2/10/2014,,7.5
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2014,,0.992
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,3/10/2014,,3.72
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,3/10/2014,,0.007
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,3/10/2014,,7.7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,3/10/2014,,0.99
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,4/10/2014,,1.54
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,4/10/2014,,0.007
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,4/10/2014,,7.5
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,4/10/2014,,0.99
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,5/10/2014,,1.6
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,5/10/2014,,0.009
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,5/10/2014,,7.2
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,5/10/2014,,0.99
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,6/10/2014,,1.8
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,6/10/2014,,0.011
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,6/10/2014,,7.3
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2014,,0.99
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,7/10/2014,,3.47
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,7/10/2014,,0.011
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,7/10/2014,,7.8
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2014,,0.99
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,8/10/2014,6471,0.653831711
+DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),8/10/2014,200,0.37
+DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,8/10/2014,264,0.477
+DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),8/10/2014,101,0.634
+DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),8/10/2014,986,1
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,8/10/2014,,2.85
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,8/10/2014,,0.013
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,8/10/2014,,8.4
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2014,,0.99
+DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,9/10/2014,5970,0.663878727
+DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),9/10/2014,104,0.683
+DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,9/10/2014,479,0.685
+DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),9/10/2014,82,0.817
+DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),9/10/2014,832,0.998
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,9/10/2014,,5.16
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2014,,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,9/10/2014,,0.011
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,9/10/2014,,8.4
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2014,0,0.99
+DWM,dwm_quality_complaint,% of Service Requests Completed Within Target Timeframe – Drinking Water Quality Complaint (call to resolution),10/10/2014,70,0.743
+DWM,dwm_meter_investigation,% of Service Requests Completed Within Target Timeframe – Meter investigation (call to resolution)                                                        ,10/10/2014,695,0.709
+DWM,dwm_street_flooding,% of Service Requests Completed Within Target Timeframe – Street flooding during or after rain event (call to inspection),10/10/2014,67,0.791
+DWM,dwm_new_account_request,% of Service Requests Completed Within Target Timeframe – Vacant New Account Request (call to resolution),10/10/2014,823,0.994
+DWM,billing_complaints,Billing Complaints Per 1000 Accounts,10/10/2014,,3.72
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2014,0,1
+DWM,estimated_bills,Estimated Bills As A Percent Of Bills Issued,10/10/2014,0,0.018
+DWM,infrastructure,Sewage Spills Per 100 Miles of Sewer,10/10/2014,0,8.7
+DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2014,0,0.99
 DWM,dwm_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2014,6275,0.687
 DPCD,oob_customer_service,% of Service Requests Completed Within Target Timeframe – All Service Requests,10/10/2014,7463,0.9855
