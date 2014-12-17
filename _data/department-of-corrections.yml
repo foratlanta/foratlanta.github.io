@@ -3,7 +3,7 @@
   charts:
     - title: Detention Center Population
       summary: The City of Atlanta Detention Center houses persons arrested on city ordinance charges and those sentenced by judges in certain criminal trials. Detention Center populations are measured at least 3 times a day and the average of all daily counts shows the estimated Detention Center population at any given time during the month (blue). The number of inmates booked (red) and released (blue) includes inmates that stay in the municipal Detention Center for any amount of time. This includes pre-trial inmates arrested, but not yet sentenced.
-      description: Average daily Detention Center population for fiscal year 2014 was above the fiscal year 2013 population for most of the year, though jail population has started to trend down in recent months. Much of this extra population is driven by housing inmates temporarily from federal agencies, which also helps maximize space and offset costs.
+      description: Average daily Detention Center population for fiscal year 2014 was above the fiscal year 2013 population by 25%. Much of this extra population is driven by housing inmates temporarily from federal agencies, which also helps maximize space and offset costs.
       note:  Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
@@ -35,7 +35,7 @@
   charts:
     - title: Community Partnerships and Inmate Detail Hours
       summary: The Atlanta City Detention Center organizes inmate details with a number of community organizations to help clear roads and neighborhoods of debris and, most recently, helping to clean overgrown lots on vacant and abandoned properties. The number of inmate hours used each month (red) represents a count of 1 hour for each inmate detail hour completed. More recently, the Department of Corrections began tracking the number of community organizationsworking in partnership with the City to complete detail hours. The number of partnerships each month is indicated in blue.
-      description: Both of these metrics have demonstrated a clear upward trend since the start of 2011, highlighting the Department's commitment in this area.
+      description: During the beginning of 2014, harsh weather kept inmate details to a minimum. With the change in seasons, a clear trend in increasing community partnerships and inmate hours has occurred, though this could decrease in coming months due to seasonal fluctuations.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DOC
