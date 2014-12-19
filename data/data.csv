@@ -368,10 +368,10 @@ DOC,community_involvement,Number Of Inmate Detail Hours Provided,2/10/2014,,412
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,3/10/2014,,672
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,4/10/2014,,1516
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,5/10/2014,,1891
-DOC,community_involvement,Number Of Inmate Detail Hours Provided,6/10/2014,,0
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,6/10/2014,,1658
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,7/10/2014,,1607
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,8/10/2014,,1428
-DOC,community_involvement,Number Of Inmate Detail Hours Provided,9/10/2014,,0
+DOC,community_involvement,Number Of Inmate Detail Hours Provided,9/10/2014,,1078
 DOC,community_involvement,Number Of Inmate Detail Hours Provided,10/10/2014,,1380
 DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,1/10/2013,,1
 DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,2/10/2013,,1
@@ -1450,3 +1450,6 @@ DPR,youth_programming,Total Youth Served In Recreation Center Programs,6/10/2014
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,7/10/2014,,1388
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,8/10/2014,,721
 DPR,youth_programming,Total Youth Served In Recreation Center Programs,9/10/2014,,785
+DPR,youth_programming,Total Youth Enrolled In After-School/Camp Best Friends Programs,10/10/2014,,1197
+DPR,youth_programming,Total Youth Served In Recreation Center Programs,10/10/2014,,589
+APD,e911_call_center,% Calls Answered In 10 Seconds or Less,2/10/2014,,0.91
