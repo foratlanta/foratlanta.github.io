@@ -74,7 +74,7 @@
   charts:
   - title: Garbage, recycling and yard waste collected on schedule
     summary: Household garbage, recycling and yard trimmings are collected weekly on the scheduled collection day.
-    description: Most collection schedules handle all garbage, recycling and yard waste pick ups at the same time. When there are equipment or staff constraints, garbage and recycling become the top priority. Garbage has not dropped below 99% collection rate since 2012
+    description: Most collection schedules handle all garbage, recycling and yard waste pickups at the same time. When there are equipment or staff constraints, garbage and recycling become the top priority. Garbage has not dropped below 99% collection rate since 2012
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -123,7 +123,7 @@
       series2-label: Resolved Within Target Timeframe
 
     - title: Concrete Repair Service Requests
-      summary: The Office of Transportation, often in cooperation with neighborhood associations, will repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
+      summary: The Office of Transportation, often in cooperation with neighborhood associations, endeavors to repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
       description: The City receives an average of ~200 requests per month. Performance has fluctuated significantly throughout the year, and has dropped off recently as the volume of service requests increased sharply.  The Office has adjusted staffing plans to account for this and expects performance to improve before the end of 2014.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
