@@ -53,7 +53,7 @@
     series2-label: Resolved Within Target Timeframe
 
   - title: Missed Collections Service Requests
-    summary: The City makes an estimated 360,000 garbage, recycle, and yard trimmings per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin.
+    summary: The City makes an estimated 360,000 garbage, recycle, and yard trimming collections per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin.
     description: With an average of slightly under 1,000 missed collection requests per month (less than 0.5% of total bins collected per month), performance has trended upwards and has been above its 90% target for most of 2014.
     note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
@@ -74,7 +74,7 @@
   charts:
   - title: Garbage, recycling and yard waste collected on schedule
     summary: Household garbage, recycling and yard trimmings are collected weekly on the scheduled collection day.
-    description: Most collection schedules handle all garbage, recycling and yard waste pickups at the same time. When there are equipment or staff constraints, garbage and recycling become the top priority. Garbage has not dropped below 99% collection rate since 2012
+    description: Most collection schedules handle all garbage, recycling and yard waste pickups at the same time. When there are equipment or staff constraints, garbage and recycling pickups become the top priority. Garbage has not dropped below 99% collection rate since 2012
     note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -107,7 +107,7 @@
 
     - title: Asphalt and Street Repair Service Requests
       summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs.
-      description: With an average of over 400 requests per month, performance hoevered around 70% through most 2014.  Recently, performance has improved significantly.
+      description: With an average of over 400 requests per month, performance hovered around 70% through most of 2014.  Recently, performance has improved significantly.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
