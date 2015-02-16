@@ -242,8 +242,6 @@ DOA,cargo_volume,Cargo Volume Change,8/10/2014,394802,0
 DOA,cargo_volume,Cargo Volume Change,9/10/2014,444966,-0.01
 DOA,cargo_volume,Cargo Volume Change,10/10/2014,54717,-0.0046
 DOA,cargo_volume,Cargo Volume Change,11/10/2014,50589,-0.0263
-DOA,cargo_volume,Cargo Volume Change,10/10/2014,54717,0
-DOA,cargo_volume,Cargo Volume Change,11/10/2014,50589,-0.03
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,8/10/2013,,1072
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,9/10/2013,,1098
 CODE,code_compliance_complaints,Backlog: Total Open Cases With Past-Due Inspection,10/10/2013,,908
@@ -422,8 +420,8 @@ DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Complian
 DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2014,,1
 DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,9/10/2014,,1
 DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,10/10/2014,,1
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2014,0,100
-DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2014,0,100
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,11/10/2014,,1
+DWM,compliance,Drinking Water Compliance Rate As % Of Prior 365 Days In Compliance,12/10/2014,,1
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,6/10/2010,,0.99
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,7/10/2010,,0.99
 DWM,compliance,Wastewater Treatment Compliance Rate As % Of Prior 365 Days In Compliance,8/10/2010,,0.99
@@ -568,7 +566,7 @@ APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,7/10/2014,,-
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,8/10/2014,,-0.04
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,9/10/2014,,-0.04
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,10/10/2014,,-0.03
-APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,11/10/2014,,4
+APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 5,11/10/2014,,0.04
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,6/10/2013,,0.08
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,7/10/2013,,0.06
 APD,crime_by_zone,YTD % Change Year Over Year In UCR Crime - Zone 6,8/10/2013,,0.04
@@ -604,8 +602,7 @@ COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,8/10/2014,202
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,9/10/2014,1949,0.45
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,10/10/2014,1979,0.42
 COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,11/10/2014,1460,0.44
-COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,11/10/2014,1560,0.39
-COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,12/10/2014,1460,0.44
+COURT,criminal_cases,% Criminal Tickets Adjudicated within 10 Days,12/10/2014,1560,0.39
 DOA,customs_processing_time,Average Customs Processing Time,1/10/2014,,9.08
 DOA,customs_processing_time,Average Customs Processing Time,2/10/2014,,8.93
 DOA,customs_processing_time,Average Customs Processing Time,3/10/2014,,11.45
@@ -615,7 +612,6 @@ DOA,customs_processing_time,Average Customs Processing Time,6/10/2014,,8.75
 DOA,customs_processing_time,Average Customs Processing Time,7/10/2014,,8.5
 DOA,customs_processing_time,Average Customs Processing Time,8/10/2014,,9.5
 DOA,customs_processing_time,Average Customs Processing Time,10/10/2014,,8.75
-DOA,customs_processing_time,Average Customs Processing Time,11/10/2014,,0
 DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,1/10/2014,237,0.67
 DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,2/10/2014,138,0.93
 DPR,dpr_arborist,% of Service Requests Completed Within Target Timeframe – Arborist Service Requests,3/10/2014,174,0.95
@@ -893,7 +889,6 @@ DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,9/10/2013,,13.27
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,10/10/2013,,13.45
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2013,,12.97
 DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,11/10/2014,,12.03
-DWM,infrastructure,Water System Breaks Per 100 Miles of Pipe,12/10/2014,,
 DOC,jail_population,Average Daily Population Of Jail,1/10/2010,,447
 DOC,jail_population,Average Daily Population Of Jail,2/10/2010,,475
 DOC,jail_population,Average Daily Population Of Jail,3/10/2010,,529
@@ -1190,8 +1185,6 @@ DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,9/10/2014
 DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,10/10/2014,,0.87
 DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,11/10/2014,,0.75
 DPR,park_maintenance,% Park Trimming and Blowing Completed on Schedule,12/10/2014,,0.79
-DOA,passenger_volume,Passengers Accomodated YTD,10/10/2014,,80693034
-DOA,passenger_volume,Passengers Accomodated YTD,11/10/2014,,88358577
 DOA,passenger_volume,Passengers Change,1/10/2012,6800851,0.07
 DOA,passenger_volume,Passengers Change,2/10/2012,13537637,0.08
 DOA,passenger_volume,Passengers Change,3/10/2012,21758657,0.04
@@ -1473,7 +1466,7 @@ DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,7/10/2014,
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,8/10/2014,,1
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,9/10/2014,,0.97
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,10/10/2014,,0.99
-DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,11/10/2014,,99.89
+DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,11/10/2014,,0.9989
 DPW,solid_waste_operations,% Yard Waste Pickups Collected On Schedule,12/10/2014,,1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,7/10/2013,14918,0.1
 COURT,traffic_cases,% Traffic Tickets Adjudicated within 10 Days,8/10/2013,12770,0.1
