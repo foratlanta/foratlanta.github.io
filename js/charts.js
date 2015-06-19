@@ -26,7 +26,7 @@ $('.report-chart-container').each(function(index, element) {
 
     // fetch the options set in the YAML using the Id
     var optionRefs = _.find(chartOptions, {
-        id: chartId,
+        id: chartId
     });
 
     // get chart data
