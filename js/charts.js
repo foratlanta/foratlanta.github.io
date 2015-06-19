@@ -22,8 +22,6 @@ $('.report-chart-container').each(function(index, element) {
     var chartName = $(element).data('source');
     var chartId = $(element).attr('id');
 
-
-
     // fetch the options set in the YAML using the Id
     var optionRefs = _.find(chartOptions, {
         id: chartId
