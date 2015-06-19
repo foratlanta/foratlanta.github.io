@@ -14,13 +14,17 @@
                     'metric':'{{ chart.series1-metric }}',
                     'type':'{{ chart.series1-type }}',
                     'format':'{{ chart.series1-format}}',
-                    'label':'{{ chart.series1-label}}'
+                    'label':'{{ chart.series1-label}}',
+                    'max':'{{ chart.series1-max }}',
+                    'min': '{{ chart.series1-min }}'
                 },{
                     {% if chart.series2-metric %}
                     'metric':'{{ chart.series2-metric }}',
                     'type':'{{ chart.series2-type }}',
                     'format':'{{ chart.series2-format}}',
-                    'label':'{{ chart.series2-label}}'
+                    'label':'{{ chart.series2-label}}',
+                    'max': '{{ chart.series2-max }}',
+                    'min': '{{ chart.series2-min }}'
                     {% endif %}
                 }]
             });

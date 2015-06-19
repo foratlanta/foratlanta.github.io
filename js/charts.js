@@ -22,11 +22,14 @@ $('.report-chart-container').each(function(index, element) {
     var chartName = $(element).data('source');
     var chartId = $(element).attr('id');
 
+
+
     // fetch the options set in the YAML using the Id
     var optionRefs = _.find(chartOptions, {
-        id: chartId
+        id: chartId,
     });
 
+    console.log(optionRefs);
     // get chart data
     chartData = _.where(csvData, {
         Chart: chartName
@@ -34,6 +37,12 @@ $('.report-chart-container').each(function(index, element) {
 
     // filter the data for series
     var dataSet = Jam.filter(chartData, 'Metric', optionRefs);
+
+    dataSet.yAxis[0].min = optionRefs.axis[0].min == '' ? undefined : optionRefs.axis[0].min;
+    dataSet.yAxis[0].max = optionRefs.axis[0].max == '' ? undefined : optionRefs.axis[0].max;
+    dataSet.yAxis[1].min = optionRefs.axis[1].min == '' ? undefined : optionRefs.axis[1].min;
+    dataSet.yAxis[1].max = optionRefs.axis[1].max == '' ? undefined : optionRefs.axis[1].max;
+
 
     // set chart options
     var options = {
@@ -101,6 +110,6 @@ $('.report-chart-container').each(function(index, element) {
             tickmarkPlacement: 'outside',
         }],
     }
-
+    console.log(options);
     $(element).highcharts(options);
 });
