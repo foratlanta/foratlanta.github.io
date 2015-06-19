@@ -29,7 +29,6 @@ $('.report-chart-container').each(function(index, element) {
         id: chartId,
     });
 
-    console.log(optionRefs);
     // get chart data
     chartData = _.where(csvData, {
         Chart: chartName
