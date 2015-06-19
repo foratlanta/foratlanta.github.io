@@ -107,6 +107,6 @@ $('.report-chart-container').each(function(index, element) {
             tickmarkPlacement: 'outside',
         }],
     }
-    console.log(options);
+
     $(element).highcharts(options);
 });
