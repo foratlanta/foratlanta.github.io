@@ -13,10 +13,14 @@
       series1-type: column
       series1-format: number
       series1-label: Cases filed
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Disposed of within 10 days
+      series2-min:
+      series2-max:
 
 - group-title: Section II - Traffic Cases
   group-description:
@@ -33,7 +37,11 @@
       series1-type: column
       series1-format: number
       series1-label: Cases filed
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Disposed of within 10 days
+      series2-min:
+      series2-max:

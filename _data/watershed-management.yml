@@ -13,10 +13,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
     - title: Turning On New Account Service Requests
       summary: This figure measures the number of new customer account requests that DWM receives each month. It also measures the Department’s responsiveness in activating those accounts within 24 hours of the request being made.
@@ -30,10 +34,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
 
     - title: Meter Investigation Service Requests
@@ -48,10 +56,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
     - title: Street Flooding Inspection Service Requests
       summary: This figure measures DWM’s responsiveness to customer service calls about water pooling in city streets. Because this pooling can be a symptom of several different problems, the first course of action is always for Watershed staff to inspect the site and determine the root cause of the problem. DWM has a goal of responding to all such customer calls and initiating an inspection within 4 hours.
@@ -65,10 +77,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Inspected Within Target Timeframe
+      series2-min:
+      series2-max:
 
 
     - title: Drinking Water Quality Complaint Service Requests
@@ -83,10 +99,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
 - group-title: Section II - Billing
   group-description:
@@ -103,6 +123,8 @@
       series1-type: line
       series1-format: percentage
       series1-label: Percent Estimated Bills
+      series1-min:
+      series1-max:
 
     - title: Billing Complaints per 1000 Accounts
       summary: This figure shows the number of billing complaints the Department receives from customers each month.
@@ -116,6 +138,8 @@
       series1-type: column
       series1-format: number
       series1-label: Complaints per 1000 Accounts
+      series1-min:
+      series1-max:
 
 - group-title: Section III - Infrastructure
   group-description:
@@ -132,6 +156,8 @@
       series1-type: line
       series1-format: number
       series1-label: Number
+      series1-min:
+      series1-max:
 
 - group-title: Section IV - Compliance
   group-description:
@@ -148,3 +174,5 @@
       series1-type: line
       series1-format: percentage
       series1-label: Percentage of Days in Compliance
+      series1-min:
+      series1-max:      

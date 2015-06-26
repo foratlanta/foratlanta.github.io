@@ -35,11 +35,14 @@ $('.report-chart-container').each(function(index, element) {
     // filter the data for series
     var dataSet = Jam.filter(chartData, 'Metric', optionRefs);
 
-    dataSet.yAxis[0].min = optionRefs.axis[0].min == '' ? undefined : optionRefs.axis[0].min;
-    dataSet.yAxis[0].max = optionRefs.axis[0].max == '' ? undefined : optionRefs.axis[0].max;
-    dataSet.yAxis[1].min = optionRefs.axis[1].min == '' ? undefined : optionRefs.axis[1].min;
-    dataSet.yAxis[1].max = optionRefs.axis[1].max == '' ? undefined : optionRefs.axis[1].max;
-
+    if(dataSet.yAxis[0] != undefined ) {
+      dataSet.yAxis[0].min = optionRefs.axis[0].min == '' ? undefined : optionRefs.axis[0].min;
+      dataSet.yAxis[0].max = optionRefs.axis[0].max == '' ? undefined : optionRefs.axis[0].max;
+    }
+    if(dataSet.yAxis[1] != undefined ) {
+      dataSet.yAxis[1].min = optionRefs.axis[1].min == '' ? undefined : optionRefs.axis[1].min;
+      dataSet.yAxis[1].max = optionRefs.axis[1].max == '' ? undefined : optionRefs.axis[1].max;
+    }
 
     // set chart options
     var options = {

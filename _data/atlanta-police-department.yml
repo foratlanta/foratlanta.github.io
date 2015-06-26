@@ -13,6 +13,8 @@
       series1-type: column
       series1-format: percentage
       series1-label: Year Over Year Change
+      series1-min:
+      series1-max:
 
     - title: Change in crime By Police Zone
       summary: APD organizes its field division into 6 administrative zones.  APD actively monitors changes and compares crime across these different zones as part of its improvement efforts.  The YTD change in major crimes, as defined by the FBI, compared to the year before for each zone is shown below.
@@ -26,7 +28,8 @@
       series1-type: column
       series1-format: percentage
       series1-label: Year Over Year Change
-
+      series1-min:
+      series1-max:
 
 
 - group-title: Section II - e911 Call Center
@@ -44,7 +47,11 @@
       series1-type: column
       series1-format: number
       series1-label: Total Dispatched Calls
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Answered Within 10 Seconds
+      series2-min:
+      series2-max:

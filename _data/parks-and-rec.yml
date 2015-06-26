@@ -13,10 +13,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
     - title: Arborist Service Requests
       summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborists for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous and require maintenance such as pruning or removal. The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
@@ -30,10 +34,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
     - title: Forestry Service Requests
       summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right-of-way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
@@ -47,10 +55,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
     - title: Skilled Services Service Requests
       summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
@@ -64,10 +76,14 @@
       series1-type: column
       series1-format: Number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
 
 - group-title: Section II - Park Maintenance
   group-description:
@@ -84,6 +100,8 @@
       series1-type: line
       series1-format: percentage
       series1-label: Completed on Schedule
+      series1-min:
+      series1-max:
 
 - group-title: Section III - Recreation Center Attendance and Programming
   group-description: The Office of Recreation currently manages an array of facilities which include thirty-three recreation centers, Centers of Hope, indoor and outdoor pools, spray grounds, tennis courts, basketball courts, ball fields, playgrounds, and tennis centers. The charts below show data on facility vists, membership and youth attendance. Please note that the numbers below reflect only the X facilities that are managed/operated by the Department.  The Department has X facilities that are managed through a third party via an MOU agreement.
@@ -100,6 +118,8 @@
       series1-type: column
       series1-format: number
       series1-label: Total people
+      series1-min:
+      series1-max:
     - title: Recreation Center Memberships
       summary: The chart below shows the total active memberships at Recreation facilities.
       description: Since the Department started tracking attendance data via its iParks application in July 2014, active memberships have ranged from 3,200-5,300. This number fluctuates significantly based on seasonality, with higher numbers coming in summer months.
@@ -110,6 +130,8 @@
       series1-type: column
       series1-format: number
       series1-label: Total memberships
+      series1-min:
+      series1-max:
 
     - title: Youth Attendance and Programming
       summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs.
@@ -123,3 +145,5 @@
       series1-type: column
       series1-format: number
       series1-label: Total Youth Served
+      series1-min:
+      series1-max:      

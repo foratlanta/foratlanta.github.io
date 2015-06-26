@@ -13,6 +13,8 @@
       series1-type: line
       series1-format: number
       series1-label: Number of Inmates
+      series1-min:
+      series1-max:
 
 - group-title: Section II - Safety and Security
   group-description:
@@ -29,6 +31,8 @@
       series1-type: line
       series1-format: number
       series1-label: Number of Incidents
+      series1-min:
+      series1-max:
 
 - group-title: Section III - Community Partnerships
   group-description:
@@ -45,3 +49,5 @@
       series1-type: line
       series1-format: number
       series1-label: Total Number
+      series1-min:
+      series1-max:

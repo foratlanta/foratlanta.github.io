@@ -2,7 +2,7 @@
   group-description:
   charts:
     - title: Total Fire Calls For Service
-      summary: Total number of fire calls for service responded to by the Fire Rescue Department, a measure of the volume of calls that the Department handles each month. 
+      summary: Total number of fire calls for service responded to by the Fire Rescue Department, a measure of the volume of calls that the Department handles each month.
       description: Since June of 2014, the Department has had between 750 and 900 fire-related calls for service each month.
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
@@ -13,6 +13,8 @@
       series1-type: column
       series1-format: number
       series1-label: Total Fire Calls For Service
+      series1-min:
+      series1-max:
 
     - title: Fire Response Performance
       summary: Of all of the fire calls for service responded to in a given month, 90% of the time the responders were able to leave the station (turnout time) and arrive at the incident (first due response time) in the listed time or less. Data on response times are presented at the 90th percentile, which is consistent with the practices of the Commission on Fire Accreditation International.  A traditional “average” (mean, median or mode) does not give the best indication of the distribution of the data (i.e. outliers).
@@ -26,6 +28,8 @@
       series1-type: line
       series1-format: number
       series1-label: Seconds
+      series1-min:
+      series1-max:
 
 - group-title: Section II - EMS
   group-description:
@@ -42,6 +46,8 @@
       series1-type: column
       series1-format: number
       series1-label: Total EMS Calls For Service
+      series1-min:
+      series1-max:
 
     - title: EMS Response Performance
       summary: Of all of the EMS calls for service responded to in a given month, 90% of the time the responders were able to leave the station (turnout time) and arrive at the incident (first due response time) in the listed time or less. Data on response times are presented at the 90th percentile, which is consistent with the practices of the Commission on Fire Accreditation International.  A traditional “average” (mean, median or mode) does not give the best indication of the distribution of the data (i.e. outliers).
@@ -55,3 +61,5 @@
       series1-type: line
       series1-format: number
       series1-label: Seconds
+      series1-min:
+      series1-max:
