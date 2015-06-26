@@ -8,6 +8,8 @@
       size: full
       department: COURT
       datasource: criminal_cases
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -32,6 +34,8 @@
       size: full
       department: COURT
       datasource: traffic_cases
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column

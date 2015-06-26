@@ -16,7 +16,9 @@
                     'format':'{{ chart.series1-format}}',
                     'label':'{{ chart.series1-label}}',
                     'max':'{{ chart.series1-max }}',
-                    'min': '{{ chart.series1-min }}'
+                    'min': '{{ chart.series1-min }}',
+                    'targetLabel': '{{ chart.targetLabel }}',
+                    'targetBenchmark': '{{ chart.targetBenchmark }}'
                 },{
                     {% if chart.series2-metric %}
                     'metric':'{{ chart.series2-metric }}',
@@ -24,7 +26,7 @@
                     'format':'{{ chart.series2-format}}',
                     'label':'{{ chart.series2-label}}',
                     'max': '{{ chart.series2-max }}',
-                    'min': '{{ chart.series2-min }}'
+                    'min': '{{ chart.series2-min }}',
                     {% endif %}
                 }]
             });

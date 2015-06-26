@@ -8,6 +8,8 @@
       size: full
       department: DOC
       datasource: jail_population
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -26,6 +28,8 @@
       size: full
       department: DOC
       datasource: safety_and_security
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -44,6 +48,8 @@
       size: full
       department: DOC
       datasource: community_involvement
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line

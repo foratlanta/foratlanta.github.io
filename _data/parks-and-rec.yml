@@ -8,6 +8,8 @@
       size: full
       department: DPR
       datasource: dpr_customer_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -20,7 +22,7 @@
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
-      series2-max:
+      series2-max: 
 
     - title: Arborist Service Requests
       summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborists for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous and require maintenance such as pruning or removal. The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
@@ -29,6 +31,8 @@
       size: half
       department: DPR
       datasource: dpr_arborist
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -50,6 +54,8 @@
       size: half
       department: DPR
       datasource: dpr_forestry
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -71,6 +77,8 @@
       size: full
       department: DPR
       datasource: dpr_skilled
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -95,6 +103,8 @@
       size: full
       department: DPR
       datasource: park_maintenance
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -113,6 +123,8 @@
       size: half
       department: DPR
       datasource: rec_center_attendance
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: column
@@ -126,6 +138,8 @@
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       datasource: rec_center_memberships
+      targetBenchmark:
+      targetLabel:
       series1-metric: Result
       series1-type: column
       series1-format: number
@@ -140,10 +154,12 @@
       size: full
       department: DPR
       datasource: youth_programming
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: column
       series1-format: number
       series1-label: Total Youth Served
       series1-min:
-      series1-max:      
+      series1-max:

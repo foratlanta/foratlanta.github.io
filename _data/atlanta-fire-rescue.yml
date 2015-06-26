@@ -8,6 +8,8 @@
       size: full
       department: AFR
       datasource: fire_calls_for_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -23,6 +25,8 @@
       size: full
       department: AFR
       datasource: fire_response
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -41,6 +45,8 @@
       size: full
       department: AFR
       datasource: ems_calls_for_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -56,6 +62,8 @@
       size: full
       department: AFR
       datasource: ems_response
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line

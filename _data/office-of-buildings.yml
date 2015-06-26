@@ -8,6 +8,8 @@
       size: full
       department: DPCD
       datasource: oob_customer_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -28,6 +30,8 @@
       size: half
       department: DPCD
       datasource: oob_permit_insp
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -48,6 +52,8 @@
       size: half
       department: DPCD
       datasource: oob_plan_review
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -65,6 +71,8 @@
       size: full
       department: DPCD
       datasource: building_permits_overall
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -77,7 +85,7 @@
       series2-format: number
       series2-label: Monthly Permits Issued
       series2-min:
-      series2-max:      
+      series2-max:
 
     - title: Detailed Breakdown of Permit Types
       summary: The figure below gives a breakdown of the permitting data by different permit types. This is important to understand from the standpoint of city operations, since one new multifamily development has a bigger impact on watershed management, transport infrastructure and public safety services than a single new residential home, for example.
@@ -86,6 +94,8 @@
       size: full
       department: DPCD
       datasource: building_permits_detail
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line

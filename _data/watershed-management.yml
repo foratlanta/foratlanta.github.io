@@ -8,6 +8,8 @@
       size: full
       department: DWM
       datasource: dwm_customer_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -29,6 +31,8 @@
       size: half
       department: DWM
       datasource: dwm_new_account_request
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -51,6 +55,8 @@
       size: half
       department: DWM
       datasource: dwm_meter_investigation
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -72,6 +78,8 @@
       size: half
       department: DWM
       datasource: dwm_street_flooding
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -94,6 +102,8 @@
       size: half
       department: DWM
       datasource: dwm_quality_complaint
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -118,6 +128,8 @@
       size: half
       department: DWM
       datasource: estimated_bills
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -133,6 +145,8 @@
       size: half
       department: DWM
       datasource: billing_complaints
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -151,6 +165,8 @@
       size: full
       department: DWM
       datasource: infrastructure
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -169,10 +185,12 @@
       size: full
       department: DWM
       datasource: compliance
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: line
       series1-format: percentage
       series1-label: Percentage of Days in Compliance
       series1-min:
-      series1-max:      
+      series1-max:

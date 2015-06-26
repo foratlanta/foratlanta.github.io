@@ -8,6 +8,8 @@
       size: full
       department: APD
       datasource: overall_crime
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -23,6 +25,8 @@
       size: full
       department: APD
       datasource: crime_by_zone
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: column
@@ -42,6 +46,8 @@
       size: full
       department: APD
       datasource: e911_call_center
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column

@@ -8,6 +8,8 @@
       size: full
       department: CODE
       datasource: code_customer_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -29,6 +31,8 @@
       size: half
       department: CODE
       datasource: code_pm
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -49,6 +53,8 @@
       size: half
       department: CODE
       datasource: code_hh
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -72,6 +78,8 @@
       size: full
       department: CODE
       datasource: code_compliance_complaints
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: column
