@@ -116,7 +116,13 @@ $('.report-chart-container').each(function(index, element) {
                 if (this.point.yFormat == 'percentage') {
                     pointValue = Math.round(this.y * 100) + '%';
                 }
-                point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span>';
+                if (this.point.explanation != '' || this.point.explanation != undefined) {
+                  point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span><br /><span style="font-size: 10px">' + this.point.explanation + '</span>';
+                }
+                if (this.point.explanation == '' || this.point.explanation == undefined) {
+                  point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span>';
+                }
+
                 return head + point;
             }
         },
