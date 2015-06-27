@@ -9,8 +9,22 @@ category: operational-departments
   <p>The Department of Watershed Management is dedicated to providing the highest quality drinking water and waste water services to residential, business and wholesale customers. The Department’s mission includes delivering excellent customer service and ensuring professional stewardship of Atlanta’s drinking water, waste water and storm water systems.  In addition, work is under way on the second or “first amended” consent decree.</p>
   <p>This page provides performance data on key indicators related to core areas of the Department’s operations – Customer Service, Billing, Infrastructure Management and Compliance.</p>
   <p>In August 2014, in preparation for the launch of the City's new 311 call center, the Department undertook an extensive review and update of the service level agreements (SLAs) and performance targets for all of the 50+ Service Request types that it handles.  To ensure data quality and comparability across time, the starting point of the Department's Customer Service data on this page will be August 2014.</p>
-</div>
 
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.watershed-management %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
+</div>
 <div class="report-group-body">
   {% for group in site.data.watershed-management %}
   <header class="report-group-heading">

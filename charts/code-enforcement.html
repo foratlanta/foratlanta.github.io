@@ -8,8 +8,22 @@ category: operational-departments
   <h1>Office of Code Enforcement</h1>
   <p>The Office of Code Enforcement is housed within the Atlanta Police Department.  It is responsible for the inspection and enforcement of residential and commercial properties that violate the Atlanta Housing Code, Graffiti Ordinance, and/or Commercial Maintenance and Industrial Code.  The Office’s mission is to ensure safe and sanitary conditions in housing and commercial properties through effective code enforcement efforts. </p>
   <p>This page provides performance data on key indicators related to the Office’s ability to efficiently inspect and address Code compliance complaints.</p>
-</div>
 
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.code-enforcement %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
+</div>
 <div class="report-group-body">
   {% for group in site.data.code-enforcement %}
   <header class="report-group-heading">
