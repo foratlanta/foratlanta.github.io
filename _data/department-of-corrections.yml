@@ -17,6 +17,7 @@
       series1-label: Number of Inmates
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
 
 - group-title: Section II - Safety and Security
   group-description:
@@ -37,6 +38,7 @@
       series1-label: Number of Incidents
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
 
 - group-title: Section III - Community Partnerships
   group-description:
@@ -57,3 +59,4 @@
       series1-label: Total Number
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:

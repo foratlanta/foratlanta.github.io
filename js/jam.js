@@ -58,6 +58,7 @@ var Jam = (function() {
                         name: item.key[xAxisRef],
                         type: axis.type,
                         yAxis: index,
+                        useCsvMetricForXaxisLabel: axis.label,
                         data: _.map(item.vals, function(element) {
                             var rDate = new Date(Date.parse(element.Date));
                             additionalInfo = element.Explanation;
@@ -74,7 +75,7 @@ var Jam = (function() {
                         })
                     });
 
-                    if (!_.isEmpty(yAxisOptions.axis[1])) {
+                    if (!_.isEmpty(yAxisOptions.axis[1]) && (axis.useCsvMetricForXaxisLabel == undefined || axis.useCsvMetricForXaxisLabel == false)) {
                         set.name = axis.label
                     }
                     series.push(set);

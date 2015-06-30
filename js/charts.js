@@ -35,6 +35,7 @@ $('.report-chart-container').each(function(index, element) {
     // filter the data for series
     var dataSet = Jam.filter(chartData, 'Metric', optionRefs);
     var iq;
+
     for (iq = 0; iq < 2; iq++) {
       if(dataSet.yAxis[iq] != undefined ) {
         dataSet.yAxis[iq].min = optionRefs.axis[iq].min == '' ? undefined : optionRefs.axis[iq].min;

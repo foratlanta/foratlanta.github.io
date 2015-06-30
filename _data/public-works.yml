@@ -17,12 +17,14 @@
     series1-label: Total Service Requests
     series1-min:
     series1-max:
+    series1-useCsvMetricForXaxisLabel:
     series2-metric: Result
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
     series2-min:
     series2-max:
+    series2-useCsvMetricForXaxisLabel:
 
   - title: Bin Delivery and Pickup Service Requests
     summary: The City supplies a 96 gallon green garbage can and a 96 gallon blue recycling bin to all new residents (single-family), and replacement bins for a cost to those who request them.
@@ -40,12 +42,14 @@
     series1-label: Total Service Requests
     series1-min:
     series1-max:
+    series1-useCsvMetricForXaxisLabel:
     series2-metric: Result
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
     series2-min:
     series2-max:
+    series2-useCsvMetricForXaxisLabel:
 
   - title: Illegal Dumping Service Requests
     summary: The City of Atlanta collects illegal dumping from the city right-of-way and from the City's known dump sites. If the dump site is causing a visibility issue in the public right-of-way, the City will remove the obstruction within 2 - 15 days, depending on the level of hazard presented.
@@ -63,12 +67,14 @@
     series1-label: Total Service Requests
     series1-min:
     series1-max:
+    series1-useCsvMetricForXaxisLabel:
     series2-metric: Result
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
     series2-min:
     series2-max:
+    series2-useCsvMetricForXaxisLabel:
 
   - title: Missed Collections Service Requests
     summary: The City makes an estimated 360,000 garbage, recycle, and yard trimming collections per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin.
@@ -86,12 +92,14 @@
     series1-label: Total Service Requests
     series1-min:
     series1-max:
+    series1-useCsvMetricForXaxisLabel:
     series2-metric: Result
     series2-type: line
     series2-format: percentage
     series2-label: Resolved Within Target Timeframe
     series2-min:
     series2-max:
+    series2-useCsvMetricForXaxisLabel:
 
 - group-title: Section II - Solid Waste Operations
   group-description:
@@ -112,6 +120,7 @@
     series1-label: Percent collected on schedule
     series1-min:
     series1-max:
+    series1-useCsvMetricForXaxisLabel:
 
 - group-title: Section III - Office of Transportation Customer Service
   group-description: Total customer-initiated service requests and the percentage of those service requests that were resolved within the OOT's target timeframes
@@ -132,12 +141,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Asphalt and Street Repair Service Requests
       summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs.
@@ -155,12 +166,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Concrete Repair Service Requests
       summary: The Office of Transportation, often in cooperation with neighborhood associations, endeavors to repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
@@ -178,12 +191,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Street Sign Repair and Replacement Service Requests
       summary: If a street sign is reported as in need of repair or replacement (e.g. broken, blotted out, removed), a transportation inspector will investigate and order a repair or replacement as needed.
@@ -202,12 +217,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
     - title: Street Markings Service Requests
       summary: If markings on the street are worn or missing (including lane dividers, crosswalks, bike lanes) the Office of Transportation will draw new markings as appropriate.
       description: With an average of ~50 requests per month, performance has demonstrated a distinct upward trend since the start of 2014.
@@ -224,12 +241,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
     - title: Traffic Signal Repair Service Requests
       summary: If a street light is reported as out or not functioning properly (including red, yellow, green traffic lights, flashers, and crosswalk signals), the city will repair and replace as appropriate.
       description: With anywhere between 500-950 requests per month, the Office can regularly meet target of between 1-23 days (depending on the urgency of traffic) over 90% of the time.
@@ -246,12 +265,14 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Street Light Repair Service Requests
       summary: The City will repair and replace necessary aspects of street lights (including flickering lights, bulb out or missing) so long as the light is on a metal pole, which indicates the pole is managed by the City of Atlanta.
@@ -269,9 +290,11 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
       series2-min:
       series2-max:
+      series2-useCsvMetricForXaxisLabel:
