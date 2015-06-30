@@ -3,12 +3,28 @@ layout: default
 title: Department of Parks and Recreation
 pid: 90
 category: operational-departments
+description: The Department of Parks and Recreation aims to enhance the lives of City of Atlanta residents and visitors by offering programs, services and activities that encourage participation in recreational activities, leisure services and cultural experiences. The Department strives to achieve this by providing safe and exceptional parks, facilities and programs.
 ---
 <div class="header">
   <h1>Department of Parks and Recreation</h1>
   <p>The Department of Parks and Recreation aims to enhance the lives of City of Atlanta residents and visitors by offering programs, services and activities that encourage participation in recreational activities, leisure services and cultural experiences. The Department strives to achieve this by providing safe and exceptional parks, facilities and programs. </p>
   <p>This page provides performance data on key indicators related to core areas of this mission – Customer Service, Park Maintenance, Rec Center Attendance and Youth Programming. </p>
   <p>In January 2014, the Department began upgrading its work order management and data tracking systems. The Office of Recreation also began using its new iPARCS software to track recreation center attendance. To ensure data quality and comparability across time, the starting point of the Department's data on this page will be January 2014.</p>
+
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.parks-and-rec %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
 </div>
 <div class="report-group-body">
   {% for group in site.data.parks-and-rec %}

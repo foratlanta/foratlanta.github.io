@@ -3,11 +3,27 @@ layout: default
 title: Office of Buildings
 pid: 130
 category: operational-departments
+description: The Office of Buildings reviews, approves and issues all permits required by the City's Codes for the repair, alteration or addition to public and private buildings and structures. The Office also issues permits for new construction. The Office assists property owners in their effort to ensure that buildings are in compliance with the standards set forth in the City's Codes.
 ---
 <div class="header">
   <h1>Office of Buildings</h1>
   <p>The Office of Buildings reviews, approves and issues all permits required by the City's Codes for the repair, alteration or addition to public and private buildings and structures. The Office also issues permits for new construction. The Office assists property owners in their effort to ensure that buildings are in compliance with the standards set forth in the City's Codes.</p>
   <p>This page provides performance data on key indicators related to the Office’s customer service performance as well as overall building permit activity within the City, which is a key indicator of economic development.</p>
+
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.office-of-buildings %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
 </div>
 <div class="report-group-body">
   {% for group in site.data.office-of-buildings %}

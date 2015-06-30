@@ -34,6 +34,39 @@ $('.report-chart-container').each(function(index, element) {
 
     // filter the data for series
     var dataSet = Jam.filter(chartData, 'Metric', optionRefs);
+    var iq;
+
+    for (iq = 0; iq < 2; iq++) {
+      if(dataSet.yAxis[iq] != undefined ) {
+        dataSet.yAxis[iq].min = optionRefs.axis[iq].min == '' ? undefined : optionRefs.axis[iq].min;
+        dataSet.yAxis[iq].max = optionRefs.axis[iq].max == '' ? undefined : optionRefs.axis[iq].max;
+
+        // If there is an issue with aligning both the series while setting max uncomment
+        // if(optionRefs.axis[iq].max != undefined) {
+        //   dataSet.yAxis[iq].alignTicks = false;
+        //   if( iq > 0) {
+        //     dataSet.yAxis[iq].gridLineWidth = 0;
+        //   }
+        // }
+
+        if(optionRefs.axis[iq].targetBenchmark != '' && iq == 0) {
+          dataSet.yAxis[iq].plotLines = [{
+              color: 'red', // Color value
+              dashStyle: 'longdashdot', // Style of the plot line. Default to solid
+              value: optionRefs.axis[iq].targetBenchmark, // Value of where the line will appear
+              width: 2, // Width of the line
+              label: {
+                text: optionRefs.axis[iq].targetLabel, // Content of the label.
+                align: 'left', // Positioning of the label.
+                style: {
+                  color: 'red',
+                  fontWeight: 'bold'
+                }
+              }
+          }]
+        }
+      }
+    }
 
     // set chart options
     var options = {
@@ -84,7 +117,13 @@ $('.report-chart-container').each(function(index, element) {
                 if (this.point.yFormat == 'percentage') {
                     pointValue = Math.round(this.y * 100) + '%';
                 }
-                point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span>';
+                if (this.point.explanation != '' || this.point.explanation != undefined) {
+                  point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span><br /><span style="font-size: 10px">' + this.point.explanation + '</span>';
+                }
+                if (this.point.explanation == '' || this.point.explanation == undefined) {
+                  point = '<span style="font-size: 10px">' + this.series.name + ': ' + pointValue + '</span>';
+                }
+
                 return head + point;
             }
         },

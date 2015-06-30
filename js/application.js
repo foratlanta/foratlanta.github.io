@@ -35,6 +35,7 @@ var app = function() {
         toggleMenuRight();
         togglePanel();
         closePanel();
+        toggleContentSection();
     };
 
     //global functions
@@ -88,6 +89,22 @@ var app = function() {
             $(this).parent().parent().parent().fadeOut();
         });
 
+    }
+
+    var toggleContentSection = function() {
+      $('#toggleContentsLink').on('click', function() {
+        if ($('.panel.contents').hasClass('hasHidden')) {
+          $('.panel.contents').removeClass('hasHidden');
+          $('#toggleContentsLink').html('hide');
+          $('.panel.contents ol').slideToggle('fast');
+        }
+        else {
+          $('.panel.contents ol').slideToggle('fast', function() {
+            $('#toggleContentsLink').html('show');
+            $('.panel.contents').addClass('hasHidden');
+          });
+        }
+      });
     }
 
     //End functions

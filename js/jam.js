@@ -58,9 +58,10 @@ var Jam = (function() {
                         name: item.key[xAxisRef],
                         type: axis.type,
                         yAxis: index,
+                        useCsvMetricForXaxisLabel: axis.label,
                         data: _.map(item.vals, function(element) {
                             var rDate = new Date(Date.parse(element.Date));
-
+                            additionalInfo = element.Explanation;
                             xVal = Date.UTC(rDate.getFullYear(), rDate.getMonth());
                             yVal = (_.isNumber(element[axis.metric]) && !_.isNaN(element[axis.metric])) ? element[axis.metric] : 0;
 
@@ -68,12 +69,13 @@ var Jam = (function() {
                                 x: xVal,
                                 y: yVal,
                                 yFormat:axis.format,
-                                xFormat:rDate
+                                xFormat:rDate,
+                                explanation: additionalInfo
                             }
                         })
                     });
 
-                    if (!_.isEmpty(yAxisOptions.axis[1])) {
+                    if (!_.isEmpty(yAxisOptions.axis[1]) && (axis.useCsvMetricForXaxisLabel == undefined || axis.useCsvMetricForXaxisLabel == false)) {
                         set.name = axis.label
                     }
                     series.push(set);
@@ -84,6 +86,7 @@ var Jam = (function() {
         if (_.size(series) === 1) {
             series[0].showInLegend = false;
         }
+
         return series;
 
     }

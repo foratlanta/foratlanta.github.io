@@ -3,11 +3,27 @@ layout: default
 title: Department of Aviation
 pid: 80
 category: operational-departments
+description: The Department of Aviation manages Hartsfield-Jackson Atlanta International Airport.  Given the complexity of its operation, the Department’s mission contains many facets.  Two key parts of this mission are to drive economic development and operate with the highest level of customer service and efficiency.
 ---
 <div class="header">
   <h1>Department of Aviation</h1>
   <p>The Department of Aviation manages Hartsfield-Jackson Atlanta International Airport.  Given the complexity of its operation, the Department’s mission contains many facets.  Two key parts of this mission are to drive economic development and operate with the highest level of customer service and efficiency.</p>
   <p>This page provides performance data on key indicators related to these two parts of the Department’s mission.</p>
+
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.aviation %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
 </div>
 <div class="report-group-body">
   {% for group in site.data.aviation %}

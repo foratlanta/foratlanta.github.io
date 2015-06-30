@@ -3,11 +3,27 @@ layout: default
 title: Atlanta Police Department
 pid: 10
 category: public-safety-departments
+description: With an authorized strength of over 2000 sworn officers, the Atlanta Police Department is the largest law enforcement agency in the State of Georgia. The mission of the Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with the community.  The Department also operates the City’s E911 Call Center, which aims to quickly respond to emergency calls and dispatch emergency services.
 ---
 <div class="header">
   <h1>Atlanta Police Department</h1>
   <p>With an authorized strength of over 2000 sworn officers, the Atlanta Police Department is the largest law enforcement agency in the State of Georgia. The mission of the Department is to create a safer Atlanta by reducing crime, ensuring the safety of our citizens and building trust in partnership with the community.  The Department also operates the City’s E911 Call Center, which aims to quickly respond to emergency calls and dispatch emergency services.</p>
   <p>This page provides performance data focused on key indicators for two areas – Crime reduction and the E911 Call Center.</p>
+
+  <div class="panel contents">
+    <div class="contents-title">
+      <strong>Contents</strong>
+      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+    </div>
+    <ol>
+      {% for info in site.data.atlanta-police-department %}
+        {% for chart in info.charts %}
+          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
+  </div>
+
 </div>
 <div class="report-group-body">
   {% for group in site.data.atlanta-police-department %}

@@ -8,15 +8,23 @@
       size: full
       department: CODE
       datasource: code_customer_service
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
+      series1-min:
+      series1-max:
       series1-label: Total Service Requests
+      series1-useCsvMetricForXaxisLabel:      
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Property Maintenance Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests each month from the public to inspect possible property maintenance violations. These include junk vehicles, overgrowth on property, or debris and garbage. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 120 calendar days (red).
@@ -25,15 +33,23 @@
       size: half
       department: CODE
       datasource: code_pm
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
+      series2-useCsvMetricForXaxisLabel:
     - title: Highly Hazardous Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests from the public to inspect possible highly hazardous housing conditions. These include broken HVAC, broken windows and doors, and roof collapses without repair attempts. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 58 calendar days (red).
       description: The Office has seen a 30% increase in the number of highly hazardous inspections completed within the time goals. This improvement has come as overdue requests are closed, as seen in dropping active service request volumes.
@@ -41,15 +57,23 @@
       size: half
       department: CODE
       datasource: code_hh
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
       series1-label: Total Service Requests
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
+      series2-min:
+      series2-max:
+      series2-useCsvMetricForXaxisLabel:
 - group-title: Section II - Inspection Volume
   group-description:
   charts:
@@ -60,8 +84,13 @@
       size: full
       department: CODE
       datasource: code_compliance_complaints
+      targetBenchmark:
+      targetLabel:
       series-grouping: true
       series1-metric: Result
       series1-type: column
       series1-format: number
       series1-label: Total Code Complaints
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:

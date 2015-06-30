@@ -5,10 +5,45 @@
 .panel-title {
   line-height: 1.5;
 }
+.panel-footer.social {
+  overflow: auto;
+  padding: 15px 0 0 15px;
+  
+  .social-section {
+    float: right;
+    background-color: #F5F5F5;
+    padding: 10px 10px 10px;
+  }
+}
 .header {
   p {
     font-size: 1.2em;
     line-height: 1.7em;
+  }
+}
+.panel.contents {
+  padding: 10px;
+  @media (min-width: 768px) {
+    max-width: 300px;
+  }
+
+  .contents-title {
+    @media (min-width: 768px) {
+      text-align:center;
+    }
+  }
+
+  ol {
+    margin-top:10px;
+  }
+  &.hasHidden {
+    max-width: 200px;
+    .contents-title {
+      text-align:left;
+    }
+    ol {
+      display:none;
+    }
   }
 }
 .report-group-body {

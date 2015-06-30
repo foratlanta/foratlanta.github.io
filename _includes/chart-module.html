@@ -1,4 +1,4 @@
-<div class="report-chart {{ chart.size }}">
+<div id="{{ chart.datasource }}" class="report-chart {{ chart.size }}">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h5 class="panel-title">{{ chart.title }}</h5>
@@ -14,21 +14,37 @@
                     'metric':'{{ chart.series1-metric }}',
                     'type':'{{ chart.series1-type }}',
                     'format':'{{ chart.series1-format}}',
-                    'label':'{{ chart.series1-label}}'
+                    'label':'{{ chart.series1-label}}',
+                    'useCsvMetricForXaxisLabel': '{{ chart.series1-useCsvMetricForXaxisLabel}}',
+                    'max':'{{ chart.series1-max }}',
+                    'min': '{{ chart.series1-min }}',
+                    'targetLabel': '{{ chart.targetLabel }}',
+                    'targetBenchmark': '{{ chart.targetBenchmark }}'
                 },{
                     {% if chart.series2-metric %}
                     'metric':'{{ chart.series2-metric }}',
                     'type':'{{ chart.series2-type }}',
                     'format':'{{ chart.series2-format}}',
-                    'label':'{{ chart.series2-label}}'
+                    'label':'{{ chart.series2-label}}',
+                    'useCsvMetricForXaxisLabel': '{{ chart.series2-useCsvMetricForXaxisLabel}}',
+                    'max': '{{ chart.series2-max }}',
+                    'min': '{{ chart.series2-min }}',
                     {% endif %}
                 }]
             });
         </script>
     </div>
-    <div class="panel-footer">
+    <div class="panel-footer social">
       {% if chart.description %}<p class="report-chart-description">{{ chart.description }}</p>{% endif %}
       {% if chart.note %}<p class="report-chart-note">{{ chart.note}}</p>{% endif %}
+      <div class="social-section">
+        <span class='st_sharethis' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+        <span class='st_facebook' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+        <span class='st_twitter' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+        <span class='st_linkedin' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+        <span class='st_googleplus' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+        <span class='st_buffer' st_url="http://foratlanta.github.io/{{page.url}}#{{ chart.datasource }}"></span>
+      </div>
     </div>
   </div>
 </div>

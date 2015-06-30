@@ -8,15 +8,23 @@
       size: full
       department: DOA
       datasource: passenger_volume
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
       series1-label: Total Passenger Volume Year-To-Date
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Year-over-Year Volume Change
+      series2-min:
+      series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
     - title: Year-To-Date Cargo Volume
       summary: Total year-to-date cargo volume  (blue, left) and the year-over-year percentage change in cargo volume (red, right)
@@ -25,15 +33,23 @@
       size: full
       department: DOA
       datasource: cargo_volume
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
       series1-label: Total Cargo Volume Year-To-Date
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
       series2-label: Year-over-Year Volume Change
+      series2-min:
+      series2-max:
+      series2-useCsvMetricForXaxisLabel:
 
 - group-title: Section II - Processing and Wait Times
   group-description:
@@ -45,11 +61,16 @@
       size: half
       department: DOA
       datasource: security_wait_times
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: line
       series1-format: percentage
       series1-label: Under Target Wait Time
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
 
     - title: Average Customs Processing Times
       summary: The average time it takes for an inbound passenger to get processed through customs
@@ -58,8 +79,13 @@
       size: half
       department: DOA
       datasource: customs_processing_time
+      targetBenchmark:
+      targetLabel:
       series-grouping: false
       series1-metric: Result
       series1-type: line
       series1-format: number
       series1-label: Minutes
+      series1-min:
+      series1-max:
+      series1-useCsvMetricForXaxisLabel:
