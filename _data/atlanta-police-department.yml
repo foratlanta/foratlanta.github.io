@@ -50,7 +50,7 @@
       datasource: e911_call_center
       targetBenchmark:
       targetLabel:
-      series-grouping: true
+      series-grouping: false
       series1-metric: Volume
       series1-type: column
       series1-format: number
@@ -64,4 +64,4 @@
       series2-label: Answered Within 10 Seconds
       series2-min:
       series2-max:
-      series2-useCsvMetricForXaxisLabel: 
+      series2-useCsvMetricForXaxisLabel:
