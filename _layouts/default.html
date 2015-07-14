@@ -77,6 +77,9 @@
     <section class="main-content-wrapper">
       <section id="main-content">
         {{ content }}
+        {% if page.url != '/index.html' %}
+        {% include intro-footer.html %}
+        {% endif %}
       </section>
     </section>
   </section>
