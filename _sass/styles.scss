@@ -156,6 +156,29 @@
   color: $brand-primary;
 
 }
+@media (min-width:991px) {
+  ul.dropdown-menu.dropdown-submenu {
+      left: -420px !important;
+    }
+    ul.dropdown-menu li {
+      width:420px;
+    }
+}
+@media (min-width:768px) and (max-width: 990px) {
+  ul.dropdown-menu.dropdown-submenu {
+      left: 0 !important;
+    }
+    ul.dropdown-menu li {
+      width:420px;
+    }
+  .dropdown-submenu{position:relative;}
+  .dropdown-submenu>.dropdown-menu{top:0;left:-95%;max-width:180px;margin-top:-6px;margin-right:-1px;-webkit-border-radius:6px 6px 6px 6px;-moz-border-radius:6px 6px 6px 6px;border-radius:6px 6px 6px 6px;}
+  .dropdown-submenu:hover>.dropdown-menu{display:block;}
+  .dropdown-submenu>a:after{display:block;content:" ";float:left;width:0;height:0;border-color:transparent;border-style:solid;border-width:5px 5px 5px 0;border-right-color:#999;margin-top:5px;margin-right:10px;}
+  .dropdown-submenu:hover>a:after{border-left-color:#ffffff;}
+  .dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left>.dropdown-menu{left:-100%;margin-left:10px;-webkit-border-radius:6px 6px 6px 6px;-moz-border-radius:6px 6px 6px 6px;border-radius:6px 6px 6px 6px;}
+  .dropdown-menu-right {margin-left:0;}
+}
 
 /* ==========================================================================
    Panels
