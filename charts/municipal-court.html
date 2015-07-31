@@ -7,22 +7,27 @@ description: The Atlanta Municipal Court adjudicates traffic cases and criminal 
 ---
 <div class="header">
   <h1>Atlanta Municipal Court</h1>
-  <p>The Atlanta Municipal Court adjudicates traffic cases and criminal cases originating within the City that do not reach the level of the State Court system.  One core goal of the Court is to provide swift disposition of its cases.</p>
-  <p>This page provides performance data focused on key indicators related to the Court’s efficiency in adjudicating both traffic and criminal cases.</p>
-  <div class="panel contents">
-    <div class="contents-title">
-      <strong>Contents</strong>
-      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+  <div class="row">
+    <div class="col-md-8">
+      <p>The Atlanta Municipal Court adjudicates traffic cases and criminal cases originating within the City that do not reach the level of the State Court system.  One core goal of the Court is to provide swift disposition of its cases.</p>
+      <p>This page provides performance data focused on key indicators related to the Court’s efficiency in adjudicating both traffic and criminal cases.</p>
     </div>
-    <ol>
-      {% for info in site.data.municipal-court %}
-        {% for chart in info.charts %}
-          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
-        {% endfor %}
-      {% endfor %}
-    </ol>
+    <div class="col-md-4">
+      <div class="panel contents">
+        <div class="contents-title">
+          <strong>Contents</strong>
+          <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+        </div>
+        <ol>
+          {% for info in site.data.municipal-court %}
+            {% for chart in info.charts %}
+              <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+            {% endfor %}
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
   </div>
-
 </div>
 <div class="report-group-body">
   {% for group in site.data.municipal-court %}

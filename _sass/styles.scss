@@ -1,6 +1,217 @@
-@import 'variables','bootstrap','dashboard';
+@import 'variables','bootstrap';
 
 //////////////////////////
+
+/* ==========================================================================
+   Base styles
+   ========================================================================== */
+   body {
+    color:#5D5F63;
+    background:#EAEEF3;
+    font-family:'Open Sans', sans-serif;
+    padding:0px;
+    margin:0px;
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+
+  }
+
+  a:link, a:visited {
+    text-decoration: none;
+    outline:none;
+    color:$brand-primary;
+  }
+
+  a:hover, a:active {
+    outline:none;
+    text-decoration: none;
+    color:darken($brand-primary,20%);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family:'Source Sans Pro', Arial, sans-serif;
+    letter-spacing: -0.01em;
+    color: #34485c;
+  }
+
+  p {font-size: 14px;}
+
+  hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  img{
+    max-width: 100%;
+  }
+  ::selection {
+    background:#fff7dd;
+  }
+  ::-moz-selection {
+    background:#fff7dd;
+  }
+
+  /* Header */
+  #header {
+    left: 0;
+    right: 0;
+    z-index: 200;
+    background-color:$brand-primary;
+    padding: 5px 0;
+    width:100%;
+    min-height: 80px;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+
+    .brand {
+      float: left;
+      width: 240px;
+      min-height: 80px;
+      padding: 0 0 0 10px;
+      position: relative;
+      background: url('../img/atl-resurgence-seal.png') no-repeat 8px 8px;
+      background-size: 64px 64px;
+    }
+    .logo {
+      color: #fff;
+      font-size: 1.7em;
+      text-transform: uppercase;
+      padding: 23px 0 0 67px;
+      display: inline-block;
+
+      span {
+        font-weight: 700;
+      }
+      @media (min-width:768px) and (max-width:991px) {
+        font-size:1.2em;
+      }
+    }
+    @media (min-width:768px) and (max-width:991px) {
+      .col-sm-9 {
+        padding-right:0;
+      }
+    }
+    .btn-default .fa-bars,
+    .btn-default .fa-comment {
+      cursor: pointer;
+      color: $brand-primary;
+      font-size: 21px;
+      padding-top: 2px;
+    }
+    .toggle-navigation button:hover,
+    .toggle-navigation button:active {
+       background: $brand-primary;
+     }
+      .toggle-navigation button:hover i,
+      button#toggle-mail:hover i{
+      color:#F6F6F6;
+    }
+    .toggle-navigation.toggle-left {
+      margin: 18px 0 0 20px;
+      display: inline-block;
+    }
+    .btn-default {
+      padding: 3px 9px;
+      background: #F6F6F6;
+      border-radius: 50%;
+      -moz-border-radius:50%;
+      -webkit-border-radius: 50%;
+      width: 45px;
+      height: 45px;
+    }
+    .main-navigation .navbar-nav > .open > a, .main-navigation .navbar-nav > .open > a:hover, .main-navigation .navbar-nav > .open > a:focus {
+      color: #666;
+    }
+    .navbar-toggle {
+      background:white;
+      margin-top:20px;
+      & > * {
+        background-color:$brand-primary;
+      }
+    }
+    @media (max-width:767px){
+      .navbar.navbar-default {
+        min-height:0;
+        border:none;
+        margin:0;
+      }
+    }
+    @media (min-width:768px) {
+      .navbar-default .navbar-nav > li > a {
+        color: white;
+      }
+    }
+  }
+
+.dropdown.settings .dropdown-menu>li>a:hover,
+.dropdown.settings .dropdown-menu>li>a:active{
+ background-color: #16a086;
+ color:#fff;
+}
+
+.dropdown.settings .dropdown-menu>li>a:hover .badge.badge-danager{
+  background-color: #fff;
+  color: $brand-primary;
+
+}
+
+/* ==========================================================================
+   Panels
+   ========================================================================== */
+   .panel {
+    border: solid thin #DDE2E9;
+    box-shadow: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius:3px;
+  }
+  .panel>.panel-heading {
+    font-weight: 400;
+    padding: 15px;
+    h3 {
+      font-size: 28px;
+      text-transform: uppercase;
+    }
+    h4 {
+      font-size: 22px;
+      text-transform: uppercase;
+    }
+    h5 {
+      font-size: 18px;
+      text-transform: uppercase;
+    }
+  }
+  .panel .actions {
+    position: absolute;
+    right: 30px;
+    top: 18px;
+  }
+  .panel .actions i {
+    font-size: 1em;
+    margin:0 3px;
+  }
+  .panel .actions i:hover {
+    cursor:pointer;
+  }
+  .panel>.panel-footer {
+    font-size: 13px;
+    font-weight: 400;
+    padding: 15px;
+    border-color: #eff2f7;
+    background: #fafafa;
+    color: #767676;
+  }
+  .panel-default>.panel-heading {
+    border-color: #eff2f7;
+    background: #fafafa;
+    color:#767676;
+  }
+
+
 // Section Headers
 .panel-title {
   line-height: 1.5;
@@ -8,11 +219,14 @@
 .panel-footer.social {
   overflow: auto;
   padding: 15px 0 0 15px;
-  
+
   .social-section {
     float: right;
     background-color: #F5F5F5;
     padding: 10px 10px 10px;
+  }
+  p {
+    padding-right:15px;
   }
 }
 .header {
@@ -23,10 +237,9 @@
 }
 .panel.contents {
   padding: 10px;
-  @media (min-width: 768px) {
-    max-width: 300px;
+  @media (max-width: 991px) {
+    max-width: 400px;
   }
-
   .contents-title {
     @media (min-width: 768px) {
       text-align:center;

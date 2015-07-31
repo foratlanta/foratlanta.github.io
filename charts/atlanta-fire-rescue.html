@@ -7,24 +7,28 @@ description: With an authorized strength of over 2000 sworn officers, the Atlant
 ---
 <div class="header">
   <h1>Atlanta Fire Rescue Department</h1>
-  <p>Atlanta Fire Rescue is a modern, all-hazards fire department.  Department staff operates out of 35 fire stations, which include five stations at Hartsfield-Jackson Atlanta International Airport. There are over 1,000 employees (988 sworn and 44 civilian) serving an area of 132 square miles within the city limits of Atlanta. The Department’s two core functions are responding swiftly to Fire and Emergency Medical Services (EMS)-related incidents.</p>
-  <p>This page provides performance data focused on key indicators in these areas.</p>
-  <p>In June 2014, as part of its national re-accreditation process, the Department updated its metrics and tracking methodologies to align with national best practices. To ensure data quality and comparability across time, the starting point of the Department's data on this page will be June 2014.</p>
-
-  <div class="panel contents">
-    <div class="contents-title">
-      <strong>Contents</strong>
-      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+  <div class="row">
+    <div class="col-md-8">
+      <p>Atlanta Fire Rescue is a modern, all-hazards fire department.  Department staff operates out of 35 fire stations, which include five stations at Hartsfield-Jackson Atlanta International Airport. There are over 1,000 employees (988 sworn and 44 civilian) serving an area of 132 square miles within the city limits of Atlanta. The Department’s two core functions are responding swiftly to Fire and Emergency Medical Services (EMS)-related incidents.</p>
+      <p>This page provides performance data focused on key indicators in these areas.</p>
+      <p>In June 2014, as part of its national re-accreditation process, the Department updated its metrics and tracking methodologies to align with national best practices. To ensure data quality and comparability across time, the starting point of the Department's data on this page will be June 2014.</p>
     </div>
-    <ol>
-      {% for info in site.data.atlanta-fire-rescue %}
-        {% for chart in info.charts %}
-          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
-        {% endfor %}
-      {% endfor %}
-    </ol>
-  </div>
-
+    <div class="col-md-4">
+      <div class="panel contents">
+        <div class="contents-title">
+          <strong>Contents</strong>
+          <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+        </div>
+        <ol>
+          {% for info in site.data.atlanta-fire-rescue %}
+            {% for chart in info.charts %}
+              <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+            {% endfor %}
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+</div>
 </div>
 <div class="report-group-body">
   {% for group in site.data.atlanta-fire-rescue %}
