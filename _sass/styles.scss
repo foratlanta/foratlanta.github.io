@@ -13,7 +13,9 @@
     margin:0px;
     text-rendering:optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-
+    position:relative;
+    height:100%;
+    overflow-y:scroll;
   }
 
   a:link, a:visited {
@@ -49,6 +51,11 @@
   ::-moz-selection {
     background:#fff7dd;
   }
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden; }
 
   /* Header */
   #header {
