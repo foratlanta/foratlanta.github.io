@@ -375,24 +375,24 @@
 
 		// Animations
 		//-----------------------------------------------
-		if (($("[data-animation-effect]").length>0) && !Modernizr.touch) {
-			$("[data-animation-effect]").each(function() {
-				var item = $(this),
-				animationEffect = item.attr("data-animation-effect");
-
-				if(Modernizr.mq('only all and (min-width: 768px)') && Modernizr.csstransitions) {
-					item.appear(function() {
-						if(item.attr("data-effect-delay")) item.css("effect-delay", delay + "ms");
-						setTimeout(function() {
-							item.addClass('animated object-visible ' + animationEffect);
-
-						}, item.attr("data-effect-delay"));
-					}, {accX: 0, accY: -130});
-				} else {
-					item.addClass('object-visible');
-				}
-			});
-		};
+		// if (($("[data-animation-effect]").length>0) && !Modernizr.touch) {
+		// 	$("[data-animation-effect]").each(function() {
+		// 		var item = $(this),
+		// 		animationEffect = item.attr("data-animation-effect");
+		//
+		// 		if(Modernizr.mq('only all and (min-width: 768px)') && Modernizr.csstransitions) {
+		// 			item.appear(function() {
+		// 				if(item.attr("data-effect-delay")) item.css("effect-delay", delay + "ms");
+		// 				setTimeout(function() {
+		// 					item.addClass('animated object-visible ' + animationEffect);
+		//
+		// 				}, item.attr("data-effect-delay"));
+		// 			}, {accX: 0, accY: -130});
+		// 		} else {
+		// 			item.addClass('object-visible');
+		// 		}
+		// 	});
+		// };
 
 		// Stats Count To
 		//-----------------------------------------------
@@ -504,34 +504,34 @@
 
 		// Fixed header
 		//-----------------------------------------------
-		var	headerTopHeight = $(".header-top").outerHeight(),
-		headerHeight = $("header.header.fixed").outerHeight();
-		$(window).scroll(function() {
-			if (($(".header.fixed").length > 0)) {
-				if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
-					$("body").addClass("fixed-header-on");
-					$(".header.fixed").addClass('animated object-visible fadeInDown');
-					if (!($(".header.transparent").length>0)) {
-						if ($(".banner:not(.header-top)").length>0) {
-							$(".banner").css("marginTop", (headerHeight)+"px");
-						} else if ($(".page-intro").length>0) {
-							$(".page-intro").css("marginTop", (headerHeight)+"px");
-						} else if ($(".page-top").length>0) {
-							$(".page-top").css("marginTop", (headerHeight)+"px");
-						} else {
-							$("section.main-container").css("marginTop", (headerHeight)+"px");
-						}
-					}
-				} else {
-					$("body").removeClass("fixed-header-on");
-					$("section.main-container").css("marginTop", (0)+"px");
-					$(".banner").css("marginTop", (0)+"px");
-					$(".page-intro").css("marginTop", (0)+"px");
-					$(".page-top").css("marginTop", (0)+"px");
-					$(".header.fixed").removeClass('animated object-visible fadeInDown');
-				}
-			};
-		});
+		// var	headerTopHeight = $(".header-top").outerHeight(),
+		// headerHeight = $("header.header.fixed").outerHeight();
+		// $(window).scroll(function() {
+		// 	if (($(".header.fixed").length > 0)) {
+		// 		if(($(this).scrollTop() > headerTopHeight+headerHeight) && ($(window).width() > 767)) {
+		// 			$("body").addClass("fixed-header-on");
+		// 			$(".header.fixed").addClass('animated object-visible fadeInDown');
+		// 			if (!($(".header.transparent").length>0)) {
+		// 				if ($(".banner:not(.header-top)").length>0) {
+		// 					$(".banner").css("marginTop", (headerHeight)+"px");
+		// 				} else if ($(".page-intro").length>0) {
+		// 					$(".page-intro").css("marginTop", (headerHeight)+"px");
+		// 				} else if ($(".page-top").length>0) {
+		// 					$(".page-top").css("marginTop", (headerHeight)+"px");
+		// 				} else {
+		// 					$("section.main-container").css("marginTop", (headerHeight)+"px");
+		// 				}
+		// 			}
+		// 		} else {
+		// 			$("body").removeClass("fixed-header-on");
+		// 			$("section.main-container").css("marginTop", (0)+"px");
+		// 			$(".banner").css("marginTop", (0)+"px");
+		// 			$(".page-intro").css("marginTop", (0)+"px");
+		// 			$(".page-top").css("marginTop", (0)+"px");
+		// 			$(".header.fixed").removeClass('animated object-visible fadeInDown');
+		// 		}
+		// 	};
+		// });
 
 		// Sharrre plugin
 		//-----------------------------------------------
