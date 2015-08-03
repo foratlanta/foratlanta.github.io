@@ -127,6 +127,7 @@
     .navbar-toggle {
       background:white;
       margin-top:20px;
+      color:black;
       & > * {
         background-color:$brand-primary;
       }
