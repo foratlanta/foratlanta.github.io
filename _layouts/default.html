@@ -15,7 +15,9 @@
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
   <meta property="og:site_name" content="FORAtlanta" />
 
+  <link rel="stylesheet" href="/css/animate.css">
   <link rel="stylesheet" href="/css/styles.css">
+  <link rel="stylesheet" href="/css/theme.css">
   <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
@@ -37,62 +39,171 @@
 </head>
 
 <body>
-  <section id="container">
-    <header id="header">
-      <div class="brand">
-        <a href="/" class="logo"><span>FOR</span>Atlanta</a>
-      </div>
-      <div class="toggle-navigation toggle-left">
-        <button type="button" class="btn btn-default" id="toggle-left" data-toggle="tooltip" data-placement="right" title="Toggle Navigation">
-          <i class="fa fa-bars"></i>
-        </button>
-      </div>
-    </header>
-    <aside class="sidebar">
-      <div id="leftside-navigation" class="nano">
-        <ul class="nano-content">
-          <li class="sub-menu">
-            <strong><i class="fa fa-university"></i> <span>Public Safety Departments</span></strong>
-            <ul>
-              <li><a href="/charts/atlanta-police-department.html">Atlanta Police Department</a></li>
-              <li><a href="/charts/atlanta-fire-rescue.html">Atlanta Fire Rescue Department</a></li>
-              <li><a href="/charts/department-of-corrections.html">Department of Corrections</a></li>
-              <li><a href="/charts/municipal-court.html">Atlanta Municipal Court</a></li>
-            </ul>
-          </li>
-          <li class="sub-menu">
-            <strong><i class="fa fa-cogs"></i> <span>Operational Departments</span></strong>
-            <ul>
-              <li><a href="/charts/watershed-management.html">Department of Watershed Management</a></li>
-              <li><a href="/charts/public-works.html">Department of Public Works</a></li>
-              <li><a href="/charts/parks-and-rec.html">Department of Parks and Recreation</a></li>
-              <li><a href="/charts/office-of-buildings.html">Office of Buildings</a></li>
-              <li><a href="/charts/code-enforcement.html">Office of Code Enforcement</a></li>
-              <li><a href="/charts/aviation.html">Department of Aviation</a></li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </aside>
-    <section class="main-content-wrapper">
-      <section id="main-content">
+  <div class="page-wrapper fixed-header-on">
+    <header id="header" class="header fixed object-visible clearfix">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-3">
+							<div class="header-left clearfix">
+                <div class="brand">
+                  <a href="/" class="logo"><span>FOR</span>Atlanta</a>
+                </div>
+                <!-- Toggle get grouped for better mobile display -->
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">Menu</button>
+							</div>
+						</div>
+            <div class="col-sm-9">
+              <div class="header-right clearfix">
+                <div class="main-navigation animated">
+                  <nav class="navbar navbar-default" role="navigation">
+										<div class="container-fluid">
+											<div class="collapse navbar-collapse" id="navbar-collapse-1">
+												<ul class="nav navbar-nav navbar-right">
+													<li class="dropdown dropdown-left">
+														<a href="#" class="dropdown-toggle" data-toggle="dropdown"><strong><i class="fa fa-university"></i> <span>Public Safety Departments</span></strong></a>
+														<ul class="dropdown-menu">
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/atlanta-police-department.html">Atlanta Police Department</a>
+                                	<ul class="dropdown-menu dropdown-submenu">
+                                    {% for info in site.data.atlanta-police-department %}
+                                      {% for chart in info.charts %}
+                                        <li><a href="/charts/atlanta-police-department.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                      {% endfor %}
+                                    {% endfor %}
+                                  </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/atlanta-fire-rescue.html">Atlanta Fire Rescue Department</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.atlanta-fire-rescue %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/atlanta-fire-rescue.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/department-of-corrections.html">Department of Corrections</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.department-of-corrections %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/department-of-corrections.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/municipal-court.html">Atlanta Municipal Court</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.municipal-court %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/municipal-court.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+														</ul>
+													</li>
+													<li class="dropdown dropdown-right">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">  <strong><i class="fa fa-cogs"></i> <span>Operational Departments</span></strong></a>
+                            <ul class="dropdown-menu">
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/watershed-management.html">Department of Watershed Management</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.watershed-management %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/watershed-management.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/public-works.html">Department of Public Works</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.public-works %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/public-works.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/parks-and-rec.html">Department of Parks and Recreation</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.parks-and-rec %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/parks-and-rec.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/office-of-buildings.html">Office of Buildings</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.office-of-buildings %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/office-of-buildings.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown pull-left">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/code-enforcement.html">Office of Code Enforcement</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.code-enforcement %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/code-enforcement.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                              <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/charts/aviation.html">Department of Aviation</a>
+                                <ul class="dropdown-menu dropdown-submenu">
+                                  {% for info in site.data.aviation %}
+                                    {% for chart in info.charts %}
+                                      <li><a href="/charts/aviation.html#{{ chart.datasource }}">{{ chart.title }}</a></li>
+                                    {% endfor %}
+                                  {% endfor %}
+                                </ul>
+                              </li>
+                            </ul>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+    <section class="main-container">
+      <div id="main-content" class="container">
+
         {{ content }}
         {% if page.url != '/index.html' %}
         {% include intro-footer.html %}
         {% endif %}
-      </section>
+
+      </div>
     </section>
-  </section>
+
+</div>
   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="/js/modernizr.js"></script>
   <script src="/js/highcharts.js"></script>
   <script src="/js/jquery.parse.min.js"></script>
   <script src="/js/lodash.min.js"></script>
-  <script src="/js/application.js"></script>
   <script src="/js/jam.js"></script>
   <script src="/js/charts.js"></script>
+  <script src="/js/template.js"></script>
   <!-- Start of foratlanta Zendesk Widget script -->
 <script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","foratlanta.zendesk.com");/*]]>*/</script>
 <!-- End of foratlanta Zendesk Widget script -->
+
 </body>
 </html>

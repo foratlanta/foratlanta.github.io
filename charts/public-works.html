@@ -7,24 +7,28 @@ description: The Department of Public Works manages the City’s Transportation 
 ---
 <div class="header">
   <h1>Department of Public Works</h1>
-  <p>The Department of Public Works manages the City’s Transportation and Solid Waste Services.  The Department’s mission is to become the premier provider of efficient and effective Transportation and Solid Waste Services.</p>
-  <p>This page provides performance data on key indicators related to customer service and operational effectiveness for both areas of the Department.</p>
-  <p>In January 2014, the Department upgraded its work order management and data tracking systems. To ensure data quality and comparability across time, the starting point of the Department's Customer Service data on this page will be January 2014.</p>
-
-  <div class="panel contents">
-    <div class="contents-title">
-      <strong>Contents</strong>
-      <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+  <div class="row">
+    <div class="col-md-8">
+      <p>The Department of Public Works manages the City’s Transportation and Solid Waste Services.  The Department’s mission is to become the premier provider of efficient and effective Transportation and Solid Waste Services.</p>
+      <p>This page provides performance data on key indicators related to customer service and operational effectiveness for both areas of the Department.</p>
+      <p>In January 2014, the Department upgraded its work order management and data tracking systems. To ensure data quality and comparability across time, the starting point of the Department's Customer Service data on this page will be January 2014.</p>
     </div>
-    <ol>
-      {% for info in site.data.public-works %}
-        {% for chart in info.charts %}
-          <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
-        {% endfor %}
-      {% endfor %}
-    </ol>
+    <div class="col-md-4">
+      <div class="panel contents">
+        <div class="contents-title">
+          <strong>Contents</strong>
+          <span class="toggleContents">&nbsp;[<a href="#" id="toggleContentsLink">hide</a>]&nbsp;</span>
+        </div>
+        <ol>
+          {% for info in site.data.public-works %}
+            {% for chart in info.charts %}
+              <li><a href="#{{ chart.datasource }}">{{ chart.title }}</a></li>
+            {% endfor %}
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
   </div>
-
 </div>
 <div class="report-group-body">
   {% for group in site.data.public-works %}
