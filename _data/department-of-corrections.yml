@@ -10,6 +10,7 @@
       datasource: jail_population
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -31,6 +32,7 @@
       datasource: safety_and_security
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: true
       series1-metric: Result
       series1-type: line
@@ -52,6 +54,7 @@
       datasource: community_involvement
       targetBenchmark:
       targetLabel:
+      targetSeries: 
       series-grouping: true
       series1-metric: Result
       series1-type: line

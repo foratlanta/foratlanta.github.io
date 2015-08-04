@@ -10,6 +10,7 @@
       datasource: oob_customer_service
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -17,7 +18,7 @@
       series1-label: Total Service Requests
       series1-min:
       series1-max:
-      series1-useCsvMetricForXaxisLabel:        
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
@@ -34,6 +35,7 @@
       datasource: oob_permit_insp
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -58,6 +60,7 @@
       datasource: oob_plan_review
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -78,6 +81,7 @@
       datasource: building_permits_overall
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -103,6 +107,7 @@
       datasource: building_permits_detail
       targetBenchmark:
       targetLabel:
+      targetSeries: 
       series-grouping: true
       series1-metric: Result
       series1-type: line
