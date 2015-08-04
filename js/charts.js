@@ -35,6 +35,7 @@ $('.report-chart-container').each(function(index, element) {
     // filter the data for series
     var dataSet = Jam.filter(chartData, 'Metric', optionRefs);
     var iq;
+    var seriesBenchmarkTarget;
 
     for (iq = 0; iq < 2; iq++) {
       if(dataSet.yAxis[iq] != undefined ) {
@@ -48,23 +49,33 @@ $('.report-chart-container').each(function(index, element) {
         //     dataSet.yAxis[iq].gridLineWidth = 0;
         //   }
         // }
-
-        if(optionRefs.axis[iq].targetBenchmark != '' && iq == 0) {
-          dataSet.yAxis[iq].plotLines = [{
-              color: 'red', // Color value
-              dashStyle: 'longdashdot', // Style of the plot line. Default to solid
-              value: optionRefs.axis[iq].targetBenchmark, // Value of where the line will appear
-              width: 2, // Width of the line
-              label: {
-                text: optionRefs.axis[iq].targetLabel, // Content of the label.
-                align: 'left', // Positioning of the label.
-                style: {
-                  color: 'red',
-                  fontWeight: 'bold'
+          if(optionRefs.axis[0].targetBenchmark != '') {
+            if (optionRefs.axis[0].targetSeries == '' || (optionRefs.axis[0].targetSeries != 2 && dataSet.yAxis.length == 1)) {
+              seriesBenchmarkTarget = 0;
+            }
+            if (optionRefs.axis[0].targetSeries == 2 && dataSet.yAxis.length == 2) {
+              seriesBenchmarkTarget = 1;
+            }
+            else {
+              seriesBenchmarkTarget = 0;
+            }
+            dataSet.yAxis[seriesBenchmarkTarget].plotLines = [{
+                color: 'red', // Color value
+                dashStyle: 'longdashdot', // Style of the plot line. Default to solid
+                value: optionRefs.axis[0].targetBenchmark, // Value of where the line will appear
+                width: 2, // Width of the line
+                zIndex: 5,
+                label: {
+                  text: optionRefs.axis[0].targetLabel, // Content of the label.
+                  align: 'left', // Positioning of the label.
+                  style: {
+                    color: 'red',
+                    fontWeight: 'bold',
+                    textShadow: '1px 1px rgba(1, 43, 91, 0.7)'
+                  }
                 }
-              }
-          }]
-        }
+            }]
+          }
       }
     }
 

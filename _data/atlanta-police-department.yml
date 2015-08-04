@@ -10,7 +10,7 @@
       datasource: overall_crime
       targetBenchmark:
       targetLabel:
-      useCsvMetricForXaxisLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -29,6 +29,7 @@
       datasource: crime_by_zone
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: true
       series1-metric: Result
       series1-type: column
@@ -50,6 +51,7 @@
       datasource: e911_call_center
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -64,4 +66,4 @@
       series2-label: Answered Within 10 Seconds
       series2-min:
       series2-max:
-      series2-useCsvMetricForXaxisLabel:
+      series2-useCsvMetricForXaxisLabel: true

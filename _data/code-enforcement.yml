@@ -10,6 +10,7 @@
       datasource: code_customer_service
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -17,7 +18,7 @@
       series1-min:
       series1-max:
       series1-label: Total Service Requests
-      series1-useCsvMetricForXaxisLabel:      
+      series1-useCsvMetricForXaxisLabel:
       series2-metric: Result
       series2-type: line
       series2-format: percentage
@@ -35,6 +36,7 @@
       datasource: code_pm
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -59,6 +61,7 @@
       datasource: code_hh
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -86,6 +89,7 @@
       datasource: code_compliance_complaints
       targetBenchmark:
       targetLabel:
+      targetSeries: 
       series-grouping: true
       series1-metric: Result
       series1-type: column

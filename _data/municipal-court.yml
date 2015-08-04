@@ -10,6 +10,7 @@
       datasource: criminal_cases
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -23,7 +24,7 @@
       series2-format: percentage
       series2-label: Disposed of within 10 days
       series2-min:
-      series2-max:
+      series2-max: 
       series2-useCsvMetricForXaxisLabel:
 
 - group-title: Section II - Traffic Cases
@@ -38,6 +39,7 @@
       datasource: traffic_cases
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column

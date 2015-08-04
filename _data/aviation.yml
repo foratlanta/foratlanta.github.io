@@ -10,6 +10,7 @@
       datasource: passenger_volume
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -35,6 +36,7 @@
       datasource: cargo_volume
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -63,6 +65,7 @@
       datasource: security_wait_times
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -81,6 +84,7 @@
       datasource: customs_processing_time
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: line
