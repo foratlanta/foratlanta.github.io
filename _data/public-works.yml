@@ -10,6 +10,7 @@
     datasource: solid_waste_customer_service
     targetBenchmark:
     targetLabel:
+    targetSeries:
     series-grouping: false
     series1-metric: Volume
     series1-type: column
@@ -35,6 +36,7 @@
     datasource: solid_waste_bin
     targetBenchmark:
     targetLabel:
+    targetSeries:
     series-grouping: false
     series1-metric: Volume
     series1-type: column
@@ -60,6 +62,7 @@
     datasource: solid_waste_dumping
     targetBenchmark:
     targetLabel:
+    targetSeries:
     series-grouping: false
     series1-metric: Volume
     series1-type: column
@@ -85,6 +88,7 @@
     datasource: solid_waste_missed_collections
     targetBenchmark:
     targetLabel:
+    targetSeries:
     series-grouping: false
     series1-metric: Volume
     series1-type: column
@@ -113,6 +117,7 @@
     datasource: solid_waste_operations
     targetBenchmark:
     targetLabel:
+    targetSeries:
     series-grouping: true
     series1-metric: Result
     series1-type: line
@@ -134,6 +139,7 @@
       datasource: transportation_customer_service
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -159,6 +165,7 @@
       datasource: transportation_asphalt
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -184,6 +191,7 @@
       datasource: transportation_concrete
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -210,6 +218,7 @@
       datasource: transportation_signs
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -234,6 +243,7 @@
       datasource: transportation_markings
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -258,6 +268,7 @@
       datasource: transportation_signals
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -283,6 +294,7 @@
       datasource: transportation_lights
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column

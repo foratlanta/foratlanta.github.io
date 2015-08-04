@@ -10,6 +10,7 @@
       datasource: dwm_customer_service
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -35,6 +36,7 @@
       datasource: dwm_new_account_request
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -61,6 +63,7 @@
       datasource: dwm_meter_investigation
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -86,6 +89,7 @@
       datasource: dwm_street_flooding
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -112,6 +116,7 @@
       datasource: dwm_quality_complaint
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -140,6 +145,7 @@
       datasource: estimated_bills
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -158,6 +164,7 @@
       datasource: billing_complaints
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: column
@@ -179,6 +186,7 @@
       datasource: infrastructure
       targetBenchmark:
       targetLabel:
+      targetSeries:
       series-grouping: false
       series1-metric: Result
       series1-type: line
@@ -200,6 +208,7 @@
       datasource: compliance
       targetBenchmark:
       targetLabel:
+      targetSeries: 
       series-grouping: true
       series1-metric: Result
       series1-type: line
