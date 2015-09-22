@@ -60,8 +60,8 @@ $('.report-chart-container').each(function(index, element) {
               seriesBenchmarkTarget = 0;
             }
             dataSet.yAxis[seriesBenchmarkTarget].plotLines = [{
-                color: 'red', // Color value
-                dashStyle: 'longdashdot', // Style of the plot line. Default to solid
+                color: '#666', // Color value
+                dashStyle: 'longdash', // Style of the plot line. Default to solid
                 value: optionRefs.axis[0].targetBenchmark, // Value of where the line will appear
                 width: 2, // Width of the line
                 zIndex: 5,
@@ -69,9 +69,7 @@ $('.report-chart-container').each(function(index, element) {
                   text: optionRefs.axis[0].targetLabel, // Content of the label.
                   align: 'left', // Positioning of the label.
                   style: {
-                    color: 'red',
-                    fontWeight: 'bold',
-                    textShadow: '1px 1px rgba(1, 43, 91, 0.7)'
+                    color: 'black'
                   }
                 }
             }]
