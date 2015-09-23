@@ -3,3 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 permalink: /:categories/:title.html
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
