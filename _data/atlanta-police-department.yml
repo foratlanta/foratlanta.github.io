@@ -49,8 +49,8 @@
       size: full
       department: APD
       datasource: e911_call_center
-      targetBenchmark: .9
-      targetLabel: National benchmark
+      targetBenchmark:
+      targetLabel:
       targetSeries: 2
       series-grouping: false
       series1-metric: Volume
