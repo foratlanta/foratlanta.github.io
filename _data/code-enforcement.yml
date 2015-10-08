@@ -3,7 +3,7 @@
   charts:
     - title: ALL CUSTOMER SERVICE REQUESTS (TOTAL DEPARTMENT)
       summary: The Atlanta office of Code Enforcement receives a number of service requests from the public mostly focused on inspecting suspected housing code violations of property maintenance and highly hazardous housing conditions. Each service request has a time goal for completion. If an inspection results in a violation found, a citation is then sent to the property owner and a judicial process begins. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their completion goal (red).
-      description: The Office has seen an almost 60% increase in the number of service requests completed within time goals vs 2013. This improvement has come as a result of increased reporting of progress to supervisors and a change in the scheduling of service requests.
+      description: The Office has seen a ~70% increase in the number of inspections completed within time goals vs 2013. This improvement has come as a result of increased accountability, better reporting of progress to supervisors and a change in the scheduling of service requests.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: CODE
@@ -29,7 +29,7 @@
 
     - title: Property Maintenance Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests each month from the public to inspect possible property maintenance violations. These include junk vehicles, overgrowth on property, or debris and garbage. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 120 calendar days (red).
-      description: The Office has seen a 60% increase in the number of property maintenance inspections completed within the time goals vs 2013.  Recently, performance has held steadily between 80-90% despite increasing Service Request volumes.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: CODE
@@ -54,7 +54,7 @@
       series2-useCsvMetricForXaxisLabel:
     - title: Highly Hazardous Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests from the public to inspect possible highly hazardous housing conditions. These include broken HVAC, broken windows and doors, and roof collapses without repair attempts. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 58 calendar days (red).
-      description: The Office has seen a 30% increase in the number of highly hazardous inspections completed within the time goals. This improvement has come as overdue requests are closed, as seen in dropping active service request volumes.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: CODE
@@ -82,7 +82,7 @@
   charts:
     - title: Total Code Compliance Complaints and Backlog of Uninspected Complaints
       summary: The Atlanta Office of Code Enforcement receives possible housing code violation notifications from the public through the City’s 311 line. The volume of complaints (red) changes on a seasonal pattern with low points in the colder months and high volume in the summer months.  The number of current cases being investigated outside of time frame goals (blue) bar chart is also shown for each month here.
-      description: The Office has reduced its backlog of inspections to below 500. This is down from a high of almost 1,100 open and out of date cases in September 2013, a reduction of over 50%.  Code complaints are highly seasonal, typically increasing in summer months and decreasing in winter months.
+      description: The Office has sinigifcantly reduced its backlog of past due inspections. The backlog is down from a high of almost 1,100 open and out of date cases in September 2013 to only ~150 in June 2015, a reduction of over 80%. Code complaints are highly seasonal, typically increasing in summer months and decreasing in winter months.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point
       size: full
       department: CODE
