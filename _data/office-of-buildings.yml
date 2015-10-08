@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of customer service requests that the Office of Buildings receives on a monthly basis. It also shows performance in fulfilling those requests on-time each month.
-      description: The graph shows that both volume and performance have been consistent over the past year. The office has an excellent track record of meeting its customer service delivery targets. This is based largely on its performance in building inspections, which make up the bulk of its work on a caseload basis.
+      description: The graph shows that both volume and performance have been consistent over time. The office has an excellent track record of meeting its customer service delivery targets. This is based largely on its performance in building inspections, which make up the bulk of its work on a caseload basis.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
@@ -53,7 +53,7 @@
       series2-useCsvMetricForXaxisLabel:
     - title: Quality Control and Plan Review Efficiency
       summary: Before a permit application is submitted, it goes through a Quality Control Review (QCR). During QCR, the application is reviewed to make sure that all of the necessary paperwork is present and the application is complete. This gives the customer an early opportunity to gather additional documents before starting the formal application process. The goal of QCR is to make the application review process smoother and ultimately quicker.  Once an application has been approved by QCR, it moves to a full plan review.  This chart measures how often an application makes it through each of these phases on the first try, which is a good measure of the Office's ability to accurately communicate plan requirements to applicants.
-      description: The results show a decrease in the percentage of customers that have had their applications approved for submittal after the first QCR review – from 80-percent plus in mid-2013 to just-over 50 percent in April 2014. Plan review approvals upon first review have consistenly stayed between 60-70%.  One interpretation of this result is that the Office needs to better communicate with its customers and the public about the information they need to provide when they are applying for a permit. The Office has noted this performance information and has re-vamped its website to set out more clearly what the information requirements are for different types of permits.
+      description: The results show a decrease in the percentage of customers that have had their applications approved for submittal after the first QCR review – from 80-percent plus in mid-2013 to just over 30 percent as of June 2015. Plan review approvals upon first review have consistenly stayed between 60-75%.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPCD
@@ -74,7 +74,7 @@
   charts:
     - title: Number of Building Permits Issued
       summary: One of the key functions of the Office of Buildings is to issue permits for residential, multifamily and commercial construction, alterations and demolition. This is an important barometer of economic development for the City. The figure shows the number of building permits issued each month. The figures are cumulative so they give a running count for each fiscal year.
-      description: The red line shows the monthly total for building permits issued. Despite some seasonal movement in the month-to-month numbers, there is a clear upward trend over time. Likewise the solid blue (year-to-date) lines indicate that more permits were issued in 2013 than in 2012. 2014 growth has slowed but has not decreased significantly. This is a good sign that the Atlanta economy is recovering after several years of recession.
+      description: The red line shows the monthly total for building permits issued. Despite some seasonal movement in the month-to-month numbers, there is a clear upward trend over time. Likewise the solid blue (year-to-date) lines indicate that more permits were issued in FY 2015 than in FYs 2014, 2013 and 2012. This is a good sign that the Atlanta economy has fully recovered and is again moving forward.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
@@ -100,7 +100,7 @@
 
     - title: Detailed Breakdown of Permit Types
       summary: The figure below gives a breakdown of the permitting data by different permit types. This is important to understand from the standpoint of city operations, since one new multifamily development has a bigger impact on watershed management, transport infrastructure and public safety services than a single new residential home, for example.
-      description: The figure shows that the share of permits has stayed roughly consistent over the past few years, with multifamily permits seeing a slight increase in the past year.
+      description: The figure shows that the share of permits has stayed roughly consistent over the past few years.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPCD
