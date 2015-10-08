@@ -3,7 +3,7 @@
   charts:
   - title: All Customer Service Requests (All Solid Waste)
     summary: The Office of Solid Waste Services is responsible for the collection and disposal of solid waste within the City of Atlanta. Additionally, the office provides vacant lot clean-up, maintenance of various rights-of-way specified in the Atlanta City Code, enforcement of the City's lawn maintenance and yard trimming disposal policies and dead animal removal and disposal. The office oversees landfill operations and the City’s recycling program, and assists in citywide emergency operations.
-    description: With an average of more than 2,000 service requests per month, Solid Waste Services has greatly improved how quickly the Office responds to citizen requests and is now above target. Since March of 2014, the Office has consistently hit its target of resolving 90% of Service Requests within target timeframe.  Performance dips in January and February can be attributed to the cold weather emergencies during those months.
+    description:
     note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -29,7 +29,7 @@
 
   - title: Bin Delivery and Pickup Service Requests
     summary: The City supplies a 96 gallon green garbage can and a 96 gallon blue recycling bin to all new residents (single-family), and replacement bins for a cost to those who request them.
-    description: With an average of over 1,000 requests per month, bins are delivered within 7 days nearly every time.
+    description: Bins are consistently delivered within 7 days.
     note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
@@ -55,7 +55,7 @@
 
   - title: Illegal Dumping Service Requests
     summary: The City of Atlanta collects illegal dumping from the city right-of-way and from the City's known dump sites. If the dump site is causing a visibility issue in the public right-of-way, the City will remove the obstruction within 2 - 15 days, depending on the level of hazard presented.
-    description: The Office handles an average of over 50 requests per month and performance has been trending upwards, exceeding its 90% target in every month since March 2014.
+    description: The Office handles an average of over 50 requests per month and performance has exceeded its 90% target in every month since March 2014.
     note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: half
     department: DPW
@@ -81,7 +81,7 @@
 
   - title: Missed Collections Service Requests
     summary: The City makes an estimated 360,000 garbage, recycle, and yard trimming collections per month. In the event that a collection is reported as missed, Solid Waste Services will double back that same day to collect the missed bin.
-    description: With an average of slightly under 1,000 missed collection requests per month (less than 0.5% of total bins collected per month), performance has trended upwards and has been above its 90% target for most of 2014.
+    description: Missed collections pickup performance has been above its 90% target for most of 2014 and 2015.
     note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
     size: full
     department: DPW
@@ -132,7 +132,7 @@
   charts:
     - title: All Customer Service Requests (All Transportation)
       summary: The Office of Transportation is responsible for overseeing and maintaining the City's street network. This office includes traffic engineering, street operations, traffic signals, street lights, street signs, street maintenance, on-street parking management, and capital/infrastructure improvement projects.
-      description: With an average of almost 2,000 Service Requests per month, the Office’s performance has fluctuated between ~65-85% of requests resolved within target timeframes. The Office is committed to meeting a target of 90% by the end of 2014.  They have adjusted staffing plans and begun to make other operational improvements to achieve this goal.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPW
@@ -158,7 +158,7 @@
 
     - title: Asphalt and Street Repair Service Requests
       summary: The City maintains and repairs approximately 1,700 miles of streets, and will investigate and repair any reported issues, including potholes, point repairs, and major asphalt repairs.
-      description: With an average of over 400 requests per month, performance hovered around 70% through most of 2014.  Recently, performance has improved significantly.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -184,7 +184,7 @@
 
     - title: Concrete Repair Service Requests
       summary: The Office of Transportation, often in cooperation with neighborhood associations, endeavors to repair and maintain the City’s more than 2,000 miles of sidewalks and curbs when requested by citizens.
-      description: The City receives an average of ~200 requests per month. Performance has fluctuated significantly throughout the year, and has dropped off recently as the volume of service requests increased sharply.  The Office has adjusted staffing plans to account for this and expects performance to improve before the end of 2014.
+      description: Performance improved significantly in 2015 as the Department received additional funding for sidewalk and other concrete repairs.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -210,7 +210,7 @@
 
     - title: Street Sign Repair and Replacement Service Requests
       summary: If a street sign is reported as in need of repair or replacement (e.g. broken, blotted out, removed), a transportation inspector will investigate and order a repair or replacement as needed.
-      description: With 200-400 requests per month, performance trended up through the beginning of 2014 before dropping back down in the middle of the year.  Performance has again improved recently as the Office has focused its efforts on closing our service requests.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       summary:
@@ -236,7 +236,7 @@
       series2-useCsvMetricForXaxisLabel:
     - title: Street Markings Service Requests
       summary: If markings on the street are worn or missing (including lane dividers, crosswalks, bike lanes) the Office of Transportation will draw new markings as appropriate.
-      description: With an average of ~50 requests per month, performance has demonstrated a distinct upward trend since the start of 2014.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -261,7 +261,7 @@
       series2-useCsvMetricForXaxisLabel:
     - title: Traffic Signal Repair Service Requests
       summary: If a street light is reported as out or not functioning properly (including red, yellow, green traffic lights, flashers, and crosswalk signals), the city will repair and replace as appropriate.
-      description: With anywhere between 500-950 requests per month, the Office can regularly meet target of between 1-23 days (depending on the urgency of traffic) over 90% of the time.
+      description: The department regularly meets its target of repair between 1-23 days (depending on the amount of traffic) over 90% of the time.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
@@ -287,7 +287,7 @@
 
     - title: Street Light Repair Service Requests
       summary: The City will repair and replace necessary aspects of street lights (including flickering lights, bulb out or missing) so long as the light is on a metal pole, which indicates the pole is managed by the City of Atlanta.
-      description: Street Light repair is usually above its 90% target but fluctuates greatly following bad weather, which can significantly increase the volume of Service Requests.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPW
