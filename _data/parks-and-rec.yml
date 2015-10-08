@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
-      description: The number of Service Requests the Department receives tends to fluctuate seasonally betweem 1,000-2,000 per month.  Performance on completing these requests within target timeframes has shown a distinct upward trend since the start of 2014.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -81,7 +81,7 @@
 
     - title: Skilled Services Service Requests
       summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
-      description: The skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. Performance has been below target but has recently trended sharply upwards as total volume decreased and the Department addressed staffing and other operational issues.
+      description: The skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. Performance has recently trended upwards as total volume decreased and the Department addressed staffing and other operational issues.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
@@ -111,7 +111,7 @@
     - title: Scheduled Maintenance Completed on Schedule
       summary: Park Maintenance is handled by Park District Operations and is divided by quadrants. Parks are maintained on a ten day maintenance schedule. Parks maintenance includes mowing, blowing, trimming of shrubbery, and trash removal. The chart below shows the percentage of scheduled park mowing, mulching, pruning, trash pickup that is completed on schedule.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
-      description: Litter and garbage removal have remained consistently at or above 90%. Mulching, mowing, trimming and blowing hit 90% in the peak summer months but drop towards 50% in the winter as the Department ramps down on seasonal employees to complete these activities.  It should be noted that the volume of these activities is extremely cyclical, with volumes significantly increasing in the spring and summer months.
+      description: Litter and garbage removal have remained consistently at or above 90%. Mulching, mowing, trimming and blowing hit 90% in the peak summer months but drop towards 50% in the winter as the Department ramps down on seasonal employees to complete these activities. Volume of these activities is extremely cyclical, with volumes significantly increasing in the spring and summer months.
       size: full
       department: DPR
       datasource: park_maintenance
@@ -132,7 +132,7 @@
   charts:
     - title: Recreation Center Attendance
       summary: The chart below shows total attendance at Recreation facilities, as captured through the Department's iParks application.
-      description: Since the Department started tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 36,000-55,000.  This number fluctuates significantly based on seasonality, with higher numbers coming in summer months.
+      description: Since the Department started tracking attendance data via its iParks application in July 2014, recreation center visits have ranged from 28,000-55,000.  This number fluctuates significantly based on seasonality, with higher numbers coming in summer months.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DPR
@@ -167,7 +167,7 @@
 
     - title: Youth Attendance and Programming
       summary: The department offers an array of diverse programs for youth that will improve academic and athletic performance while building character and sharpening social skills. The chart below shows the total youth being served by After School and Camp Best Friends (blue) and other Recreation Center (red) Programming such as swim lessons, sports and tots programs.
-      description: With new investments in facilities and programming, led by the Mayor's Centers of Hope initiative, youth attendance peaked at over 3,000 per month in the summer of 2014.
+      description: With new investments in facilities and programming, led by the Mayor's Centers of Hope initiative, youth attendance peaked at over 3,000 per month in the summer months.
       note: Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DPR
