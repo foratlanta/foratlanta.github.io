@@ -3,7 +3,7 @@
   charts:
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of all customer service requests that the Department of Watershed Management (DWM) receives on a monthly basis. [This covers every element of the Department’s operations – from billing queries to leaking hydrant complaints and reports of missing street plates.] It also shows DWM’s performance in fulfilling those requests on time each month.
-      description: Since August 2014, the Department has completed between 65-70% of all service requests within target timeframe each month.  Service request volume has held fairly steady between ~6,000-6,500 each month, though these numbers are highly seasonal and are expected to change.
+      description:
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
@@ -29,7 +29,7 @@
 
     - title: Turning On New Account Service Requests
       summary: This figure measures the number of new customer account requests that DWM receives each month. It also measures the Department’s responsiveness in activating those accounts within 24 hours of the request being made.
-      description: DWM has consistently activated nearly 100 percent of new accounts on time in every month. The volume of customer requests for new accounts has fluctuated between 800-1000 per month. The total number of active customer accounts is around 150,000.
+      description: DWM has consistently activated nearly 100 percent of new accounts on time in every month. The total number of active customer accounts is ~150,000.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -82,7 +82,7 @@
 
     - title: Street Flooding Inspection Service Requests
       summary: This figure measures DWM’s responsiveness to customer service calls about water pooling in city streets. Because this pooling can be a symptom of several different problems, the first course of action is always for Watershed staff to inspect the site and determine the root cause of the problem. DWM has a goal of responding to all such customer calls and initiating an inspection within 4 hours.
-      description: The Department's performance has fluctuated between 60-80% each month.  The absolute value of these fluctuations are relatively small, as service request volumes average under 100 per month.  This metric is seasonal and volume tends to increase in rainier months.
+      description: The Department's performance has fluctuated between 60-80% each month. This metric is seasonal and volume tends to increase in rainier months.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -109,7 +109,7 @@
 
     - title: Drinking Water Quality Complaint Service Requests
       summary: This figure reports the number of customer complaints received by DWM about the quality of its drinking water. The Department’s target is to resolve each complaint within 8 hours of it being reported.
-      description: The Department’s performance has improved each month. The overall number of complaints received – a max of 200 complaints in August – represents less than 0.1% of all customers.
+      description: The Department’s performance has improved in almost each month. The overall number of complaints received – a max of 200 complaints in August 2014 – represents less than 0.1% of all customers.
       note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -138,7 +138,7 @@
   charts:
     - title: Estimated Bills as a Percent of Bills Issued
       summary: The Department has made a big effort over recent years to move away from estimating monthly bills and instead provide accurate bills based on actual water consumption. This metric tracks the Department’s progress in moving all customers away from estimated bills.
-      description: The figure shows the great progress that the Department has made in recent years. From 10% in May 2009, monthly results are now consistently below 1% and DWM is on track to meet its target of only 0.5% of customer bills being estimated.
+      description:
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -157,7 +157,7 @@
 
     - title: Billing Complaints per 1000 Accounts
       summary: This figure shows the number of billing complaints the Department receives from customers each month.
-      description: The results show that in September 2014, DWM received approximately 5 complaints per thousand customers. This is a measure of the accuracy of the new small meter billing system that has been rolled out across the city.
+      description:
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: half
       department: DWM
@@ -179,7 +179,7 @@
   charts:
     - title: Water System Breaks and Sewage Spills
       summary: This figure tracks the condition of Atlanta’s water distribution system by measuring the number of water breaks per 100 miles of pipe and sewage spills per 100 miles of sewer.  These metrics are good indicators of the health of the City's overall water system infrastructure.
-      description: The results show the number of breaks trending down over the period until October 2012. Following a six month period of increasing breaks, the number is again trending down to around 13. This indicates approximately one break for every 10 miles of Atlanta’s distribution system piping each year.  Since the start of 2014, sewage spills have decreased and held consistently between 7-8 spills per 100 miles of sewer.
+      description:
       note: Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
       size: full
       department: DWM
