@@ -1,4 +1,7 @@
 # Focus On Results Atlanta
+
+![Build Status](https://travis-ci.org/foratlanta/foratlanta.github.io.svg?branch=master)
+
 ### City Performance Metrics
 ================
 This repository is for display and visualization of City performance data as tracked by FOR Atlanta. 
