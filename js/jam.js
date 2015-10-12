@@ -84,7 +84,7 @@ var Jam = (function() {
                     if (!_.isEmpty(yAxisOptions.axis[1]) && (axis.useCsvMetricForXaxisLabel == undefined || axis.useCsvMetricForXaxisLabel == false)) {
                         set.name = axis.label
                     }
-                    console.log(set);
+
                     series.push(set);
                 });
             }
