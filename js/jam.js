@@ -61,14 +61,20 @@ var Jam = (function() {
                         useCsvMetricForXaxisLabel: axis.label,
                         data: _.map(item.vals, function(element) {
                             var rDate = new Date(Date.parse(element.Date));
+                            colorValue = null;
                             additionalInfo = element.Explanation;
                             xVal = Date.UTC(rDate.getFullYear(), rDate.getMonth());
                             yVal = (_.isNumber(element[axis.metric]) && !_.isNaN(element[axis.metric])) ? element[axis.metric] : 0;
+
+                            if (element.Explanation.length > 0) {
+                              colorValue = '#cc0000';
+                            }
 
                             return {
                                 x: xVal,
                                 y: yVal,
                                 yFormat:axis.format,
+                                color: colorValue,
                                 xFormat:rDate,
                                 explanation: additionalInfo
                             }
@@ -78,6 +84,7 @@ var Jam = (function() {
                     if (!_.isEmpty(yAxisOptions.axis[1]) && (axis.useCsvMetricForXaxisLabel == undefined || axis.useCsvMetricForXaxisLabel == false)) {
                         set.name = axis.label
                     }
+
                     series.push(set);
                 });
             }
