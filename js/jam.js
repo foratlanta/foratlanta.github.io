@@ -75,6 +75,7 @@ var Jam = (function() {
                                 y: yVal,
                                 yFormat:axis.format,
                                 color: colorValue,
+                                fillColor: colorValue,
                                 xFormat:rDate,
                                 explanation: additionalInfo
                             }
