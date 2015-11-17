@@ -49,7 +49,7 @@
       size: full
       department: APD
       datasource: e911_call_center
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
       targetSeries: 2
       series-grouping: false
