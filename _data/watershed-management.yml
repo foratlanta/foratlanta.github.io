@@ -4,13 +4,13 @@
     - title: All Customer Service Requests (Total Department)
       summary: This figure shows the total volume of all customer service requests that the Department of Watershed Management (DWM) receives on a monthly basis. [This covers every element of the Department’s operations – from billing queries to leaking hydrant complaints and reports of missing street plates.] It also shows DWM’s performance in fulfilling those requests on time each month.
       description:
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: full
       department: DWM
       datasource: dwm_customer_service
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -23,8 +23,8 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
     - title: Turning On New Account Service Requests
