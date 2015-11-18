@@ -4,13 +4,13 @@
     - title: All Customer Service Requests (Total Department)
       summary: The City tracks at a high level the amount of services requested by citizens (including arborist, forestry, and skilled services) that have been completed on time in accordance with their Service Level Agreement (ranging from a few hours to several days, depending on the task). The chart below shows the total customer-initiated service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right)
       description:
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: full
       department: DPR
       datasource: dpr_customer_service
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -23,20 +23,20 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
     - title: Arborist Service Requests
       summary: Tree Inspections are conducted by City of Atlanta Parks and Recreation Department arborists for trees in the public right of way. Arborists evaluate trees to determine if they are dead, dying, diseased or hazardous and require maintenance such as pruning or removal. The chart below shows the total customer-initiated arborist inspection requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
       description: Arborist Service Requests vary greatly by season, but the team is usually near or above target of 90% regardless of volume.
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: half
       department: DPR
       datasource: dpr_arborist
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -49,20 +49,20 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
     - title: Forestry Service Requests
       summary: Forestry is responsible for clearing tree obstructions from blocking sidewalks, streets and the public right-of-way. Forestry is responsible for removing down trees or tree debris from private property when it is determined that tree or branches fell from city property onto private property. The chart below shows total customer-initiated forestry service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
       description: The largest drivers of performance are tree takedowns and pruning. The increased workload of downed trees from several back to back storms started the team well below target of 90% in 2014, but performance has trended upwards as the team has worked through the backlog.
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: half
       department: DPR
       datasource: dpr_forestry
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -75,20 +75,20 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
     - title: Skilled Services Service Requests
       summary: When facilities and park assets are reported as in need of repair or maintenance, the skilled services team investigates the source of the problem and makes necessary changes. The chart below shows total customer-initiated skilled services service requests (blue, left) and the percentage of those service requests that were resolved within the Department's target timeframes (red, right).
       description: The skilled services team maintains over 33 recreation centers and many more facilities such as playgrounds, gazebos, and basketball courts. Performance has recently trended upwards as total volume decreased and the Department addressed staffing and other operational issues.
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: full
       department: DPR
       datasource: dpr_skilled
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -101,8 +101,8 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
 - group-title: Section II - Park Maintenance
