@@ -71,8 +71,8 @@
       series1-type: line
       series1-format: percentage
       series1-label: Under Target Wait Time
-      series1-min:
-      series1-max:
+      series1-min: 0
+      series1-max: 1
       series1-useCsvMetricForXaxisLabel:
 
     - title: Average Customs Processing Times

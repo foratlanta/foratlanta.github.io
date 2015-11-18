@@ -4,13 +4,13 @@
     - title: ALL CUSTOMER SERVICE REQUESTS (TOTAL DEPARTMENT)
       summary: The Atlanta office of Code Enforcement receives a number of service requests from the public mostly focused on inspecting suspected housing code violations of property maintenance and highly hazardous housing conditions. Each service request has a time goal for completion. If an inspection results in a violation found, a citation is then sent to the property owner and a judicial process begins. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their completion goal (red).
       description: The Office has seen a ~70% increase in the number of inspections completed within time goals vs 2013. This improvement has come as a result of increased accountability, better reporting of progress to supervisors and a change in the scheduling of service requests.
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: full
       department: CODE
       datasource: code_customer_service
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -23,20 +23,20 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 
     - title: Property Maintenance Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests each month from the public to inspect possible property maintenance violations. These include junk vehicles, overgrowth on property, or debris and garbage. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 120 calendar days (red).
       description:
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: half
       department: CODE
       datasource: code_pm
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -49,19 +49,19 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
     - title: Highly Hazardous Inspection Service Requests
       summary: The Atlanta Office of Code Enforcement receives a number of service requests from the public to inspect possible highly hazardous housing conditions. These include broken HVAC, broken windows and doors, and roof collapses without repair attempts. The chart below shows the total volume of active service requests for a month (blue) and the percent of those that are within their inspection completion goal of 58 calendar days (red).
       description:
-      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point.
+      note: In any given month, the "Total Service Requests" metric is defined as the sum of the number of Service Requests closed during the month and the number of Service Requests open as of the end of the month.  Volume is calculated this way to ensure that open Service Requests continue to count towards performance until they are closed. <br><br>Add or remove data points by clicking on the name in the index above. Hover your cursor over the results in the above chart for more information. A pop-up box will display month, year, measure, and result for each data point. The dashed black line represents the metric's performance benchmark target.
       size: half
       department: CODE
       datasource: code_hh
-      targetBenchmark:
+      targetBenchmark: .9
       targetLabel:
-      targetSeries:
+      targetSeries: 2
       series-grouping: false
       series1-metric: Volume
       series1-type: column
@@ -74,8 +74,8 @@
       series2-type: line
       series2-format: percentage
       series2-label: Resolved Within Target Timeframe
-      series2-min:
-      series2-max:
+      series2-min: 0
+      series2-max: 1
       series2-useCsvMetricForXaxisLabel:
 - group-title: Section II - Inspection Volume
   group-description:
